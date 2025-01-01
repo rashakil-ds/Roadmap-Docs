@@ -187,7 +187,7 @@
 2. Preprocess and clean data using **Python** and **Pandas**.
 3. Analyze the data using **Statistics** and **Machine Learning**.
 4. Visualize insights with **Power BI**, **Tableau**, or **Matplotlib**.
-5. [`Deploy`](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdPhZ4k_hu7Rv3sjyi3IPtu) ML models using Flask/FastAPI or PowerBi dashboards for business use.
+5. [`Deploy` ML models using Flask/FastAPI]((https://www.youtube.com/playlist?list=PLKdU0fuY4OFdPhZ4k_hu7Rv3sjyi3IPtu) or `PowerBi` dashboards for business use.
 
 By following this roadmap step-by-step, you’ll gain the skills needed to succeed as a `Data Scientist`. Let me know if you’d like additional resources or specific examples! Just write an `email` to me.
 
