@@ -94,19 +94,24 @@
 - Supervised Learning:
   - Linear Regression, Logistic Regression, Polynomial Regression, Lasso, Ridge.
   - KNN, Decision Trees, Naive Bayes, Support Vector Machines (SVM), Random Forest, Extra Trees Classifier.
-  - Loss & Cost function, R Squared, Confusion Matrix.
+  - Norm, Loss & Cost function, R Squared, Confusion Matrix.
 - Unsupervised Learning:
   - Clustering (K-means, DBSCAN).
   - Dimensionality Reduction (PCA, t-SNE).
+- Time Series Analysis
+  - Forecasting trends and seasonality.
+  - ARIMA models and other time series techniques.
 - Advanced Concepts:
   - Ensemble methods (Boosting, Bagging).
+  - Regularizations
+  - Data Sampling Methods
   - Gradient Descents
   - Hyperparameter tuning
   - Cross-validation.
 
 ### **Resources**
-- [Machine Learning Module](https://aiquest.org/courses/machine-learning-specialization/)
-- [Machine Learning Playlist by StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK4hRs0TfkrzZN00m20sIRU)
+- [Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
+- [Machine Learning Module](https://aiquest.org/courses/data-science-machine-learning/)
 - Practice using Python's `sklearn` and Kaggle competitions.
 
 ---------------------------------------------
@@ -119,12 +124,15 @@
 
 ### **What to Learn?**
 - Basics: Neural Networks (Perceptron, Feedforward, Backpropagation).
-- Architectures: CNNs (for images), RNNs (for sequences), Transformers (for NLP).
+- Architectures: ANN (for normal task), CNNs (for images), RNNs (for sequences), Transformers (for NLP).
+- Transfer Learning, Fine-tuning
+- GD Optimizers, Regularization and Generalization
 - Frameworks: TensorFlow, Keras, PyTorch.
 
 ### **Resources**
-- [Deep Learning Specialization](https://aiquest.org/courses/deep-learning-specialization/)
-- [Introduction to Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFd9q01pJ2iRZBiIybRnVaXZ)
+- [YouTube Videos](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
+- [Another YouTube](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+- [Basic to Advanced Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 ---------------------------------------------
 
