@@ -134,9 +134,9 @@
 - [Google Data Studio](https://www.youtube.com/playlist?list=PL6_D9USWkG1BDcnnbw4gfolY0zms3svSi).
 - [Tableau/Looker Studio Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 
----------------------------------
+---------------------------------------------
 
-## **Step 7: Statistical Machine Learning (Just Recommended)**
+## **Step 7: Statistical Machine Learning for Advanced Analytics (Recommended)**
 
 ### **Why Learn Statistical Machine Learning?**
 - To understand predictive analytics, regression, and time series forecasting.
