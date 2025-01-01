@@ -42,6 +42,10 @@
 - Practice with Python datasets on Kaggle or public repositories.
 
 -----------------------------------------------
+### Addition Language (Recommended): 
+- Java
+- C++
+-----------------------------------------------
 ## **Step 2: SQL**
 
 ### **Why Learn SQL?**
@@ -56,7 +60,6 @@
 ### **Resources**
 - [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
 - [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
-- [SQL Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - Tools like MySQL Workbench, SQLite, or PostgreSQL.
   
 -----------------------------------------------
@@ -125,6 +128,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ### **Resources**
 - [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
+- [Another DL Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Basic to Advanced Deep Learning](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 ---------------------------------------------
@@ -157,6 +161,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - Essential for handling large datasets in production environments.
 
 ### **What to Learn?**
+- **Git & GitHub**
 - **Big Data Tools:**
   - Apache Spark, Hadoop.
 - **Distributed Computing:**
@@ -178,11 +183,14 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ### **Ideas for Projects**
 1. **Machine Learning:**
-   - Predict housing prices using regression models.
+   - Predict stock prices using regression models.
    - Fraud detection in financial transactions.
+   - Recommendation systems
 2. **Deep Learning:**
    - Build an image classification model using CNNs.
    - Create a sentiment analysis model with Transformers.
+   - Object detection using YOLO/Faster R-CNN
+   - Design a Chatbot using Generative AI
 3. **MLOps:**
    - Deploy a machine learning model using Flask/FastAPI.
    - Build a CI/CD pipeline for model retraining.
