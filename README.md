@@ -2,7 +2,7 @@
 
 Welcome to the **Roadmap** repository! 
 
-To succeed in any career, it's very important to understand the roadmap, required skills, and timeline for the role. This approach minimizes wasted time and ensures you focus on learning the exact skills needed to get a job. This repository aims to provide comprehensive roadmaps for various roles in the **Data Analytics**, **Data Science**, and **Artificial Intelligence** industry. Whether you're a student, a professional, or just curious, these guides are designed to help you navigate your learning and career journey with clarity and confidence.
+To succeed in any career, it's **very important** to understand the **roadmap, required skills, and timeline** for the role. This approach minimizes wasted time and ensures you focus on learning the exact skills needed to get a job. This repository aims to provide comprehensive roadmaps for various roles in the **Data Analytics**, **Data Science**, and **Artificial Intelligence** industry. Whether you're a student, a professional, or just curious, these guides are designed to help you navigate your learning and career journey with clarity and confidence.
 
 ## About the Author
 
