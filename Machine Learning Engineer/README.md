@@ -41,8 +41,25 @@
 - Practice with Python datasets on Kaggle or public repositories.
 
 -----------------------------------------------
+## **Step 2: SQL**
 
-## **Step 2: Mathematics for Machine Learning**
+### **Why Learn SQL?**
+- Essential for querying, extracting, and joining data from relational databases.
+- Used to preprocess and prepare data before modeling.
+
+### **What to Learn?**
+- Basics: SELECT, INSERT, UPDATE, DELETE.
+- Intermediate: Joins (INNER, LEFT, RIGHT, FULL), subqueries.
+- Advanced: Window functions, CTEs (Common Table Expressions), and query optimization.
+
+### **Resources**
+- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
+- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
+- [SQL Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
+- Tools like MySQL Workbench, SQLite, or PostgreSQL.
+  
+-----------------------------------------------
+## **Step 3: Mathematics for Machine Learning**
 
 ### **Why Learn Mathematics for Machine Learning?**
 - Provides the theoretical foundation for machine learning algorithms.
@@ -65,7 +82,7 @@
 
 -----------------------------------------------
 
-## **Step 3: Machine Learning**
+## **Step 4: Machine Learning**
 
 ### **Why Learn Machine Learning?**
 The core responsibility of an ML engineer is building, optimizing, and scaling ML models.
@@ -90,7 +107,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---------------------------------------------
 
-## **Step 4: Deep Learning**
+## **Step 5: Deep Learning**
 
 ### **Why Learn Deep Learning?**
 - Powers advanced AI applications such as image recognition, NLP, and generative models.
@@ -111,7 +128,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---------------------------------------------
 
-## **Step 5: MLOps and Model Deployment**
+## **Step 6: MLOps and Model Deployment**
 
 ### **Why Learn MLOps?**
 - Ensures models are production-ready, scalable, and maintainable.
@@ -133,7 +150,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---------------------------------------------
 
-## **Step 6: Scalable Data Processing**
+## **Step 7: Scalable Data Processing**
 
 ### **Why Learn Scalable Data Processing?**
 - Essential for handling large datasets in production environments.
@@ -152,7 +169,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---------------------------------------------
 
-## **Step 7: Projects**
+## **Step 8: Projects**
 
 ### **Why Work on Projects?**
 - Demonstrates your ability to build and deploy end-to-end ML solutions.
