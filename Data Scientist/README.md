@@ -93,7 +93,7 @@
 ### **What to Learn?**
 - Supervised Learning:
   - Linear Regression, Logistic Regression, Polynomial Regression, Lasso, Ridge.
-  - KNN, Decision Trees, Naive Bayes, Support Vector Machines (SVM), Random Forest, LDA, Extra Trees Classifier.
+  - KNN, Decision Trees, Naive Bayes, Support Vector Machines (SVM), Random Forest, LDA, Extra Trees Classifier, LightGBM.
   - Norm, Loss & Cost function, R Squared, Confusion Matrix.
 - Unsupervised Learning:
   - Clustering (K-means, DBSCAN).
