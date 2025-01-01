@@ -1,7 +1,7 @@
 # Data Scientist Roadmap 2025/26
 
 ## **Understand the Role of Data Scientist**
-- `Data Scientist` ≈ `Experienced Data Analyst` + `Machine Learning & AI Expert`
+- `Data Scientist` ≈ `Experienced Data Analyst` + `Machine Learning & AI Expert` 😊 Yes, It's True!
   
 ### **What does a Data Scientist do?**
 - Collect, clean, analyze, and interpret large datasets to provide actionable insights.
