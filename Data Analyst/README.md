@@ -192,6 +192,8 @@
 4. Visualize insights with **Power BI**, **Tableau**, or **Data Studio**.
 5. Showcase results in a project or portfolio.
 
+By following this roadmap step-by-step, you’ll gain the skills needed to succeed as a Data Analyst. Let me know if you’d like additional resources or specific examples!
+
 # About the Author
 **Rashedul Alam Shakil**  
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
@@ -202,4 +204,3 @@
 # Other Roadmaps
 - [Read Now](https://github.com/rashakil-ds/Roadmap-Docs)
 
-By following this roadmap step-by-step, you’ll gain the skills needed to succeed as a Data Analyst. Let me know if you’d like additional resources or specific examples!
