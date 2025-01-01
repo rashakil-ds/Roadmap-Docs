@@ -199,4 +199,7 @@
 - 🤖 Founder of [aiQuest Intelligence](https://aiquest.org/)  
 - 💼 Works at Siemens Energy, Germany  
 
+# Other Roadmaps
+- [Read Now](https://github.com/rashakil-ds/Roadmap-Docs)
+
 By following this roadmap step-by-step, you’ll gain the skills needed to succeed as a Data Analyst. Let me know if you’d like additional resources or specific examples!
