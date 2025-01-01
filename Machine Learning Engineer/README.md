@@ -201,7 +201,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - [Data.gov](https://catalog.data.gov/dataset/)
 
 -------------------------------------------------------------
-## Additional Skills (Mandatory for GenAI Domain)
+## Additional Skills (Mandatory for GenAI LLMs Domain)
 - [Hugging Face](https://huggingface.co/models)
 - [LangChain](https://python.langchain.com/docs/introduction/)
 - At least one `Vector Database`
