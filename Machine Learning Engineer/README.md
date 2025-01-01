@@ -205,8 +205,12 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - [Hugging Face](https://huggingface.co/models)
 - [LangChain](https://python.langchain.com/docs/introduction/)
 - At least one `Vector Database`
+  
 -------------------------------------------------------------
+## Additional Skills (Mandatory for Computer Vision Domain)
+- [Learn OpenCV](https://opencv.org/)
 
+-------------------------------------------------------------
 ## **Final Note: Workflow Integration**
 1. Extract data using **SQL** or data engineering tools.
 2. Preprocess and clean data using **Python**.
