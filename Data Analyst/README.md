@@ -12,31 +12,33 @@
 - Data analysis and visualization.
 - Reporting and communication.
 
+-------------------------------------------------
+
 ## **Step 1: Python & Python Libraries**
 
 ### **Why Learn Python?**
 - Python is the most versatile language for data analysis and manipulation.
 - Widely used in data analytics for automating tasks, manipulating data, and creating visualizations.
-- Also for statistical Machine Learning with `sklearn` library.
+- Also used for **Statistical Machine Learning** with the `sklearn` library.
 
 ### **What to Learn?**
 - **Python Basics**
   - Variables, data types, loops, conditionals, and functions.
 - **Libraries**
   - **NumPy:** For numerical computations.
-  - **Pandas:** For data manipulation (DataFrames, cleaning data, handling dataset).
+  - **Pandas:** For data manipulation (DataFrames, cleaning data, handling datasets).
   - **Matplotlib/Seaborn:** For creating visualizations.
   - **Plotly:** For interactive visualizations.
   - **Jupyter Notebooks:** For organizing and presenting your code.
 
 ### **Resources**
 - [Official Docs](https://docs.python.org/3/tutorial/index.html)
-- [Python Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
+- [This Python Playlist is Sufficient for Data Analyst](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
 - [Python Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - [For Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
 - Practice with Python datasets.
 
----------------------------------------
+-----------------------------------------------
 
 ## **Step 2: SQL**
 
@@ -55,7 +57,7 @@
 - [SQL Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - Tools like MySQL Workbench, SQLite, or PostgreSQL.
 
---------------------------------------
+-----------------------------------------------
 
 ## **Step 3: Statistics**
 
@@ -75,7 +77,7 @@
 - [Statistics Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - Practice using Python (NumPy and SciPy) or Excel.
 
----------------------------------
+-------------------------------------------------------
 
 ## **Step 4: Excel**
 
@@ -94,7 +96,8 @@
 - [Excel Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - Practice creating small dashboards and reports.
 
-----------------------------------------
+
+------------------------------------------------
 
 ## **Step 5: Power BI**
 
@@ -113,7 +116,7 @@
 - [PowerBi Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - Practice by replicating real-world dashboards using sample datasets.
 
------------------------------------------
+------------------------------------------
 
 ## **Step 6: Tableau / Data Studio**
 
@@ -131,9 +134,29 @@
 - [Google Data Studio](https://www.youtube.com/playlist?list=PL6_D9USWkG1BDcnnbw4gfolY0zms3svSi).
 - [Tableau/Looker Studio Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 
-----------------------------------------------
+---------------------------------
 
-## **Step 7: Projects**
+## **Step 7: Statistical Machine Learning (Just Recommended)**
+
+### **Why Learn Statistical Machine Learning?**
+- To understand predictive analytics, regression, and time series forecasting.
+- Provides a statistical foundation for machine learning models.
+
+### **What to Learn?**
+- **Regression Analysis**:
+  - Linear and logistic regression.
+  - Multivariate regression techniques.
+- **Time Series Analysis**:
+  - Forecasting trends and seasonality.
+  - ARIMA models and other time series techniques.
+
+### **Resources**
+- [Statistical Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
+- Practice with Python's `sklearn` and `statsmodels` libraries.
+
+-----------------------------------------------------------
+
+## **Step 8: Projects**
 
 ### **Why Work on Projects?**
 - Practical experience to apply all the skills learned.
@@ -153,9 +176,9 @@
    - Use Python for data cleaning, SQL for data extraction, and Power BI/Tableau for visualization.
 
 ### **Where to Find Data?**
-- Kaggle, UCI Machine Learning Repository, Data.gov, .
+- Kaggle, UCI Machine Learning Repository, Data.gov.
 
----------------------------------------------------------
+---------------------
 
 ## **Final Note: Workflow Integration**
 1. Extract data using **SQL**.
@@ -164,5 +187,4 @@
 4. Visualize insights with **Power BI**, **Tableau**, or **Data Studio**.
 5. Showcase results in a project or portfolio.
 
-By following this roadmap step-by-step, you’ll gain the skills needed to succeed as a Data Analyst. Let me know if you’d like additional resources or specific examples! 
-
+By following this roadmap step-by-step, you’ll gain the skills needed to succeed as a Data Analyst. Let me know if you’d like additional resources or specific examples!
