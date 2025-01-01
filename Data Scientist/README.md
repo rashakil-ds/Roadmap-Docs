@@ -116,7 +116,7 @@
 
 ---------------------------------------------
 
-## **Step 5: Deep Learning (Optional)**
+## **Step 5: Deep Learning (Intermediate)**
 
 ### **Why Learn Deep Learning?**
 - For advanced AI applications such as image recognition, NLP, and generative models.
@@ -150,7 +150,7 @@
 
 ### **Resources**
 - [Power BI Tutorials](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys)
-- [Tableau/Looker Studio Module](https://aiquest.org/courses/data-analysis-specialization/)
+- [PowerBi, Tableau/Looker Studio Module](https://aiquest.org/courses/data-analysis-specialization/)
 
 ---------------------------------------------
 
