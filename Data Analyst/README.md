@@ -1,5 +1,17 @@
 # Data Analyst Roadmap 2025/26
 
+## Understand the Role of Data Analyst**
+
+### **What does a Data Analyst do?**
+- Collect, clean, and analyze data to provide actionable insights.
+- Use tools to create reports, dashboards, and visualizations.
+- Collaborate with stakeholders to make data-driven decisions.
+
+### **Responsibilities**
+- Data collection and preparation.
+- Data analysis and visualization.
+- Reporting and communication.
+
 ## **Step 1: Python & Python Libraries**
 
 ### **Why Learn Python?**
@@ -20,7 +32,8 @@
 ### **Resources**
 - [Official Docs](https://docs.python.org/3/tutorial/index.html)
 - [Python Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
-- [Python Developer](https://aiquest.org/courses/become-a-python-developer/)
+- [SQL Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
+- [For Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
 - Practice with Python datasets.
 
 ---------------------------------------
@@ -38,7 +51,8 @@
 
 ### **Resources**
 - [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
-- [Data Analysis Specialization Course](https://aiquest.org/courses/data-analysis-specialization/)
+- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
+- [SQL Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - Tools like MySQL Workbench, SQLite, or PostgreSQL.
 
 --------------------------------------
@@ -56,7 +70,9 @@
 - Correlation vs. Causation: Understand relationships between variables.
 
 ### **Resources**
-- Khan Academy or online courses in statistics.
+- [Khan Academy](https://www.youtube.com/playlist?list=PLsPuUQJY-zXXSAJWF-fdVy3jHVqnuGSrb).
+- [StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+- [Statistics Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - Practice using Python (NumPy and SciPy) or Excel.
 
 ---------------------------------
@@ -74,7 +90,8 @@
 - Data Analysis ToolPak: Regression, histograms, and other statistical tools.
 
 ### **Resources**
-- Microsoft Excel online tutorials.
+- [Microsoft Excel for Data Analysis](https://www.youtube.com/watch?v=OOWAk2aLEfk)
+- [Excel Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - Practice creating small dashboards and reports.
 
 ----------------------------------------
@@ -93,27 +110,28 @@
 
 ### **Resources**
 - [Power BI's tutorials](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys).
-- [Data Analysis Specialization Course](https://aiquest.org/courses/data-analysis-specialization/)
+- [PowerBi Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - Practice by replicating real-world dashboards using sample datasets.
 
----
+-----------------------------------------
 
 ## **Step 6: Tableau / Data Studio**
 
 ### **Why Learn Tableau or Data Studio?**
 - Both are user-friendly visualization tools widely used for creating impactful reports.
-- Google Data Studio integrates well with Google’s ecosystem (e.g., Sheets, BigQuery).
+- Google Data Studio integrates well with Google’s ecosystem (Sheets, BigQuery).
 
 ### **What to Learn?**
 - Tableau: Data blending, creating charts, and dashboards.
 - Data Studio: Connecting Google Sheets, customizing reports, and sharing insights.
-- Advanced: Adding calculated fields, creating interactive visuals.
+- Advanced: Adding calculated fields, and creating interactive visuals.
 
 ### **Resources**
-- Tableau Public (free) for practice.
-- Google Data Studio’s official tutorials.
+- [Tableau](https://youtu.be/K3pXnbniUcM).
+- [Google Data Studio](https://www.youtube.com/playlist?list=PL6_D9USWkG1BDcnnbw4gfolY0zms3svSi).
+- [Tableau/Looker Studio Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 
----
+----------------------------------------------
 
 ## **Step 7: Projects**
 
@@ -135,9 +153,9 @@
    - Use Python for data cleaning, SQL for data extraction, and Power BI/Tableau for visualization.
 
 ### **Where to Find Data?**
-- Kaggle, UCI Machine Learning Repository, government datasets (e.g., data.gov).
+- Kaggle, UCI Machine Learning Repository, Data.gov, .
 
----
+---------------------------------------------------------
 
 ## **Final Note: Workflow Integration**
 1. Extract data using **SQL**.
@@ -146,5 +164,5 @@
 4. Visualize insights with **Power BI**, **Tableau**, or **Data Studio**.
 5. Showcase results in a project or portfolio.
 
-By following this roadmap step-by-step, you’ll gain the skills needed to succeed as a Data Analyst. Let me know if you’d like additional resources or specific examples! 🚀
+By following this roadmap step-by-step, you’ll gain the skills needed to succeed as a Data Analyst. Let me know if you’d like additional resources or specific examples! 
 
