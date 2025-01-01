@@ -19,7 +19,7 @@
 ### **Why Learn Python?**
 - Python is the most versatile language for data analysis and manipulation.
 - Widely used in data analytics for automating tasks, manipulating data, and creating visualizations.
-- Also used for **Statistical Machine Learning** with the `sklearn` library.
+- Also used for **Statistical Machine Learning** with the `sklearn`, `SciPy` and `statsmodels` library.
 
 ### **What to Learn?**
 - **Python Basics**
