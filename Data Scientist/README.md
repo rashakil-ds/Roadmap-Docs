@@ -124,7 +124,7 @@
 
 ### **What to Learn?**
 - Basics: Neural Networks (Perceptron, Feedforward, Backpropagation).
-- Architectures: ANN (for normal task), CNNs (for images), RNNs (for sequences), Transformers (for NLP).
+- Architectures: ANN (for normal tasks), CNNs (for images), RNNs (for sequences), Transformers (for NLP tasks).
 - Transfer Learning, Fine-tuning
 - GD Optimizers, Regularization and Generalization
 - Frameworks: TensorFlow, Keras, PyTorch.
@@ -158,19 +158,21 @@
 
 ### **Why Work on Projects?**
 - Hands-on experience to apply all the skills learned.
-- Builds a strong portfolio showcasing data science expertise.
+- Builds a strong portfolio showcasing `data science` expertise.
 
 ### **Ideas for Projects**
 1. **Python & Machine Learning:**
    - Build a predictive model for house prices.
+   - Build a predictive model for stock prices
    - Create a recommendation system.
 2. **Deep Learning:**
    - Train a CNN for image classification.
    - Build an NLP model for sentiment analysis.
+   - Design a Chatbot using Generative AI
 3. **SQL:**
    - Analyze and clean a retail dataset.
 4. **Visualization:**
-   - Design an interactive dashboard for e-commerce KPIs.
+   - Design an interactive dashboard using `PowerBi` for e-commerce KPIs.
 
 ### **Where to Find Data?**
 - [Kaggle](https://www.kaggle.com/datasets)
@@ -182,10 +184,10 @@
 
 ## **Final Note: Workflow Integration**
 1. Extract data using **SQL**.
-2. Preprocess and clean data using **Python**.
+2. Preprocess and clean data using **Python** and **Pandas**.
 3. Analyze the data using **Statistics** and **Machine Learning**.
 4. Visualize insights with **Power BI**, **Tableau**, or **Matplotlib**.
-5. Deploy models or dashboards for business use.
+5. `Deploy` ML models using Flask/FastAPI or dashboards for business use.
 
 # About the Author
 **Rashedul Alam Shakil**  
@@ -193,6 +195,9 @@
 - 🎓 Founder of [Study Mart](https://www.youtube.com/@StudyMart)  
 - 🤖 Founder of [aiQuest Intelligence](https://aiquest.org/)  
 - 💼 Works at Siemens Energy, Germany  
+
+# Other Roadmaps
+- [Read Now](https://github.com/rashakil-ds/Roadmap-Docs)
 
 By following this roadmap step-by-step, you’ll gain the skills needed to succeed as a `Data Scientist`. Let me know if you’d like additional resources or specific examples!
 
