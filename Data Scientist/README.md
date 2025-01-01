@@ -194,5 +194,5 @@
 - 🤖 Founder of [aiQuest Intelligence](https://aiquest.org/)  
 - 💼 Works at Siemens Energy, Germany  
 
-By following this roadmap step-by-step, you’ll gain the skills needed to succeed as a Data Scientist. Let me know if you’d like additional resources or specific examples!
+By following this roadmap step-by-step, you’ll gain the skills needed to succeed as a `Data Scientist`. Let me know if you’d like additional resources or specific examples!
 
