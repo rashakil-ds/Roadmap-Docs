@@ -145,8 +145,8 @@
 
 ### **What to Learn?**
 - **Regression Analysis**:
-  - Linear and logistic regression.
-  - Multivariate regression techniques.
+  - Linear, Non-Linear, and Logistic Regression.
+  - Multivariate Regression techniques.
 - **Time Series Analysis**:
   - Forecasting trends and seasonality.
   - ARIMA models and other time series techniques.
