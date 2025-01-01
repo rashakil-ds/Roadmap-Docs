@@ -81,7 +81,7 @@
   - Gradient descent, convex and non-convex optimization.
 
 ### **Resources**
-- [3Blue1Brown - Linear Algebra Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDO2gDt4hlZVJzgyOZpwlnZ7)
+- [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Khan - Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0)
 
 -----------------------------------------------
