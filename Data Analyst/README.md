@@ -176,7 +176,11 @@
    - Use Python for data cleaning, SQL for data extraction, and Power BI/Tableau for visualization.
 
 ### **Where to Find Data?**
-- Kaggle, UCI Machine Learning Repository, Data.gov.
+- [Kaggle](https://www.kaggle.com/datasets)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
+- [Data.gov](https://catalog.data.gov/dataset/)
+- [World Bank](https://data.worldbank.org/)
+- [GitHub Repo](https://github.com/rashakil-ds/Public-Datasets)
 
 ---------------------
 
