@@ -192,7 +192,7 @@
 
 ### **Resources:**
 - [Spinning Up in Deep RL](https://spinningup.openai.com/)
-- [Reinforcement Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFew7pd9H2qG-MKs-MF4A9G3)
+- [Reinforcement Learning Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 ---
 
