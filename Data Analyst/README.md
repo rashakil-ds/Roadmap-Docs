@@ -32,7 +32,7 @@
 ### **Resources**
 - [Official Docs](https://docs.python.org/3/tutorial/index.html)
 - [Python Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
-- [SQL Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
+- [Python Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - [For Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
 - Practice with Python datasets.
 
