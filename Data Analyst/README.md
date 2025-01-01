@@ -1,6 +1,6 @@
 # Data Analyst Roadmap 2025/26
 
-## Understand the Role of Data Analyst**
+## **Understand the Role of Data Analyst**
 
 ### **What does a Data Analyst do?**
 - Collect, clean, and analyze data to provide actionable insights.
