@@ -5,7 +5,7 @@
 ### **Why Learn Python?**
 - Python is the most versatile language for data analysis and manipulation.
 - Widely used in data analytics for automating tasks, manipulating data, and creating visualizations.
-- Also for statistical Machine Learning.
+- Also for statistical Machine Learning with `sklearn` library.
 
 ### **What to Learn?**
 - **Python Basics**
@@ -18,7 +18,9 @@
   - **Jupyter Notebooks:** For organizing and presenting your code.
 
 ### **Resources**
+- [Official Docs](https://docs.python.org/3/tutorial/index.html)
 - [Python Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
+- [Python Developer](https://aiquest.org/courses/become-a-python-developer/)
 - Practice with Python datasets.
 
 ---------------------------------------
@@ -35,16 +37,17 @@
 - Advanced: Window functions, CTEs (Common Table Expressions), and optimizing queries.
 
 ### **Resources**
-- Hands-on practice with sample databases (Chinook, AdventureWorks, or public datasets).
+- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
+- [Data Analysis Specialization Course](https://aiquest.org/courses/data-analysis-specialization/)
 - Tools like MySQL Workbench, SQLite, or PostgreSQL.
 
----
+--------------------------------------
 
 ## **Step 3: Statistics**
 
 ### **Why Learn Statistics?**
 - Provides the foundation for understanding data, patterns, and trends.
-- Core skill for hypothesis testing and decision-making.
+- Core skills for hypothesis testing and decision-making.
 
 ### **What to Learn?**
 - Descriptive Statistics: Mean, median, mode, variance, standard deviation.
@@ -56,7 +59,7 @@
 - Khan Academy or online courses in statistics.
 - Practice using Python (NumPy and SciPy) or Excel.
 
----
+---------------------------------
 
 ## **Step 4: Excel**
 
@@ -71,10 +74,10 @@
 - Data Analysis ToolPak: Regression, histograms, and other statistical tools.
 
 ### **Resources**
-- Microsoft Excel online tutorials or Udemy courses.
+- Microsoft Excel online tutorials.
 - Practice creating small dashboards and reports.
 
----
+----------------------------------------
 
 ## **Step 5: Power BI**
 
@@ -89,7 +92,8 @@
 - Designing interactive reports with filters and slicers.
 
 ### **Resources**
-- Power BI's official tutorials.
+- [Power BI's tutorials](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys).
+- [Data Analysis Specialization Course](https://aiquest.org/courses/data-analysis-specialization/)
 - Practice by replicating real-world dashboards using sample datasets.
 
 ---
