@@ -189,6 +189,8 @@
 4. Visualize insights with **Power BI**, **Tableau**, or **Matplotlib**.
 5. `Deploy` ML models using Flask/FastAPI or dashboards for business use.
 
+By following this roadmap step-by-step, you’ll gain the skills needed to succeed as a `Data Scientist`. Let me know if you’d like additional resources or specific examples! Just write an `email` to me.
+
 # About the Author
 **Rashedul Alam Shakil**  
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
@@ -199,5 +201,4 @@
 # Other Roadmaps
 - [Read Now](https://github.com/rashakil-ds/Roadmap-Docs)
 
-By following this roadmap step-by-step, you’ll gain the skills needed to succeed as a `Data Scientist`. Let me know if you’d like additional resources or specific examples!
 
