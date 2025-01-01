@@ -69,6 +69,7 @@
 - Descriptive Statistics: Mean, median, mode, variance, standard deviation.
 - Inferential Statistics: Hypothesis testing, confidence intervals, t-tests.
 - Probability: Probability distributions, Bayes' theorem.
+- Data Distributions: Different kinds of distribution.
 - Correlation vs. Causation: Understand relationships between variables.
 
 ### **Resources**
