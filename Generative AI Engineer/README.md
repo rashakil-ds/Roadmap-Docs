@@ -2,12 +2,12 @@
 # Generative AI (Gen AI) Engineer Roadmap 2025/26
 
 - Job Category: `Very High`
-- Best for `Software Engineers`, `Machine Learning Enthusiasts`, and `AI Researchers`.
+- Best for `Software Engineers`, and `Machine Learning Enthusiasts`.
 
 ---
 
 ## **Understand the Role of Generative AI Engineer**
-- `Gen AI Engineer` ≈ `Generative Models Expertise` + `NLP and Computer Vision Skills` + `Deployment and Optimization` + `Creative AI Applications` 😊
+- `Gen AI Engineer` ≈ `NLP and Computer Vision Skills` + `Generative Models Expertise` + `Deployment and Optimization` + `GenAI Applications` 😊
 
 ### **What does a Generative AI Engineer do?**
 - Develop, fine-tune, and deploy generative models (e.g., GPT, DALL-E, Stable Diffusion).
