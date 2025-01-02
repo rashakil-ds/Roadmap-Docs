@@ -25,7 +25,8 @@ This repository contains roadmaps for the following roles:
 - **Computer Vision Engineer**  
 - **Generative AI Engineer**  
 - **Machine Learning Engineer**  
-- **NLP Engineer**  
+- **NLP Engineer**
+- **Domain-Specific ML Topics for Researchers**
 
 Each roadmap is designed to guide you through the skills, tools, and knowledge required for the respective roles. These roadmaps are your blueprint for success, from foundational concepts to advanced techniques.
 
