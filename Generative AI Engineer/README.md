@@ -10,10 +10,10 @@
 - `Gen AI Engineer` ≈ `NLP and Computer Vision Skills` + `Generative Models Expertise` + `Deployment and Optimization` + `GenAI Applications` 😊
 
 ### **What does a Generative AI Engineer do?**
-- Develop, fine-tune, and deploy generative models (e.g., GPT, DALL-E, Stable Diffusion).
+- Develop, fine-tune, and deploy `generative` models (GPT, DALL-E, Stable Diffusion).
 - Work on innovative AI systems for content creation, personalization, and automation.
 - Collaborate with data scientists, ML engineers, and domain experts.
-- Ensure the performance, reliability, and ethical compliance of generative AI systems.
+- Ensure generative AI systems' performance, reliability, and ethical compliance.
 
 ### **Responsibilities**
 - Designing and deploying state-of-the-art generative models.
