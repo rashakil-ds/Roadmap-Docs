@@ -42,7 +42,7 @@
 - Practice with Python datasets on Kaggle or public repositories.
 
 -----------------------------------------------
-### Addition Language (Recommended): 
+### Addition Language (Optional): 
 - Java
 - C++
 -----------------------------------------------
@@ -134,7 +134,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---------------------------------------------
 
-## **Step 6: Reinforcement Learning (Recommended)**
+## **Step 6: Reinforcement Learning (Optional)**
 
 ### **Why Learn Reinforcement Learning?**
 - RL focuses on decision-making in dynamic environments.
