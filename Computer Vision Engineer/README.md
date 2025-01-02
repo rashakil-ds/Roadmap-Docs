@@ -4,7 +4,7 @@
 - Opportunity: `Less Job Circular`
 
 ---
-**Computer Vision** is a field of Artificial Intelligence that enables machines to interpret and understand `visual information` from the world, such as images and videos. It focuses on tasks like object detection, image recognition, facial recognition, motion analysis, and image generation, aiming to `replicate human vision capabilities`.
+**Computer Vision** is a field of Artificial Intelligence that enables machines to interpret and understand `visual information` from the world, such as **images** and **videos**. It focuses on tasks like object detection, image recognition, facial recognition, motion analysis, and image generation, aiming to `replicate human vision capabilities`.
 
 ## **Understand the Role of Computer Vision Engineer**
 
