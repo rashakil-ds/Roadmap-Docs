@@ -134,6 +134,26 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---------------------------------------------
 
+## **Step 8: Reinforcement Learning (Recommended)**
+
+### **Why Learn Reinforcement Learning?**
+- RL focuses on decision-making in dynamic environments.
+- Powers AI systems like autonomous vehicles, robotics, and game AI (AlphaGo, OpenAI Gym).
+
+### **What to Learn?**
+1. **Core Concepts:**
+   - Markov Decision Processes (MDPs)
+   - Rewards, States, Actions, and Policies
+   - Bellman Equations
+2. **Techniques & Algorithms:**
+   - Q-Learning, SARSA
+   - Policy Gradient Methods
+   - Deep Q-Learning (DQN)
+   - Proximal Policy Optimization (PPO)
+   - Model-Based RL
+
+---------------------------------------------
+
 ## **Step 6: MLOps and Model Deployment**
 
 ### **Why Learn MLOps?**
