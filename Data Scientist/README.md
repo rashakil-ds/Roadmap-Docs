@@ -130,10 +130,11 @@
 - Frameworks: TensorFlow, Keras, PyTorch.
 
 ### **Resources**
-- [YouTube Videos](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
-- [Another YouTube](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
-- [Basic to Advanced Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
-
+- [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
+- [Another DL Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+- [Another DL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
+- [Basic to Advanced Deep Learning](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+  
 ---------------------------------------------
 
 ## **Step 6: Data Visualization Tools**
