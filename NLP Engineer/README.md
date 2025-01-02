@@ -1,6 +1,7 @@
 # NLP Engineer Roadmap 2025/26
 
-- Job Type: `Domain Specific`, `Less Job Opportunity`
+- Job Type: `Domain Specific`
+- Opportunity: `Less Job Circular`
 - Best for `Linguists`, `ML Enthusiasts`, and `Software Engineers`.
 
 ---
