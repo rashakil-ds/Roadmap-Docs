@@ -60,6 +60,7 @@
 ### **Resources**
 - [Natural Language Toolkit Docs](https://www.nltk.org/)
 - [SpaCy Tutorials](https://spacy.io/)
+- [NLP Videos - Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
 
 ---
 
@@ -74,7 +75,7 @@
 - Feature Engineering for Text Data.
 
 ### **Resources**
-- [Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
+- [NLP Videos - Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
 - [NLP Module](https://aiquest.org/courses/data-science-machine-learning/)
 
 ---
