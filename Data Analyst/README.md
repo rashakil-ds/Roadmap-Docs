@@ -29,13 +29,14 @@
   - **Pandas:** For data manipulation (DataFrames, cleaning data, handling datasets).
   - **Matplotlib/Seaborn:** For creating visualizations.
   - **Plotly:** For interactive visualizations.
-  - **Jupyter Notebooks:** For organizing and presenting your code.
+  - **Jupyter Notebooks:** This is for organizing and presenting your code.
 
 ### **Resources**
 - [Official Docs](https://docs.python.org/3/tutorial/index.html)
 - [This Python Playlist is Sufficient for Data Analyst](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
 - [Python Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - [For Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
+- [Pandas Tutorials](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdsmcM817qp1L3ngU5amkak)
 - Practice with Python datasets.
 
 -----------------------------------------------
