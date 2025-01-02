@@ -39,13 +39,14 @@
   - **Scikit-learn:** For classical machine learning tasks.
 
 ### **Resources**
+- [Official Docs of Python](https://docs.python.org/3/tutorial/index.html)
 - [Python Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
-- [Python for NLP](https://aiquest.org/courses/become-a-python-developer/)
+- [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
 - [Hugging Face Tutorials](https://huggingface.co/transformers/)
 
 ---
 
-## **Step 2: Foundations of NLP**
+## **Step 2: Foundations of Natural Language Processing (NLP)**
 
 ### **Why Learn NLP Basics?**
 - Understanding foundational concepts is critical for building advanced models.
@@ -74,7 +75,7 @@
 
 ### **Resources**
 - [Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
-- [ML for NLP Guide](https://aiquest.org/courses/data-science-machine-learning/)
+- [NLP Module](https://aiquest.org/courses/data-science-machine-learning/)
 
 ---
 
@@ -90,8 +91,9 @@
 - Fine-tuning Pre-trained Models for Custom Tasks.
 
 ### **Resources**
-- [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
+- [Deep Learning Playlist (ANN, RNN, LSTM, GRU, Transformers)](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
 - [Hugging Face Tutorials](https://huggingface.co/transformers/)
+- [Basic to Advanced DL & GenAI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 ---
 
