@@ -33,7 +33,9 @@
   - **Hugging Face Vision Models:** For advanced vision tasks.
 
 ### **Resources**
+- [Official Docs of Python](https://docs.python.org/3/tutorial/index.html)
 - [Python Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
+- [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
 - [Learn OpenCV](https://opencv.org/)
 
 ---
@@ -50,6 +52,7 @@
 
 ### **Resources**
 - [OpenCV Documentation](https://docs.opencv.org/)
+- [Watch Tutorials](https://youtube.com/playlist?list=PLKdU0fuY4OFfjjFpSfCYzvsMKhZIWL43v&si=CN4lGil290IDjQDt)
 
 ---
 
@@ -68,8 +71,8 @@
 - GANs for Vision (StyleGAN, CycleGAN).
 
 ### **Resources**
-- [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
-- [Basic to Advanced Computer Vision](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+- [Deep Learning Playlist (ANNs, CNNs)](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
+- [Basic to Advanced Computer Vision & GenAI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 ---
 
