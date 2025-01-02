@@ -6,6 +6,9 @@
 
 ---
 
+**Natural Language Processing (NLP)** is a specific field of `Artificial Intelligence (AI)` focused on enabling machines to understand, interpret, and respond to human language in a meaningful way. NLP `bridges` the gap between human communication and machine understanding, making it possible for computers to process and analyze large amounts of natural language data.
+
+---
 ## **Understand the Role of NLP Engineer**
 
 ### **What does an NLP Engineer do?**
