@@ -2,7 +2,7 @@
 - Job Category: `High`
 - Best for `Software Engineers`.
 ## **Understand the Role of Machine Learning Engineer**
-- `Machine Learning Engineer` ≈ `Software Engineering Expertise` + `Scalability and Deployment Skills` + `Advanced Machine Learning` 😊
+- `Machine Learning Engineer` ≈ `Software Engineering Expertise` + `Scalability and Deployment Skills` + `Advanced Machine Learning` 
 
 ### **What does a Machine Learning Engineer do?**
 - Design, build, and deploy machine learning systems.
@@ -127,14 +127,14 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - **Frameworks:** TensorFlow, Keras, PyTorch.
 
 ### **Resources**
-- [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
-- [Another DL Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
-- [Another DL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
-- [Basic to Advanced Deep Learning](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+- [1. Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
+- [2. Another DL Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+- [3. Another DL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
+- [4. Basic to Advanced Deep Learning](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 ---------------------------------------------
 
-## **Step 8: Reinforcement Learning (Recommended)**
+## **Step 6: Reinforcement Learning (Recommended)**
 
 ### **Why Learn Reinforcement Learning?**
 - RL focuses on decision-making in dynamic environments.
@@ -154,7 +154,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---------------------------------------------
 
-## **Step 6: MLOps and Model Deployment**
+## **Step 7: MLOps and Model Deployment**
 
 ### **Why Learn MLOps?**
 - Ensures models are production-ready, scalable, and maintainable.
@@ -176,7 +176,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---------------------------------------------
 
-## **Step 7: Scalable Data Processing**
+## **Step 8: Scalable Data Processing**
 
 ### **Why Learn Scalable Data Processing?**
 - Essential for handling large datasets in production environments.
@@ -196,7 +196,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---------------------------------------------
 
-## **Step 8: Projects**
+## **Step 9: Projects**
 
 ### **Why Work on Projects?**
 - Demonstrates your ability to build and deploy end-to-end ML solutions.
@@ -222,7 +222,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - [Data.gov](https://catalog.data.gov/dataset/)
 
 -------------------------------------------------------------
-## Additional Skills (Mandatory for GenAI LLMs Domain)
+## Additional Skills (Mandatory for GenAI-LLMs Domain)
 - [Hugging Face](https://huggingface.co/models)
 - [LangChain](https://python.langchain.com/docs/introduction/)
 - At least one `Vector Database`
