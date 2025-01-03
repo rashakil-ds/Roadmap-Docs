@@ -132,6 +132,7 @@
 ### **Resources**
 - [Hugging Face Tutorials](https://huggingface.co/transformers/)
 - [NLP with Python](https://www.nltk.org/)
+- [Generative AI Course](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 ---
 
