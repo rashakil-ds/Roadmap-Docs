@@ -1,4 +1,4 @@
-# Data Engineer Roadmap 2025/26
+# Big Data Engineer Roadmap 2025/26
 
 ---
 
@@ -13,6 +13,9 @@
 - **Why Data Engineering?**
   - Increasing demand for data-driven decision-making across industries.
   - Critical for enabling advanced analytics and AI systems.
+    
+#### **Resources:**
+- [Watch Tutorials](https://www.youtube.com/playlist?list=PLKdU0fuY4OFeZwPhMLQ-1njPnsCGB42is)
 
 ---
 
@@ -33,7 +36,10 @@ Programming is essential for automating data workflows, building pipelines, and 
   - Connect and query databases using `SQLAlchemy` or `psycopg2`.
 
 #### **Resources:**
-- **Module 3: Python for Data Engineering** (from the PDF)
+- [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
+- [Python Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
+- [Pandas Tutorials](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdsmcM817qp1L3ngU5amkak)
+- [Module 3: Python for Data Engineering](https://aiquest.org/courses/become-a-big-data-engineer/)
 - [Become a Python Developer](https://aiquest.org/courses/become-a-python-developer/)
 
 ---
@@ -107,7 +113,9 @@ SQL is critical for querying and managing relational databases efficiently.
 - PostgreSQL, MySQL Workbench.
 
 #### **Resources:**
-- **Module 2: SQL for Data Engineers** (from the PDF)
+- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
+- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
+- [Module - SQL for Data Engineers](https://aiquest.org/courses/become-a-big-data-engineer/)
 - Practice SQL on platforms like [LeetCode](https://leetcode.com/) or [HackerRank](https://www.hackerrank.com/).
 
 ---
@@ -127,7 +135,7 @@ Data warehousing is vital for storing and analyzing structured data at scale.
   - Tools: Apache Airflow, Talend.
 
 #### **Resources:**
-- **Module 4: Data Warehousing & ETL** (from the PDF)
+- [Data Warehousing & ETL](https://aiquest.org/courses/become-a-big-data-engineer/)
 
 ---
 
@@ -142,15 +150,16 @@ Automates data workflows and ensures scalability of pipelines.
 - Automating ETL workflows.
 
 #### **Resources:**
-- **Module 5: Workflow Orchestration Tool - Apache Airflow** (from the PDF)
+- [Module - Workflow Orchestration Tool - Apache Airflow](https://aiquest.org/courses/become-a-big-data-engineer/)
 - [Apache Airflow Documentation](https://airflow.apache.org/)
+- [Big Data Engineering](https://aiquest.org/courses/become-a-big-data-engineer/)
 
 ---
 
 ### **Step 5: Big Data Technologies**
 
 #### **Why?**
-Essential for processing and analyzing large datasets effectively.
+It is essential for processing and analyzing large datasets effectively.
 
 #### **What to Learn?**
 - Hadoop Ecosystem:
@@ -162,7 +171,7 @@ Essential for processing and analyzing large datasets effectively.
   - Delta Lake, data versioning.
 
 #### **Resources:**
-- **Module 6: Big Data Technologies** (from the PDF)
+- [Module - Big Data Technologies](https://aiquest.org/courses/become-a-big-data-engineer/)
 - [Apache Spark Documentation](https://spark.apache.org/)
 
 ---
@@ -190,6 +199,7 @@ To handle unstructured and semi-structured data effectively, especially when rel
 - **Module 7: NoSQL Technologies** (from the PDF)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Documentation](https://www.mongodb.com/docs/)
+- [Module - NoSQL](https://aiquest.org/courses/become-a-big-data-engineer/)
 
 ---
 
@@ -206,7 +216,7 @@ Cloud platforms are widely used for data storage, processing, and analytics.
   - Integrating BigQuery with other tools.
 
 #### **Resources:**
-- **Module 8: GCP & Google BigQuery** (from the PDF)
+- [Module - GCP & Google BigQuery](https://aiquest.org/courses/become-a-big-data-engineer/)
 - [Google BigQuery Documentation](https://cloud.google.com/bigquery)
 
 ---
@@ -219,12 +229,8 @@ Hands-on experience with end-to-end data engineering workflows.
 #### **Project Scope:**
 - Extract data from a public API.
 - Preprocess and clean the data using Python.
-- Load data into a warehouse (e.g., BigQuery).
+- Load data into a warehouse (BigQuery).
 - Schedule workflows using Apache Airflow.
-
-#### **Resources:**
-- **Module 9: Capstone Project** (from the PDF)
-- Use tools and techniques learned in the previous steps.
 
 ---
 
@@ -238,7 +244,7 @@ Hands-on experience with end-to-end data engineering workflows.
 
 ---
 
-## **Additional Recommendations**
+## **Additional Recommendations (Optional)**
 - Stay updated with industry trends in cloud computing and big data.
 - Collaborate with teams to understand real-world data challenges.
 - Continuously improve soft skills for effective communication and teamwork.
@@ -247,3 +253,15 @@ Hands-on experience with end-to-end data engineering workflows.
 
 By following this roadmap step-by-step, you’ll be well-prepared to excel as a **Data Engineer**. Let me know if you'd like further guidance on any step!
  
+[**Search Data Engineer Jobs**](https://www.google.com/search?q=remote+big+data+engineer+jobs+near+me)
+
+# About the Author
+**Rashedul Alam Shakil**  
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
+- 🎓 Founder of [Study Mart](https://www.youtube.com/@StudyMart)  
+- 🤖 Founder of [aiQuest Intelligence](https://aiquest.org/)  
+- 💼 Works at Siemens Energy, Germany  
+
+# Other Roadmaps
+- [Read Now](https://github.com/rashakil-ds/Roadmap-Docs)
+
