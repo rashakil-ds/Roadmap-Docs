@@ -3,7 +3,7 @@
 - **Purpose:** Research-focused learning for specific domains to write papers and conduct studies.
 - **Target Audience:** Researchers, Academics, and ML/AI Enthusiasts.
 
-This roadmap is designed for domain-specific research, so you don’t need to learn everything related to Machine Learning or AI. Instead, focus only on the topics relevant to your chosen research domain. This approach ensures a streamlined and efficient learning path tailored to your goals.
+This roadmap is designed for `domain-specific research`, so you don’t need to learn everything related to Machine Learning or AI. Instead, focus only on the topics relevant to your chosen research domain. This approach ensures a streamlined and efficient learning path tailored to your goals.
 
 ### Our covered domains include:
 - Statistical Machine Learning (Classification & Regression)
@@ -113,6 +113,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 
 **Resources**
 - [OpenCV Docs](https://docs.opencv.org/)
+- [Video]()
 
 ---
 
@@ -128,6 +129,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 
 **Resources**
 - [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
+- [Differential Calculus](https://youtube.com/playlist?list=PLKdU0fuY4OFdKwJ4EBxqk2DfePO6KM2GL&si=LczAiWR0HtcneSYu)
 - [Deep Learning for Computer Vision](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 ---
@@ -170,6 +172,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 **Resources**
 - [Natural Language Toolkit (NLTK)](https://www.nltk.org/)
 - [Hugging Face Tutorials](https://huggingface.co/transformers/)
+- [Module - NLP](https://aiquest.org/courses/data-science-machine-learning/)
 
 ---
 
@@ -179,11 +182,13 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 - Powers advanced models for tasks like sentiment analysis and text generation.
 
 **What to Learn?**
+- RNN, LSTM, GRU for Sequence models
 - Transformer Architectures: BERT, GPT.
 - Sequence-to-Sequence Models: Attention Mechanisms, Seq2Seq.
 
 **Resources**
 - [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
+- [Differential Calculus](https://youtube.com/playlist?list=PLKdU0fuY4OFdKwJ4EBxqk2DfePO6KM2GL&si=LczAiWR0HtcneSYu)
 - [Hugging Face Tutorials](https://huggingface.co/transformers/)
 
 ---
@@ -220,7 +225,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 - Techniques: ACF, PACF, Moving Averages.
 
 **Resources**
-- [Intro to Time Series](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
+- [Module - Time Series](https://aiquest.org/courses/data-science-machine-learning/)
 
 ---
 
@@ -232,6 +237,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 
 **Resources**
 - [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
+- [Module - Time Series](https://aiquest.org/courses/data-science-machine-learning/)
 
 ---
 
@@ -258,7 +264,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 
 ---
 
-## **Final Note: Workflow**
+# **Final Note: Workflow (Important)**
 1. Understand domain-specific prerequisites.
 2. Apply ML/DL techniques to datasets.
 3. Evaluate models and publish findings.
