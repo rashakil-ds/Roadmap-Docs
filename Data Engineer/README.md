@@ -197,7 +197,7 @@ To handle unstructured and semi-structured data effectively, especially when rel
 - DynamoDB for key-value stores (AWS).
 
 #### **Resources:**
-- **Module 7: NoSQL Technologies** (from the PDF)
+- [NoSQL Technologies](https://aiquest.org/courses/become-a-big-data-engineer/)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Documentation](https://www.mongodb.com/docs/)
 - [Module - NoSQL](https://aiquest.org/courses/become-a-big-data-engineer/)
