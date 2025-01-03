@@ -44,6 +44,26 @@
 - Practice with Python datasets on Kaggle or public repositories.
 
 -----------------------------------------------
+### **R Language (Optional)**
+
+#### **Why Learn R?**
+- Excellent for statistical computing, data visualization, and academic research.
+- Ideal for creating interactive dashboards with **R Shiny**.
+
+#### **What to Learn?**
+- **Basics:** Variables, data types, loops, functions.
+- **Data Manipulation:** `dplyr`, `tidyr`.
+- **Visualization:** `ggplot2`, `plotly`.
+- **Statistical Modeling:** Regression, hypothesis testing.
+- **Dashboards:** Build interactive apps with **R Shiny**.
+
+#### **Resources**
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [R Shiny Tutorials](https://shiny.rstudio.com/tutorial/)
+- [YouTube Tutorials](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
+
+
+-----------------------------------------------
 
 ## **Step 2: SQL**
 
@@ -195,6 +215,8 @@
 5. [`Deploy` ML models using Flask/FastAPI](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdPhZ4k_hu7Rv3sjyi3IPtu) or `PowerBi` dashboards for business use.
 
 Following this roadmap step-by-step will give you the skills needed to succeed as a `Data Scientist`. Let me know if you’d like additional resources or specific examples! Just write an `email` to me.
+
+This repository is continually updated based on the top `job postings` on **LinkedIn** and **Indeed**. Please pray for me and my family—your prayers are all I ask as a token of appreciation. 🙏
 
 [**Search Data Scientist Jobs**](https://www.google.com/search?q=remote+data+scientist+jobs+near+me)
 
