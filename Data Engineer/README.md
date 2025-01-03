@@ -131,7 +131,7 @@ Data warehousing is vital for storing and analyzing structured data at scale.
   - Schemas: Star and Snowflake.
   - Fact and Dimension Tables.
 - ETL vs. ELT:
-  - Extract, Transform, Load processes.
+  - Extract, Transform, and Load processes.
   - Tools: Apache Airflow, Talend.
 
 #### **Resources:**
@@ -173,6 +173,7 @@ It is essential for processing and analyzing large datasets effectively.
 #### **Resources:**
 - [Module - Big Data Technologies](https://aiquest.org/courses/become-a-big-data-engineer/)
 - [Apache Spark Documentation](https://spark.apache.org/)
+- [PySpark](https://youtu.be/XGrKYz_aapA?list=PLKdU0fuY4OFeaY8dMKkxmhNDyijI-0H5L)
 
 ---
 
