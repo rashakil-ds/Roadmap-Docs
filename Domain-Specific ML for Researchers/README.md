@@ -55,7 +55,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 
 ---
 
-### **Step 2: Mathematics and Statistics for ML**
+### **Step 1: Mathematics and Statistics for ML**
 
 **Why Learn Mathematics?**
 - Essential for understanding regression and classification models.
@@ -72,7 +72,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 
 ---
 
-### **Step 3: Machine Learning for Classification & Regression**
+### **Step 2: Machine Learning for Classification & Regression**
 
 **Why Learn ML Models?**
 - To build and evaluate predictive models for statistical research.
