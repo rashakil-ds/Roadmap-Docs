@@ -1,6 +1,6 @@
 # AI Engineer Roadmap 2025/26
 
-- Job Category: `Very High`
+- Job Category: `High`
 - Best for `Software Engineers`, `Data Scientists`, and `Robotics Enthusiasts`.
 
 ---
@@ -246,7 +246,9 @@
 3. Deploy models using MLOps frameworks.
 4. Monitor and iterate for production scalability.
 
-By following this roadmap step-by-step, you’ll gain the skills needed to succeed as an `AI Engineer`. Let me know if you’d like additional resources or specific examples! Feel free to reach out.
+Following this roadmap step-by-step will give you the skills needed to succeed as an `AI Engineer`. Let me know if you’d like additional resources or specific examples! Feel free to reach out.
+
+This repository is continually updated based on the top `job postings` on **LinkedIn** and **Indeed**. Please pray for me and my family—your prayers are all I ask as a token of appreciation. 🙏
 
 ---
 
