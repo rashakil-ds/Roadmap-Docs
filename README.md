@@ -1,6 +1,6 @@
 # Data Science & AI Career Roadmaps 2025/26
 
-**Learn Smartly. Learn Without Limits!** 
+This repository is continually updated based on the top job postings on LinkedIn and Indeed. Please pray for me and my family—your prayers are all I ask as a token of appreciation. 🙏
 
 To succeed in any career, it's **very important** to understand the **roadmap, required skills, and timeline** for the role. This approach minimizes wasted time and ensures you focus on learning the exact skills needed to get a job. This repository aims to provide comprehensive roadmaps for various roles in the **Data Analytics**, **Data Science**, and **Artificial Intelligence** industry. Whether you're a student, a professional, or just curious about AI, these guides are designed to help you navigate your learning and career journey with clarity and confidence.
 
