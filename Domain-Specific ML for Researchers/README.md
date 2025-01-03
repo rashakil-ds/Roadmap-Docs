@@ -3,6 +3,17 @@
 - **Purpose:** Research-focused learning for specific domains to write papers and conduct studies.
 - **Target Audience:** Researchers, Academics, and ML/AI Enthusiasts.
 
+This roadmap is designed for domain-specific research, so you don’t need to learn everything related to Machine Learning or AI. Instead, focus only on the topics relevant to your chosen research domain. This approach ensures a streamlined and efficient learning path tailored to your goals.
+
+### Our covered domains include:
+- Statistical Machine Learning (Classification & Regression)
+- Computer Vision
+- NLP & Sentiment Analysis
+- Time Series Analysis
+- Generative AI with Pretrained Models
+  
+Feel free to dive deep into your selected area without worrying about unrelated concepts from other domains. This specificity will save time and enhance your expertise in the chosen field. Best of luck 😊
+
 ---
 
 ## **1. Statistical Machine Learning (Classification & Regression)**
