@@ -152,7 +152,8 @@
 - Frameworks: TensorFlow, Keras, PyTorch.
 
 ### **Resources** 
-- TensorFlow/PyTorch Library: For deep learning & AI.
+- [TensorFlow Library:](https://www.tensorflow.org/tutorials) For deep learning & AI.
+- [PyTorch Library:](https://pytorch.org/tutorials/beginner/basics/intro.html) For deep learning & AI.
 - [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
 - [Another DL Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Another DL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
