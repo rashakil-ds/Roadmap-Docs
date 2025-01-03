@@ -131,7 +131,8 @@
 
 ### **Resources**
 - [Scikit-learn (`sklearn`):](https://scikit-learn.org/stable/) For statistical machine learning models.
-- [Statsmodels & SciPy:](https://www.statsmodels.org/stable/index.html) For statistical analysis.
+- [Statsmodels:](https://www.statsmodels.org/stable/index.html) For statistical analysis.
+- [SciPy:](https://docs.scipy.org/doc/scipy/reference/index.html) For statistical analysis.
 - [Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
 - [Machine Learning Module](https://aiquest.org/courses/data-science-machine-learning/)
 - Practice using Python's `sklearn` and Kaggle competitions.
@@ -213,7 +214,7 @@
 2. Preprocess and clean data using **Python** and **Pandas**.
 3. Analyze the data using **Statistics** and **Machine Learning**.
 4. Visualize insights with **Power BI**, **Tableau**, or **Matplotlib**.
-5. [`Deploy` ML models using Flask/FastAPI](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdPhZ4k_hu7Rv3sjyi3IPtu) or `PowerBi` dashboards for business use.
+5. `Deploy` ML models using [Flask](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdPhZ4k_hu7Rv3sjyi3IPtu) / FastAPI or `PowerBi` dashboards for business use.
 
 Following this roadmap step-by-step will give you the skills needed to succeed as a `Data Scientist`. Let me know if you’d like additional resources or specific examples! Just write an `email` to me.
 
