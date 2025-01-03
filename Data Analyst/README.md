@@ -41,6 +41,25 @@
 
 -----------------------------------------------
 
+### **R Language (Optional)**
+
+#### **Why Learn R?**
+- Excellent for statistical computing, data visualization, and academic research.
+- Ideal for creating interactive dashboards with **R Shiny**.
+
+#### **What to Learn?**
+- **Basics:** Variables, data types, loops, functions.
+- **Data Manipulation:** `dplyr`, `tidyr`.
+- **Visualization:** `ggplot2`, `plotly`.
+- **Statistical Modeling:** Regression, hypothesis testing.
+- **Dashboards:** Build interactive apps with **R Shiny**.
+
+#### **Resources**
+- [R - YouTube Tutorials](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [R Shiny Tutorials](https://shiny.rstudio.com/tutorial/)
+
+-----------------------------------------------
 ## **Step 2: SQL**
 
 ### **Why Learn SQL?**
