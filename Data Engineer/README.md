@@ -43,7 +43,7 @@ Programming is essential for automating data workflows, building pipelines, and 
 - [Become a Python Developer](https://aiquest.org/courses/become-a-python-developer/)
 
 ---
-### Scala for Data Engineers (Optional)
+### 2nd Language: Scala for Data Engineers (Optional)
 
 Scala is an optional but valuable skill for data engineers working with distributed data systems like Apache Spark. Its concise syntax and compatibility with the JVM ecosystem make it a preferred choice for high-performance data engineering tasks.
 
