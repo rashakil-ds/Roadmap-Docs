@@ -5,7 +5,7 @@
 ## **Understand the Role of a Data Engineer**
 
 - **What is a Data Engineer?**
-  - A professional responsible for building, managing, and optimizing data pipelines for analytics and machine learning systems.
+  - A professional responsible for building, managing, and optimizing data pipelines `for` analytics and machine learning systems.
 - **Key Responsibilities:**
   - Design and maintain scalable data architecture.
   - Build and manage ETL processes.
