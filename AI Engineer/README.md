@@ -34,9 +34,7 @@
   - **NumPy:** Numerical computations.
   - **Pandas & Polars:** Data manipulation and cleaning.
   - **Matplotlib/Seaborn:** Data visualization.
-  - **Scikit-learn (`sklearn`):** Machine learning models.
-  - **TensorFlow/PyTorch:** Deep learning frameworks.
-  - **Hugging Face:** NLP and Transformer models.
+
 - **Additional Languages (Optional):**
   - Java (for enterprise applications).
   - C++ (for robotics and performance-critical tasks).
@@ -88,7 +86,10 @@
 ### **Resources**
 - [Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
 - [Machine Learning Module](https://aiquest.org/courses/data-science-machine-learning/)
-
+- [Scikit-learn (`sklearn`):](https://scikit-learn.org/stable/) For statistical machine learning models.
+- [Statsmodels:](https://www.statsmodels.org/stable/index.html) For statistical analysis.
+- [SciPy:](https://docs.scipy.org/doc/scipy/reference/index.html) For statistical analysis.
+- Practice using Python's `sklearn` and Kaggle competitions.
 ---
 
 ## **Step 4: Deep Learning**
@@ -107,6 +108,8 @@
 - **Frameworks:** TensorFlow, PyTorch.
 
 ### **Resources**
+- [TensorFlow Library:](https://www.tensorflow.org/tutorials) For deep learning & AI.
+- [PyTorch Library:](https://pytorch.org/tutorials/beginner/basics/intro.html) For deep learning & AI.
 - [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
 - [Another DL Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Another DL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
