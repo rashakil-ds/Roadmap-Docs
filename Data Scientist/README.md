@@ -31,9 +31,6 @@
   - **NumPy:** For numerical computations.
   - **Pandas & Polars:** For data manipulation (DataFrames, cleaning data, handling datasets).
   - **Matplotlib/Seaborn:** For creating visualizations.
-  - **Scikit-learn (`sklearn`):** For statistical machine learning models.
-  - **Statsmodels & SciPy:** For statistical analysis.
-  - **TensorFlow/PyTorch:** For deep learning & AI.
 
 ### **Resources**
 - [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
@@ -133,6 +130,8 @@
   - Cross-validation.
 
 ### **Resources**
+- [Scikit-learn (`sklearn`):](https://scikit-learn.org/stable/) For statistical machine learning models.
+- [Statsmodels & SciPy:](https://www.statsmodels.org/stable/index.html) For statistical analysis.
 - [Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
 - [Machine Learning Module](https://aiquest.org/courses/data-science-machine-learning/)
 - Practice using Python's `sklearn` and Kaggle competitions.
@@ -152,7 +151,8 @@
 - GD Optimizers, Regularization and Generalization
 - Frameworks: TensorFlow, Keras, PyTorch.
 
-### **Resources**
+### **Resources** 
+- TensorFlow/PyTorch Library: For deep learning & AI.
 - [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
 - [Another DL Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Another DL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
