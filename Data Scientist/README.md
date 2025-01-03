@@ -218,7 +218,7 @@
 
 Following this roadmap step-by-step will give you the skills needed to succeed as a `Data Scientist`. Let me know if you’d like additional resources or specific examples! Just write an `email` to me.
 
-This repository is continually updated based on the top `job postings` on **LinkedIn** and **Indeed**. Please pray for me and my family—your prayers are all I ask as a token of appreciation. 🙏
+This repository is continually updated based on the top `job postings` on **LinkedIn** and **Indeed**. Please pray for me and my family—your prayers are all I ask as a token of appreciation.
 
 [**Search Data Scientist Jobs**](https://www.google.com/search?q=remote+data+scientist+jobs+near+me)
 
