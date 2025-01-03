@@ -113,7 +113,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 
 **Resources**
 - [OpenCV Docs](https://docs.opencv.org/)
-- [Video]()
+- [Video Tutorials](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfjjFpSfCYzvsMKhZIWL43v)
 
 ---
 
@@ -130,6 +130,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 **Resources**
 - [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
 - [Differential Calculus](https://youtube.com/playlist?list=PLKdU0fuY4OFdKwJ4EBxqk2DfePO6KM2GL&si=LczAiWR0HtcneSYu)
+- [Video Tutorials](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfjjFpSfCYzvsMKhZIWL43v)
 - [Deep Learning for Computer Vision](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 ---
