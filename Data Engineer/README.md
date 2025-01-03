@@ -16,10 +16,6 @@
 
 ---
 
-## **Step-by-Step Roadmap**
-
----
-
 ### **Step 1: Learn Programming for Data Engineering**
 
 #### **Why?**
@@ -41,7 +37,62 @@ Programming is essential for automating data workflows, building pipelines, and 
 - [Become a Python Developer](https://aiquest.org/courses/become-a-python-developer/)
 
 ---
+# Scala for Data Engineers (Optional)
 
+Scala is an optional but valuable skill for data engineers working with distributed data systems like Apache Spark. Its concise syntax and compatibility with the JVM ecosystem make it a preferred choice for high-performance data engineering tasks.
+
+---
+
+## **Why Learn Scala?**
+
+- **Native Language for Apache Spark:** Scala is the original language of Apache Spark, offering better performance and compatibility.
+- **Functional and Object-Oriented Paradigm:** Combines functional programming features with object-oriented principles for concise and robust code.
+- **JVM Compatibility:** Integrates seamlessly with Java libraries and tools.
+
+---
+
+## **Topics to Learn**
+
+### **1. Scala Basics**
+- Overview of Scala and its use in data engineering.
+- Setting up the Scala environment.
+- Syntax and structure: Variables, Data Types, and Control Flow.
+
+### **2. Functional Programming in Scala**
+- Higher-order functions.
+- Immutability and working with immutable data.
+- Closures, Currying, and Partially Applied Functions.
+
+### **3. Working with Collections**
+- Lists, Sets, Maps, and Tuples.
+- Transformation operations: `map`, `flatMap`, `filter`.
+- Reductions and Aggregations: `reduce`, `fold`, `aggregate`.
+
+### **4. Concurrency in Scala**
+- Futures and Promises.
+- Introduction to Akka for building distributed systems.
+
+### **5. Apache Spark with Scala**
+- Setting up Spark with Scala.
+- Working with RDDs, DataFrames, and Datasets.
+- Writing Spark jobs in Scala.
+
+### **6. Advanced Topics**
+- Pattern Matching and Case Classes.
+- Traits and Abstract Classes.
+- Type System and Generics.
+
+## **Resources**
+
+### Online Tutorials
+- [Scala Official Documentation](https://docs.scala-lang.org/)
+- [Scala for the Impatient (Book)](https://www.amazon.com/Scala-Impatient-Cay-S-Horstmann/dp/0134540565)
+
+### Spark Integration
+- [Apache Spark with Scala Documentation](https://spark.apache.org/docs/latest/api/scala/index.html)
+- [Databricks Scala Tutorials](https://www.databricks.com/)
+
+---
 ### **Step 2: Master SQL for Data Engineering**
 
 #### **Why?**
