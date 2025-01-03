@@ -11,7 +11,7 @@
 ### **What does an AI Engineer do?**
 - Develop end-to-end AI solutions combining ML, NLP, Computer Vision, and other technologies.
 - Work on designing, training, and deploying AI models at scale.
-- Collaborate with cross-functional teams (e.g., data scientists, software engineers, robotics experts).
+- Collaborate with cross-functional teams (data engineers, data scientists, software engineers, robotics experts).
 - Optimize AI systems for performance, reliability, and ethical considerations.
 
 ### **Responsibilities**
