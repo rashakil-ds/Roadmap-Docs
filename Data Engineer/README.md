@@ -39,7 +39,7 @@ Programming is essential for automating data workflows, building pipelines, and 
 - [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
 - [Python Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
 - [Pandas Tutorials](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdsmcM817qp1L3ngU5amkak)
-- [Module 3: Python for Data Engineering](https://aiquest.org/courses/become-a-big-data-engineer/)
+- [Module - Python for Data Engineering](https://aiquest.org/courses/become-a-big-data-engineer/)
 - [Become a Python Developer](https://aiquest.org/courses/become-a-python-developer/)
 
 ---
