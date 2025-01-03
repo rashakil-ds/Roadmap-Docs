@@ -131,7 +131,8 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - [1. Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
 - [2. Another DL Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [3. Another DL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
-- [4. Basic to Advanced Deep Learning](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+- [4. Gradient Descent](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe7mmYIb6NYCPRbljkE6is8)
+- [5. Basic to Advanced Deep Learning](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 ---------------------------------------------
 
