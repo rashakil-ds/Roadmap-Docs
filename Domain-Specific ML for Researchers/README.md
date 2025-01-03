@@ -14,9 +14,35 @@ This roadmap is designed for domain-specific research, so you don’t need to le
   
 Feel free to dive deep into your selected area without worrying about unrelated concepts from other domains. This specificity will save time and enhance your expertise in the chosen field. Best of luck 😊
 
+
 ---
 
-## **1. Statistical Machine Learning (Classification & Regression)**
+### **Programming and Python Libraries (Mandatory for All)**
+
+### **Why Learn Python?**
+- Python is the go-to programming language for data science due to its simplicity and robust libraries.
+- Used for data cleaning, manipulation, and building machine learning models.
+- Supports deep learning frameworks and statistical analysis.
+
+### **What to Learn?**
+- **Python Basics**
+  - Variables, data types, loops, conditionals, functions, and OOPs.
+- **Libraries**
+  - **NumPy:** For numerical computations.
+  - **Pandas & Polars:** For data manipulation (DataFrames, cleaning data, handling datasets).
+  - **Matplotlib/Seaborn:** For creating visualizations.
+
+### **Resources**
+- [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
+- [Python Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
+- [For Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
+- [Notes/Books](https://github.com/rashakil-ds/Top-Data-Science-AI-Book-Collection)
+- [Pandas Tutorials](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdsmcM817qp1L3ngU5amkak)
+- Practice with Python datasets on Kaggle or public repositories.
+
+---
+
+## **Domain: 01. Statistical Machine Learning (Classification & Regression)**
 
 ### **What is Statistical Machine Learning?**
 - Combines traditional statistics with machine learning for predictive modeling.
@@ -26,23 +52,6 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 - Study statistical methods for classification and regression.
 - Analyze model performance and interpret results.
 - Publish findings in journals or conferences.
-
----
-
-### **Step 1: Programming and Python Libraries**
-
-**Why Learn Python?**
-- Python provides libraries for statistical and machine learning tasks.
-
-**What to Learn?**
-- **Libraries:**
-  - Scikit-learn (`sklearn`): ML models (Linear Regression, Logistic Regression).
-  - Statsmodels & SciPy: Statistical analysis.
-  - Matplotlib/Seaborn: Data visualization.
-
-**Resources**
-- [Python Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
-- [Statsmodels Docs](https://www.statsmodels.org/stable/index.html)
 
 ---
 
@@ -59,6 +68,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 **Resources**
 - [Khan Academy - Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0)
 - [StatQuest - Statistics](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+- [Differential Calculus](https://youtube.com/playlist?list=PLKdU0fuY4OFdKwJ4EBxqk2DfePO6KM2GL&si=LczAiWR0HtcneSYu)
 
 ---
 
@@ -78,23 +88,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 
 ---
 
-### **Step 4: Research & Paper Writing**
-
-**Why Conduct Research?**
-- To contribute insights into classification and regression tasks.
-
-**What to Focus On?**
-- Experimenting with datasets.
-- Comparing models and optimization techniques.
-- Writing papers focusing on interpretability and statistical significance.
-
-**Resources**
-- [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [LaTeX for Paper Writing](https://www.overleaf.com/)
-
----
-
-## **2. Computer Vision**
+## **Domain: 02. Computer Vision**
 
 ### **What is Computer Vision?**
 - A field of AI enabling machines to interpret visual data.
@@ -140,9 +134,6 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 
 ### **Step 3: Research & Paper Writing**
 
-**Why Conduct Research?**
-- To advance computer vision applications in academia or industry.
-
 **What to Focus On?**
 - Comparing CNN architectures.
 - Evaluating object detection algorithms on standard datasets.
@@ -154,7 +145,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 
 ---
 
-## **3. NLP & Sentiment Analysis**
+## **Domain: 03. NLP & Sentiment Analysis**
 
 ### **What is NLP?**
 - A branch of AI that focuses on understanding and generating human language.
@@ -210,7 +201,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 
 ---
 
-## **4. Time Series Analysis**
+## **Domain: 04. Time Series Analysis**
 
 ### **What is Time Series Analysis?**
 - Focuses on analyzing data indexed in time order for forecasting and pattern detection.
@@ -244,7 +235,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 
 ---
 
-## **5. Generative AI with Pretrained Models**
+## **Domain: 05. Generative AI with Pretrained Models**
 
 ### **What is Generative AI?**
 - Focuses on generating text, images, and other content using advanced models.
@@ -274,6 +265,10 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 
 ---
 
+## Note (Warning!): 
+I am not a professional researcher but have a working knowledge of Machine Learning. While I can guide you on relevant topics and concepts in ML for your chosen domain, I may not be able to assist with the detailed aspects of research methodologies or paper writing. For deeper guidance, consider collaborating with experienced researchers or referring to academic resources. 😊
+
+---
 ## About the Author
 **Rashedul Alam Shakil**  
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
