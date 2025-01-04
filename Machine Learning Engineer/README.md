@@ -85,12 +85,14 @@
   
 -----------------------------------------------
 
-## **Step 4: Machine Learning**
+## **Step 4: Statistical Machine Learning**
 
 ### **Why Learn Machine Learning?**
 The core responsibility of an ML engineer is building, optimizing, and scaling ML models.
 
 ### **What to Learn?**
+- **Statistics**
+  - Correlation, Data Distributions, Hypothesis Testing
 - **Supervised Learning:**
   - Linear, Polynomial, Lasso, Ridge, Logistic Regression, Decision Trees, Random Forest.
   - Gradient Boosting (XGBoost, LightGBM, CatBoost).
