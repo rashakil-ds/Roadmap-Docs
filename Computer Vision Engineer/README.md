@@ -35,7 +35,6 @@
 - [Official Docs of Python](https://docs.python.org/3/tutorial/index.html)
 - [Python Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
 - [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
-- [Learn OpenCV](https://opencv.org/)
 
 ---
 
@@ -72,6 +71,7 @@
 ### **Resources**
 - [TensorFlow Library:](https://www.tensorflow.org/tutorials) For deep learning & AI.
 - [PyTorch Library:](https://pytorch.org/tutorials/beginner/basics/intro.html) For deep learning & AI.
+- [Learn OpenCV](https://opencv.org/)
 - [Deep Learning Playlist (ANNs, CNNs)](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
 - [Basic to Advanced Computer Vision & GenAI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 - [Hugging Face Vision Models](https://huggingface.co/models?other=vision): For advanced vision tasks.
