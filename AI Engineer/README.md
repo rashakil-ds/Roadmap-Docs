@@ -68,12 +68,14 @@
 - [Gradient Descent](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe7mmYIb6NYCPRbljkE6is8)
 ---
 
-## **Step 3: Machine Learning Basics**
+## **Step 3: Statistical Machine Learning**
 
 ### **Why Learn Machine Learning?**
 - AI Engineers build on ML techniques to create intelligent systems.
 
 ### **What to Learn?**
+- **Statistics**
+  - Correlation, Data Distributions, Hypothesis Testing
 - **Supervised Learning:**
   - Linear, Polynomial, Logistic Regression.
   - Decision Trees, Random Forest, Gradient Boosting (XGBoost, LightGBM, CatBoost).
