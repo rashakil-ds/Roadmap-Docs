@@ -26,9 +26,10 @@
 - Python offers powerful libraries for image processing and model training.
 
 ### **What to Learn?**
+- **Python Basics:**
+  - Variables, data types, loops, conditionals, functions, error handling, debugging, and OOPs.
 - **Libraries:**
   - **OpenCV:** For image processing.
-  - **TensorFlow/Keras/PyTorch:** For deep learning.
   - **Matplotlib/Seaborn:** For visualizing results.
 
 ### **Resources**
