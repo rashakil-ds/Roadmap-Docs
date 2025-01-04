@@ -167,6 +167,11 @@
 - [Generative AI Guide](https://huggingface.co/models)
 - [Generative AI Course](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
+## Additional Skills (Mandatory for GenAI-LLMs Domain)
+- [Hugging Face](https://huggingface.co/models)
+- [LangChain](https://python.langchain.com/docs/introduction/)
+- At least one `Vector Database`
+  
 ---
 
 ## **Step 8: Reinforcement Learning (RL)**
