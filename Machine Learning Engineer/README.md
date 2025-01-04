@@ -31,9 +31,6 @@
   - **NumPy:** For numerical computations.
   - **Pandas & Polars:** For data manipulation (DataFrames, cleaning data, handling datasets).
   - **Matplotlib/Seaborn:** For creating visualizations.
-  - **Scikit-learn (`sklearn`):** For machine learning models.
-  - **TensorFlow/PyTorch:** For deep learning.
-  - **MLflow/DVC:** For experiment tracking and version control.
 
 ### **Resources**
 - [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
@@ -81,10 +78,11 @@
   - Gradient descent, convex and non-convex optimization.
 
 ### **Resources**
-- [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Khan - Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0)
 - [Differential Calculus](https://youtube.com/playlist?list=PLKdU0fuY4OFdKwJ4EBxqk2DfePO6KM2GL&si=LczAiWR0HtcneSYu)
-
+- [Gradient Descent](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe7mmYIb6NYCPRbljkE6is8)
+  
 -----------------------------------------------
 
 ## **Step 4: Machine Learning**
@@ -108,6 +106,9 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 ### **Resources**
 - [Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
 - [Machine Learning Module](https://aiquest.org/courses/data-science-machine-learning/)
+- [Scikit-learn (`sklearn`):](https://scikit-learn.org/stable/) For statistical machine learning models.
+- [Statsmodels:](https://www.statsmodels.org/stable/index.html) For statistical analysis.
+- [SciPy:](https://docs.scipy.org/doc/scipy/reference/index.html) For statistical analysis.
 - Practice using Python's `sklearn` and Kaggle competitions.
 
 ---------------------------------------------
@@ -128,11 +129,13 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - **Frameworks:** TensorFlow, Keras, PyTorch.
 
 ### **Resources**
-- [1. Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
-- [2. Another DL Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
-- [3. Another DL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
-- [4. Gradient Descent](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe7mmYIb6NYCPRbljkE6is8)
-- [5. Basic to Advanced Deep Learning](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+- [TensorFlow Library:](https://www.tensorflow.org/tutorials) For deep learning & AI.
+- [PyTorch Library:](https://pytorch.org/tutorials/beginner/basics/intro.html) For deep learning & AI.
+- [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
+- [Another DL Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+- [Another DL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
+- [Gradient Descent](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe7mmYIb6NYCPRbljkE6is8)
+- [Basic to Advanced Deep Learning](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 ---------------------------------------------
 
@@ -153,6 +156,15 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
    - Deep Q-Learning (DQN)
    - Proximal Policy Optimization (PPO)
    - Model-Based RL
+
+### **Tools and Frameworks:**
+- OpenAI Gym
+- Stable-Baselines3
+- Ray RLlib
+
+### **Resources:**
+- [Spinning Up in Deep RL](https://spinningup.openai.com/)
+- [Reinforcement Learning Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 ---------------------------------------------
 
