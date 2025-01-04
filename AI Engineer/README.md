@@ -99,7 +99,7 @@
 
 ### **What to Learn?**
 - **Basics:**
-  - Neural Networks, Activation Functions, Backpropagation.
+  - Neural Networks, Activation Functions, Backpropagation, Gradient Descent.
 - **Architectures:**
   - CNNs (images), RNNs (sequences), Transformers (NLP tasks).
 - **Advanced Topics:**
