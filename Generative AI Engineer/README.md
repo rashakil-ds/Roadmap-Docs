@@ -148,6 +148,8 @@
 ### **Resources**
 - [Generative AI Guide](https://huggingface.co/models)
 - [Generative AI Course](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+- [Hugging Face Tutorials](https://huggingface.co/transformers/)
 
 ---
 
