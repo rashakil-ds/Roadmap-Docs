@@ -35,8 +35,7 @@
   - **NumPy:** Numerical computations.
   - **Pandas:** Data manipulation and cleaning.
   - **Matplotlib/Seaborn:** Data visualization.
-  - **TensorFlow/PyTorch:** Deep learning frameworks.
-  - **Hugging Face:** Transformers and pre-trained models for NLP.
+
 - **Additional Languages (Optional):**
   - JavaScript (for web-based AI tools).
   - C++ (for performance-critical AI applications).
@@ -64,6 +63,7 @@
 ### **Resources**
 - [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Khan Academy - Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0)
+- [Learn Calculus](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdKwJ4EBxqk2DfePO6KM2GL)
 
 ---
 
@@ -81,6 +81,7 @@
   - Regularization, Cross-validation, Gradient Descent Variants.
 
 ### **Resources**
+- [Sklearn Docs](https://scikit-learn.org/stable/)
 - [Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
 - [Machine Learning Module](https://aiquest.org/courses/data-science-machine-learning/)
 
@@ -101,8 +102,13 @@
 - **Frameworks:** TensorFlow, PyTorch.
 
 ### **Resources**
+- [TensorFlow Library:](https://www.tensorflow.org/tutorials) For deep learning & AI.
+- [PyTorch Library:](https://pytorch.org/tutorials/beginner/basics/intro.html) For deep learning & AI.
 - [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
-- [Deep Learning and Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+- [Another DL Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+- [Another DL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
+- [Gradient Descent](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe7mmYIb6NYCPRbljkE6is8)
+- [Basic to Advanced Deep Learning](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 ---
 
