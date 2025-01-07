@@ -5,19 +5,19 @@
 
 ---
 
-**Natural Language Processing (NLP)** is a specific field of `Artificial Intelligence (AI)` focused on enabling machines to understand, interpret, and respond to human language in a meaningful way. NLP `bridges` the gap between human communication and machine understanding, making it possible for computers to process and analyze large amounts of natural language data.
+**Natural Language Processing (NLP)** is a specific field of `Artificial Intelligence (AI)` focused on enabling machines to understand, interpret, and respond to human language meaningfully. NLP `bridges` the gap between human communication and machine understanding, making it possible for computers to process and analyze large amounts of natural language data.
 
 ---
 ## **Understand the Role of NLP Engineer**
 
 ### **What does an NLP Engineer do?**
 - Develop, fine-tune, and deploy NLP models for language understanding and generation.
-- Work on tasks such as translation, sentiment analysis, chatbots, and summarization.
+- Work on translation, sentiment analysis, chatbots, and summarization tasks.
 - Collaborate with data scientists and software engineers to integrate NLP systems into products.
 
 ### **Responsibilities**
 - Preprocessing text data (tokenization, stemming, lemmatization).
-- Building and optimizing NLP models for specific tasks.
+- Build and optimize NLP models for specific tasks.
 - Deploying NLP solutions and integrating them into applications.
 - Researching and applying cutting-edge advancements in NLP.
 
@@ -32,6 +32,7 @@
 - **Python Basics:**
   - Variables, data types, loops, conditionals, functions, and OOPs.
 - **Libraries:**
+  - **Pandas/Polars:** DataFrame library.
   - **NLTK & SpaCy:** For text preprocessing.
 
 ### **Resources**
