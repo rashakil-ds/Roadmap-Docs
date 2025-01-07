@@ -33,9 +33,6 @@
   - Variables, data types, loops, conditionals, functions, and OOPs.
 - **Libraries:**
   - **NLTK & SpaCy:** For text preprocessing.
-  - **Hugging Face Transformers:** For state-of-the-art NLP models.
-  - **TensorFlow/PyTorch:** For custom deep learning-based NLP solutions.
-  - **Scikit-learn:** For classical machine learning tasks.
 
 ### **Resources**
 - [Official Docs of Python](https://docs.python.org/3/tutorial/index.html)
@@ -76,7 +73,9 @@
 ### **Resources**
 - [NLP Videos - Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
 - [NLP Module](https://aiquest.org/courses/data-science-machine-learning/)
-
+- **Libraries:**
+  - **NLTK & SpaCy:** For text preprocessing.
+  - **Scikit-learn:** For classical machine learning tasks.
 ---
 
 ## **Step 4: Deep Learning for NLP**
@@ -94,7 +93,10 @@
 - [Deep Learning Playlist (ANN, RNN, LSTM, GRU, Transformers)](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
 - [Hugging Face Tutorials](https://huggingface.co/transformers/)
 - [Basic to Advanced DL & GenAI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
-
+- **Libraries:**
+  - **NLTK & SpaCy:** For text preprocessing.
+  - **Hugging Face Transformers:** For state-of-the-art NLP models.
+  - **TensorFlow/PyTorch:** For custom deep learning-based NLP solutions.
 ---
 
 ## **Step 5: Projects**
