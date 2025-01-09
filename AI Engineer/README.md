@@ -264,7 +264,6 @@ This repository is continually updated based on the top `job postings` on **Link
 ---
 # Recomended Courses at aiQuest Intelligence
 1. [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
-2. [SQL, Statistics & Data Analysis Tools](https://aiquest.org/courses/data-analysis-specialization/)
 3. [Machine Learning & Deep Learning Core Concepts](https://aiquest.org/courses/data-science-machine-learning/)
 4. [Advanced Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 5. [Cloud, Big Data Technologies & Tools](https://aiquest.org/courses/become-a-big-data-engineer/)
