@@ -236,5 +236,7 @@ This repository is continually updated based on the top `job postings` on **Link
 # Recomended Courses at aiQuest Intelligence
 1. [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
 2. [SQL, Statistics & Data Analysis Tools](https://aiquest.org/courses/data-analysis-specialization/)
-3. [Machine Learning & Deep Learning](https://aiquest.org/courses/data-science-machine-learning/)
+3. [Machine Learning & Deep Learning Core Concepts](https://aiquest.org/courses/data-science-machine-learning/)
 4. [Advanced Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+
+*Note:* We suggest these premium courses because they are well-organized and will guide you step by step, from basic to advanced levels. However, for those who cannot afford these courses, don't worry! Search on YouTube using the topic names mentioned in the roadmap. You will find plenty of `free tutorials` that are also great for learning. Best of luck!
