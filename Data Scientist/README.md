@@ -98,6 +98,7 @@
 ### **Resources**
 - [Khan Academy - Statistics](https://www.youtube.com/playlist?list=PLsPuUQJY-zXXSAJWF-fdVy3jHVqnuGSrb)
 - [StatQuest - Statistics Made Easy](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+- [Statistics with Python](https://www.youtube.com/playlist?list=PLKdU0fuY4OFeZCSF6aax3Uvwl6nWLIdSs)
 - [Statistics Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - [Differential Calculus](https://youtube.com/playlist?list=PLKdU0fuY4OFdKwJ4EBxqk2DfePO6KM2GL&si=LczAiWR0HtcneSYu)
 - Practice using Python (`NumPy`, `SciPy`, and `statsmodels`).
