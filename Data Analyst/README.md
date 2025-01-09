@@ -221,7 +221,7 @@ By following this roadmap step-by-step, you’ll gain the skills needed to succe
 2. [SQL, Statistics & Data Analysis Tools](https://aiquest.org/courses/data-analysis-specialization/)
 3. [Machine Learning & Data Science Core Concepts](https://aiquest.org/courses/data-science-machine-learning/)
 
-*Note:* We suggest these premium courses because they are well-organized and will guide you step by step, from basic to advanced levels. Always remember that `T-shaped skills` are better than `i-shaped skill`. However, for those who cannot afford these courses, don't worry! Search on YouTube using the topic names mentioned in the roadmap. You will find plenty of `free tutorials` that are also great for learning. Best of luck!
+*`Note:`* We suggest these premium courses because they are well-organized for absolute beginners and will guide you step by step, from basic to advanced levels. Always remember that `T-shaped skills` are better than `i-shaped skill`. However, for those who cannot afford these courses, don't worry! Search on YouTube using the topic names mentioned in the roadmap. You will find plenty of `free tutorials` that are also great for learning. Best of luck!
 
 # About the Author
 **Rashedul Alam Shakil**  
