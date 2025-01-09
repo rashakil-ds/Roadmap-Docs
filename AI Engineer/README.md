@@ -262,6 +262,16 @@ Following this roadmap step-by-step will give you the skills needed to succeed a
 This repository is continually updated based on the top `job postings` on **LinkedIn** and **Indeed**. Please pray for me and my family—your prayers are all I ask as a token of appreciation. 🙏
 
 ---
+# Recomended Courses at aiQuest Intelligence
+1. [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
+2. [SQL, Statistics & Data Analysis Tools](https://aiquest.org/courses/data-analysis-specialization/)
+3. [Machine Learning & Deep Learning Core Concepts](https://aiquest.org/courses/data-science-machine-learning/)
+4. [Advanced Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+5. [Cloud, Big Data Technologies & Tools](https://aiquest.org/courses/become-a-big-data-engineer/)
+
+*Note:* We suggest these premium courses because they are well-organized and will guide you step by step, from basic to advanced levels. Always remember that `T-shaped skills` are better than `i-shaped skill`. However, for those who cannot afford these courses, don't worry! Search on YouTube using the topic names mentioned in the roadmap. You will find plenty of `free tutorials` that are also great for learning. Best of luck!
+
+---
 
 ## About the Author
 **Rashedul Alam Shakil**  
