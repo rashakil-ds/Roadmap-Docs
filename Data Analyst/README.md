@@ -95,6 +95,7 @@
 ### **Resources**
 - [Khan Academy](https://www.youtube.com/playlist?list=PLsPuUQJY-zXXSAJWF-fdVy3jHVqnuGSrb).
 - [StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+- [Statistics with Python](https://www.youtube.com/playlist?list=PLKdU0fuY4OFeZCSF6aax3Uvwl6nWLIdSs)
 - [Statistics Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - Practice using Python (NumPy and SciPy) or Excel.
 
