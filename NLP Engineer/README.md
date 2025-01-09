@@ -128,7 +128,8 @@ By following this roadmap, you’ll develop the skills needed to become a succes
 ---
 # Recomended Courses at aiQuest Intelligence
 1. [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
-2. [Advanced Deep Learning for NLP & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+2. [Machine Learning Concepts](https://aiquest.org/courses/data-science-machine-learning/)
+3. [Advanced Deep Learning for NLP & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 *`Note:`* We suggest these premium courses because they are well-organized for absolute beginners and will guide you step by step, from basic to advanced levels. Always remember that `T-shaped skills` are better than `i-shaped skill`. However, for those who cannot afford these courses, don't worry! Search on YouTube using the topic names mentioned in the roadmap. You will find plenty of `free tutorials` that are also great for learning. Best of luck!
 
