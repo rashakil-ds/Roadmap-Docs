@@ -233,4 +233,8 @@ This repository is continually updated based on the top `job postings` on **Link
 # Other Roadmaps
 - [Read Now](https://github.com/rashakil-ds/Roadmap-Docs)
 
-
+# Recomended Courses at aiQuest Intelligence
+1. [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
+2. [SQL, Statistics & Data Analysis Tools](https://aiquest.org/courses/data-analysis-specialization/)
+3. [Machine Learning & Deep Learning](https://aiquest.org/courses/data-science-machine-learning/)
+4. [Advanced Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
