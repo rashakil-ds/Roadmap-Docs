@@ -255,6 +255,13 @@ By following this roadmap step-by-step, you’ll be well-prepared to excel as a 
  
 [**Search Data Engineer Jobs**](https://www.google.com/search?q=remote+big+data+engineer+jobs+near+me)
 
+---
+# Recomended Courses at aiQuest Intelligence
+1. [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
+2. [Become a Big Data Engineer](https://aiquest.org/courses/become-a-big-data-engineer/)
+
+*Note:* We suggest these premium courses because they are well-organized and will guide you step by step, from basic to advanced levels. Always remember that `T-shaped skills` are better than `i-shaped skill`. However, for those who cannot afford these courses, don't worry! Search on YouTube using the topic names mentioned in the roadmap. You will find plenty of `free tutorials` that are also great for learning. Best of luck!
+
 # About the Author
 **Rashedul Alam Shakil**  
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
