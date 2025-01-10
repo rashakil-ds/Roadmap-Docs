@@ -60,9 +60,28 @@
 - [Python Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
 - [Python for AI Engineers](https://aiquest.org/courses/become-a-python-developer/)
 
+
+-----------------------------------------------
+### **Step 2: Learn GitHub**
+- GitHub is a crucial platform for version control and collaboration.
+- Enables you to showcase your projects and build a portfolio.
+- Facilitates teamwork on data science projects.
+
+### **What to Learn?**
+- **Git Basics:**
+  - Version control concepts, repositories, branches, commits, pull requests.
+- **GitHub Skills:**
+  - Hosting projects, collaboration workflows, managing issues.
+- **Best Practices:**
+  - Writing READMEs, structuring repositories, using `.gitignore` files.
+
+### **Resources**
+- [Complete GitHub for Data Scientists](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
+- Use GitHub to practice hosting Python, SQL, and machine learning projects.
+
 ---
 
-## **Step 2: Mathematics for Generative AI**
+## **Step 3: Mathematics for Generative AI**
 
 ### **Why Learn Mathematics?**
 - Provides the theoretical foundation for generative models and algorithms.
@@ -83,7 +102,7 @@
 
 ---
 
-## **Step 3: Foundations of Machine Learning**
+## **Step 4: Foundations of Machine Learning**
 
 ### **Why Learn Machine Learning?**
 - Generative AI builds on the principles of ML for training and optimizing models.
@@ -103,7 +122,7 @@
 
 ---
 
-## **Step 4: Deep Learning**
+## **Step 5: Deep Learning**
 
 ### **Why Learn Deep Learning?**
 - Deep learning underpins the majority of generative AI models.
@@ -128,7 +147,7 @@
 
 ---
 
-## **Step 5: Natural Language Processing (NLP)**
+## **Step 6: Natural Language Processing (NLP)**
 
 ### **Why Learn NLP?**
 - Generative models like GPT excel in language-related tasks.
@@ -145,7 +164,7 @@
 
 ---
 
-## **Step 6: Generative Models**
+## **Step 7: Generative Models**
 
 ### **Why Learn Generative Models?**
 - Generative models drive content creation in text, images, audio, and more.
@@ -168,7 +187,7 @@
 
 ---
 
-## **Step 7: Reinforcement Learning (Optional)**
+## **Step 8: Reinforcement Learning (Optional)**
 
 ### **Why Learn Reinforcement Learning?**
 - RL can enhance generative models by optimizing sequential decision-making.
@@ -183,7 +202,7 @@
 
 ---
 
-## **Step 8: MLOps and Model Deployment**
+## **Step 9: MLOps and Model Deployment**
 
 ### **Why Learn MLOps?**
 - To ensure generative AI models are production-ready and maintainable.
@@ -204,7 +223,7 @@
 
 ---
 
-## **Step 9: Projects**
+## **Step 10: Projects**
 
 ### **Why Work on Projects?**
 - Demonstrates your ability to apply generative AI to real-world problems.
