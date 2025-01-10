@@ -22,9 +22,9 @@
 
 ---
 
-## **Step 1: Programming Fundamentals**
+## **Step 1: Programming Fundamentals (Python)**
 
-### **Why Learn Programming?**
+### **Why Learn Python?**
 - AI Engineers need a strong programming foundation for implementing AI models and systems.
 
 ### **What to Learn?**
@@ -34,10 +34,6 @@
   - **NumPy:** Numerical computations.
   - **Pandas & Polars:** Data manipulation and cleaning.
   - **Matplotlib/Seaborn:** Data visualization.
-
-- **Additional Languages (Optional):**
-  - Java (for enterprise applications).
-  - C++ (for robotics and performance-critical tasks).
 
 ### **Resources**
 - [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
@@ -63,7 +59,7 @@
 - Excels in creating performance-critical, large-scale AI systems.
 
 -----------------------------------------------
-### **Step 2: Learn GitHub**
+## **Step 2: Learn GitHub**
 - GitHub is a crucial platform for version control and collaboration.
 - Enables you to showcase your projects and build a portfolio.
 - Facilitates teamwork on data science projects.
