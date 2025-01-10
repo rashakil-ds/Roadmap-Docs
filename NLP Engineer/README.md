@@ -41,9 +41,44 @@
 - [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
 - [Hugging Face Tutorials](https://huggingface.co/transformers/)
 
+-----------------------------------------------
+## **Step 2: Learn GitHub**
+- GitHub is a crucial platform for version control and collaboration.
+- Enables you to showcase your projects and build a portfolio.
+- Facilitates teamwork on data science projects.
+
+### **What to Learn?**
+- **Git Basics:**
+  - Version control concepts, repositories, branches, commits, pull requests.
+- **GitHub Skills:**
+  - Hosting projects, collaboration workflows, managing issues.
+- **Best Practices:**
+  - Writing READMEs, structuring repositories, using `.gitignore` files.
+
+### **Resources**
+- [Complete GitHub for Data Scientists](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
+- Use GitHub to practice hosting Python, SQL, and machine learning projects.
+
+-----------------------------------------------
+## **Step 3: SQL**
+
+### **Why Learn SQL?**
+- Essential for querying, extracting, and joining data from relational databases.
+- Used to preprocess and prepare data before modeling.
+
+### **What to Learn?**
+- Basics: SELECT, INSERT, UPDATE, DELETE.
+- Intermediate: Joins (INNER, LEFT, RIGHT, FULL), subqueries.
+- Advanced: Window functions, CTEs (Common Table Expressions), and query optimization.
+
+### **Resources**
+- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
+- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
+- Tools like MySQL Workbench, SQLite, or PostgreSQL.
+
 ---
 
-## **Step 2: Foundations of Natural Language Processing (NLP)**
+## **Step 4: Foundations of Natural Language Processing (NLP)**
 
 ### **Why Learn NLP Basics?**
 - Understanding foundational concepts is critical for building advanced models.
@@ -61,7 +96,7 @@
 
 ---
 
-## **Step 3: Machine Learning for NLP**
+## **Step 5: Machine Learning for NLP**
 
 ### **Why Learn ML for NLP?**
 - Classical ML techniques are the basis for many NLP tasks.
@@ -79,7 +114,7 @@
   - **Scikit-learn:** For classical machine learning tasks.
 ---
 
-## **Step 4: Deep Learning for NLP**
+## **Step 6: Deep Learning for NLP**
 
 ### **Why Learn Deep Learning for NLP?**
 - Powers advanced NLP models for understanding and generating text.
@@ -100,7 +135,7 @@
   - **TensorFlow/PyTorch:** For custom deep learning-based NLP solutions.
 ---
 
-## **Step 5: Projects**
+## **Step 7: Projects**
 
 ### **Why Work on Projects?**
 - Projects showcase your ability to apply NLP techniques in real-world scenarios.
