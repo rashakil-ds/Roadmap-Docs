@@ -57,7 +57,7 @@
 - Excels in creating performance-critical, large-scale AI systems.
 
 -----------------------------------------------
-### **Step 2: Learn GitHub**
+## **Step 2: Learn GitHub**
 - GitHub is a crucial platform for version control and collaboration.
 - Enables you to showcase your projects and build a portfolio.
 - Facilitates teamwork on data science projects.
