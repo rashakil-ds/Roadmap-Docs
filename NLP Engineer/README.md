@@ -135,7 +135,27 @@
   - **TensorFlow/PyTorch:** For custom deep learning-based NLP solutions.
 ---
 
-## **Step 7: Projects**
+## **Step 7: Generative Models**
+
+### **Why Learn Generative Models?**
+- Generative models drive content creation in text, audio, and more.
+
+### **What to Learn?**
+- **Variational Autoencoders (VAEs):**
+  - Applications in text generation and compression.
+- **Transformers:**
+  - GPT, DALL-E, T5.
+- **Fine-Tuning and Custom Training:**
+  - Domain-specific adaptations of pre-trained models.
+
+### **Resources**
+- [Generative AI Guide](https://huggingface.co/models)
+- [LangChain](https://python.langchain.com/docs/introduction/)
+- [Generative AI Course](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+  
+---
+## **Step 8: Projects**
 
 ### **Why Work on Projects?**
 - Projects showcase your ability to apply NLP techniques in real-world scenarios.
