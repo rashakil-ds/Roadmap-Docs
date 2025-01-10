@@ -57,7 +57,25 @@
 - Excels in creating performance-critical, large-scale AI systems.
 
 -----------------------------------------------
-## **Step 2: SQL**
+### **Step 2: Learn GitHub**
+- GitHub is a crucial platform for version control and collaboration.
+- Enables you to showcase your projects and build a portfolio.
+- Facilitates teamwork on data science projects.
+
+### **What to Learn?**
+- **Git Basics:**
+  - Version control concepts, repositories, branches, commits, pull requests.
+- **GitHub Skills:**
+  - Hosting projects, collaboration workflows, managing issues.
+- **Best Practices:**
+  - Writing READMEs, structuring repositories, using `.gitignore` files.
+
+### **Resources**
+- [Complete GitHub for Machine Learning Engineers](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
+- Use GitHub to practice hosting Python, SQL, and machine learning projects.
+
+-----------------------------------------------
+## **Step 3: SQL**
 
 ### **Why Learn SQL?**
 - Essential for querying, extracting, and joining data from relational databases.
@@ -74,7 +92,7 @@
 - Tools like MySQL Workbench, SQLite, or PostgreSQL.
   
 -----------------------------------------------
-## **Step 3: Mathematics for Machine Learning**
+## **Step 4: Mathematics for Machine Learning**
 
 ### **Why Learn Mathematics for Machine Learning?**
 - Provides the theoretical foundation for machine learning algorithms.
@@ -99,7 +117,7 @@
   
 -----------------------------------------------
 
-## **Step 4: Statistical Machine Learning**
+## **Step 5: Statistical Machine Learning**
 
 ### **Why Learn Machine Learning?**
 The core responsibility of an ML engineer is building, optimizing, and scaling ML models.
@@ -129,7 +147,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---------------------------------------------
 
-## **Step 5: Deep Learning**
+## **Step 6: Deep Learning**
 
 ### **Why Learn Deep Learning?**
 - Powers advanced AI applications such as image recognition, NLP, and generative models.
@@ -155,7 +173,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---------------------------------------------
 
-## **Step 6: Reinforcement Learning (Optional)**
+## **Step 7: Reinforcement Learning (Optional)**
 
 ### **Why Learn Reinforcement Learning?**
 - RL focuses on decision-making in dynamic environments.
@@ -184,7 +202,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---------------------------------------------
 
-## **Step 7: MLOps and Model Deployment**
+## **Step 8: MLOps and Model Deployment**
 
 ### **Why Learn MLOps?**
 - Ensures models are production-ready, scalable, and maintainable.
@@ -206,7 +224,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---------------------------------------------
 
-## **Step 8: Scalable Data Processing**
+## **Step 9: Scalable Data Processing**
 
 ### **Why Learn Scalable Data Processing?**
 - Essential for handling large datasets in production environments.
@@ -226,7 +244,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---------------------------------------------
 
-## **Step 9: Projects**
+## **Step 10: Projects**
 
 ### **Why Work on Projects?**
 - Demonstrates your ability to build and deploy end-to-end ML solutions.
