@@ -76,7 +76,25 @@
 - [Complete GitHub for Data Scientists](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
 - Use GitHub to practice hosting Python, SQL, and machine learning projects.
 
-## **Step 3: Mathematics for AI**
+-----------------------------------------------
+## **Step 3: SQL**
+
+### **Why Learn SQL?**
+- Essential for querying, extracting, and joining data from relational databases.
+- Used to preprocess and prepare data before modeling.
+
+### **What to Learn?**
+- Basics: SELECT, INSERT, UPDATE, DELETE.
+- Intermediate: Joins (INNER, LEFT, RIGHT, FULL), subqueries.
+- Advanced: Window functions, CTEs (Common Table Expressions), and query optimization.
+
+### **Resources**
+- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
+- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
+- Tools like MySQL Workbench, SQLite, or PostgreSQL.
+
+---
+## **Step 4: Mathematics for AI**
 
 ### **Why Learn Mathematics for AI?**
 - Provides the foundation for understanding and implementing AI algorithms.
@@ -98,7 +116,7 @@
 - [Gradient Descent](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe7mmYIb6NYCPRbljkE6is8)
 ---
 
-## **Step 4: Statistical Machine Learning**
+## **Step 5: Statistical Machine Learning**
 
 ### **Why Learn Machine Learning?**
 - AI Engineers build on ML techniques to create intelligent systems.
@@ -124,7 +142,7 @@
 - Practice using Python's `sklearn` and Kaggle competitions.
 ---
 
-## **Step 5: Deep Learning**
+## **Step 6: Deep Learning**
 
 ### **Why Learn Deep Learning?**
 - Fundamental for advanced AI applications like NLP, Computer Vision, and Generative AI.
@@ -150,7 +168,7 @@
   
 ---
 
-## **Step 6: Natural Language Processing (NLP)**
+## **Step 7: Natural Language Processing (NLP)**
 
 ### **Why Learn NLP?**
 - Essential for tasks like language translation, sentiment analysis, and conversational AI.
@@ -168,7 +186,7 @@
 
 ---
 
-## **Step 7: Computer Vision**
+## **Step 8: Computer Vision**
 
 ### **Why Learn Computer Vision?**
 - Powers AI applications like object detection, facial recognition, and autonomous vehicles.
@@ -185,7 +203,7 @@
 
 ---
 
-## **Step 8: Generative AI**
+## **Step 9: Generative AI**
 
 ### **Why Learn Generative AI?**
 - To build state-of-the-art models for content generation, including text, images, and videos.
@@ -206,7 +224,7 @@
   
 ---
 
-## **Step 9: Reinforcement Learning (RL)**
+## **Step 10: Reinforcement Learning (RL)**
 
 ### **Why Learn Reinforcement Learning?**
 - RL focuses on decision-making in dynamic environments.
@@ -241,7 +259,7 @@
 
 ---
 
-## **Step 10: MLOps and AI Deployment**
+## **Step 11: MLOps and AI Deployment**
 
 ### **Why Learn MLOps?**
 - To ensure AI systems are scalable, maintainable, and production-ready.
@@ -262,7 +280,7 @@
 
 ---
 
-## **Step 11: Projects**
+## **Step 12: Projects**
 
 ### **Why Work on Projects?**
 - Demonstrates your ability to build and deploy AI systems.
