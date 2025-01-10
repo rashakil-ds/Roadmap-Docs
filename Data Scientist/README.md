@@ -59,10 +59,26 @@
 - [R for Data Science](https://r4ds.had.co.nz/)
 - [R Shiny Tutorials](https://shiny.rstudio.com/tutorial/)
 
-
 -----------------------------------------------
+### **Step 2: Learn GitHub**
+- GitHub is a crucial platform for version control and collaboration.
+- Enables you to showcase your projects and build a portfolio.
+- Facilitates teamwork on data science projects.
 
-## **Step 2: SQL**
+### **What to Learn?**
+- **Git Basics:**
+  - Version control concepts, repositories, branches, commits, pull requests.
+- **GitHub Skills:**
+  - Hosting projects, collaboration workflows, managing issues.
+- **Best Practices:**
+  - Writing READMEs, structuring repositories, using `.gitignore` files.
+
+### **Resources**
+- [Complete GitHub for Data Scientists](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
+- Use GitHub to practice hosting Python, SQL, and machine learning projects.
+
+---
+## **Step 3: SQL**
 
 ### **Why Learn SQL?**
 - Essential for querying, extracting, and joining data from relational databases.
@@ -81,7 +97,7 @@
 
 -----------------------------------------------
 
-## **Step 3: Maths, Statistics and Probability**
+## **Step 4: Maths, Statistics and Probability**
 
 ### **Why Learn Statistics and Probability?**
 - Provides the foundation for understanding data, patterns, and trends.
@@ -105,7 +121,7 @@
 
 -------------------------------------------------------
 
-## **Step 4: Machine Learning**
+## **Step 5: Machine Learning**
 
 ### **Why Learn Machine Learning?**
 - Key for building predictive models and solving real-world problems.
@@ -140,7 +156,7 @@
 
 ---------------------------------------------
 
-## **Step 5: Deep Learning (Intermediate)**
+## **Step 6: Deep Learning (Intermediate)**
 
 ### **Why Learn Deep Learning?**
 - For advanced AI applications such as image recognition, NLP, and generative models.
@@ -164,7 +180,7 @@
   
 ---------------------------------------------
 
-## **Step 6: Data Visualization Tools**
+## **Step 7: Data Visualization & BI Tools**
 
 ### **Why Learn Visualization Tools?**
 - For communicating insights effectively to stakeholders.
@@ -182,7 +198,7 @@
 
 ---------------------------------------------
 
-## **Step 7: Projects**
+## **Step 8: Projects**
 
 ### **Why Work on Projects?**
 - Hands-on experience to apply all the skills learned.
