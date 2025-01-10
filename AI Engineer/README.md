@@ -45,8 +45,25 @@
 - [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
 
 ---
+-----------------------------------------------
+### **Step 2: Learn GitHub**
+- GitHub is a crucial platform for version control and collaboration.
+- Enables you to showcase your projects and build a portfolio.
+- Facilitates teamwork on data science projects.
 
-## **Step 2: Mathematics for AI**
+### **What to Learn?**
+- **Git Basics:**
+  - Version control concepts, repositories, branches, commits, pull requests.
+- **GitHub Skills:**
+  - Hosting projects, collaboration workflows, managing issues.
+- **Best Practices:**
+  - Writing READMEs, structuring repositories, using `.gitignore` files.
+
+### **Resources**
+- [Complete GitHub for Data Scientists](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
+- Use GitHub to practice hosting Python, SQL, and machine learning projects.
+
+## **Step 3: Mathematics for AI**
 
 ### **Why Learn Mathematics for AI?**
 - Provides the foundation for understanding and implementing AI algorithms.
@@ -68,7 +85,7 @@
 - [Gradient Descent](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe7mmYIb6NYCPRbljkE6is8)
 ---
 
-## **Step 3: Statistical Machine Learning**
+## **Step 4: Statistical Machine Learning**
 
 ### **Why Learn Machine Learning?**
 - AI Engineers build on ML techniques to create intelligent systems.
@@ -94,7 +111,7 @@
 - Practice using Python's `sklearn` and Kaggle competitions.
 ---
 
-## **Step 4: Deep Learning**
+## **Step 5: Deep Learning**
 
 ### **Why Learn Deep Learning?**
 - Fundamental for advanced AI applications like NLP, Computer Vision, and Generative AI.
@@ -120,7 +137,7 @@
   
 ---
 
-## **Step 5: Natural Language Processing (NLP)**
+## **Step 6: Natural Language Processing (NLP)**
 
 ### **Why Learn NLP?**
 - Essential for tasks like language translation, sentiment analysis, and conversational AI.
@@ -138,7 +155,7 @@
 
 ---
 
-## **Step 6: Computer Vision**
+## **Step 7: Computer Vision**
 
 ### **Why Learn Computer Vision?**
 - Powers AI applications like object detection, facial recognition, and autonomous vehicles.
@@ -155,7 +172,7 @@
 
 ---
 
-## **Step 7: Generative AI**
+## **Step 8: Generative AI**
 
 ### **Why Learn Generative AI?**
 - To build state-of-the-art models for content generation, including text, images, and videos.
@@ -176,7 +193,7 @@
   
 ---
 
-## **Step 8: Reinforcement Learning (RL)**
+## **Step 9: Reinforcement Learning (RL)**
 
 ### **Why Learn Reinforcement Learning?**
 - RL focuses on decision-making in dynamic environments.
@@ -211,7 +228,7 @@
 
 ---
 
-## **Step 9: MLOps and AI Deployment**
+## **Step 10: MLOps and AI Deployment**
 
 ### **Why Learn MLOps?**
 - To ensure AI systems are scalable, maintainable, and production-ready.
