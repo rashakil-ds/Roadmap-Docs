@@ -55,9 +55,27 @@
 - Essential for robotics and autonomous systems development using **ROS**.
 - Excels in creating performance-critical, large-scale AI systems.
 
+-----------------------------------------------
+### **Step 2: Learn GitHub**
+- GitHub is a crucial platform for version control and collaboration.
+- Enables you to showcase your projects and build a portfolio.
+- Facilitates teamwork on data science projects.
+
+### **What to Learn?**
+- **Git Basics:**
+  - Version control concepts, repositories, branches, commits, pull requests.
+- **GitHub Skills:**
+  - Hosting projects, collaboration workflows, managing issues.
+- **Best Practices:**
+  - Writing READMEs, structuring repositories, using `.gitignore` files.
+
+### **Resources**
+- [Complete GitHub for Data Scientists](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
+- Use GitHub to practice hosting Python, SQL, and machine learning projects.
+
 ---
 
-## **Step 2: Basics of Computer Vision**
+## **Step 3: Basics of Computer Vision**
 
 ### **Why Learn Vision Basics?**
 - Fundamental concepts are critical for understanding complex vision systems.
@@ -73,7 +91,7 @@
 
 ---
 
-## **Step 3: Deep Learning for Computer Vision**
+## **Step 4: Deep Learning for Computer Vision**
 
 ### **Why Learn Deep Learning for Vision?**
 - Deep learning powers the majority of state-of-the-art vision applications.
@@ -97,7 +115,7 @@
 
 ---
 
-## **Step 4: Projects**
+## **Step 5: Projects**
 
 ### **Why Work on Projects?**
 - Projects showcase your ability to apply vision techniques to real-world tasks.
