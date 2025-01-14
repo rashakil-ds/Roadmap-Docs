@@ -30,7 +30,7 @@ Feel free to dive deep into your selected area without worrying about unrelated 
 - **Libraries**
   - **NumPy:** For numerical computations.
   - **Pandas & Polars:** For data manipulation (DataFrames, cleaning data, handling datasets).
-  - **Matplotlib/Seaborn:** For creating visualizations.
+  - **Matplotlib/Seaborn/Plotly:** For creating visualizations.
 
 ### **Resources**
 - [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
