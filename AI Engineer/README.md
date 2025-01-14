@@ -73,7 +73,7 @@
   - Writing READMEs, structuring repositories, using `.gitignore` files.
 
 ### **Resources**
-- [Complete GitHub for Data Scientists](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
+- [Complete GitHub for AI Engineers](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
 - Use GitHub to practice hosting Python, SQL, and machine learning projects.
 
 -----------------------------------------------
