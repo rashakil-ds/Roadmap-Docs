@@ -55,7 +55,7 @@
 - **Dashboards:** Build interactive apps with **R Shiny**.
 
 #### **Resources**
-- [RApplied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
+- [Applied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
 - [R Shiny Tutorials](https://shiny.rstudio.com/tutorial/)
 
 -----------------------------------------------
