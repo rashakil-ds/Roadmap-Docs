@@ -56,7 +56,6 @@
 
 #### **Resources**
 - [Applied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
-- [R Shiny Tutorials](https://shiny.rstudio.com/tutorial/)
 
 -----------------------------------------------
 ## **Step 2: SQL**
