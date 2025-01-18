@@ -55,9 +55,7 @@
 - **Dashboards:** Build interactive apps with **R Shiny**.
 
 #### **Resources**
-- [R - YouTube Tutorials](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
-- [R for Data Science](https://r4ds.had.co.nz/)
-- [R Shiny Tutorials](https://shiny.rstudio.com/tutorial/)
+- [Applied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
 
 -----------------------------------------------
 ### **Step 2: Learn GitHub**
