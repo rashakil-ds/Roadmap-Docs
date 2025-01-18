@@ -55,9 +55,8 @@
 - **Dashboards:** Build interactive apps with **R Shiny**.
 
 #### **Resources**
-- [R - YouTube Tutorials](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
-- [R for Data Science](https://r4ds.had.co.nz/)
-- [R Shiny Tutorials](https://shiny.rstudio.com/tutorial/)
+- [Complete R Language Course](https://youtu.be/-kEYfTCrl-8)
+- [Applied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
 
 -----------------------------------------------
 ## **Step 2: SQL**
@@ -95,7 +94,7 @@
 ### **Resources**
 - [Khan Academy](https://www.youtube.com/playlist?list=PLsPuUQJY-zXXSAJWF-fdVy3jHVqnuGSrb).
 - [StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-- [Statistics with Python](https://www.youtube.com/playlist?list=PLKdU0fuY4OFeZCSF6aax3Uvwl6nWLIdSs)
+- [Complete Statistics for Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFeZCSF6aax3Uvwl6nWLIdSs)
 - [Statistics Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - Practice using Python (NumPy and SciPy) or Excel.
 
