@@ -55,6 +55,7 @@
 - **Dashboards:** Build interactive apps with **R Shiny**.
 
 #### **Resources**
+- [Complete R Language Course](https://youtu.be/-kEYfTCrl-8)
 - [Applied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
 
 -----------------------------------------------
