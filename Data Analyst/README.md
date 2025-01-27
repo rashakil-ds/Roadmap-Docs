@@ -197,6 +197,18 @@
 5. **End-to-End Project:**
    - Use Python for data cleaning, SQL for data extraction, and Power BI/Tableau for visualization.
 
+## Data Analyst Project Ideas
+1. **Sales Trend Analysis**: Use **SQL** and **Tableau**/**PowerBi** to analyze sales trends and visualize top-performing products.  
+2. **Customer Segmentation**: Perform clustering with **Python (Pandas, Scikit-learn)** and visualize results in **Tableau**/**PowerBi**.  
+3. **Website Traffic Analysis**: Analyze Google Analytics data with **Excel** and create dashboards in **Looker Studio**/**Tableau**/**PowerBi**.  
+4. **Retail Inventory Optimization**: Use **R** for inventory analysis and visualization to improve stock management.  
+5. **Marketing Campaign Analysis**: Evaluate campaign performance using **Tableau**/**PowerBi** and statistical analysis in **Excel**.  
+6. **HR Attrition Dashboard**: Build an interactive dashboard using **Power BI** with data insights from **SQL**.  
+7. **Financial Statement Analysis**: Perform financial ratio analysis in **Excel** and automate reporting with **Python**.  
+8. **Logistics and Supply Chain Analysis**: Use **Tableau**/**PowerBi** to visualize supply chain delays and **SQL** for querying data.  
+9. **Customer Support Ticket Analysis**: Analyze customer support trends with **Python (Pandas, Matplotlib)** and create KPIs in **Power BI**.  
+10. **Stock Market Trend Analysis**: Perform stock trend analysis using **Python (yFinance, Matplotlib)** and dashboards in **Tableau**.  
+
 ### **Where to Find Data?**
 - [Kaggle](https://www.kaggle.com/datasets)
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
