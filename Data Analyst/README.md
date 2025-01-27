@@ -197,7 +197,7 @@
 5. **End-to-End Project:**
    - Use Python for data cleaning, SQL for data extraction, and Power BI/Tableau for visualization.
 
-## Data Analyst Project Ideas
+## More Project Ideas for Data Analyst 
 1. **Sales Trend Analysis**: Use **SQL** and **Tableau**/**PowerBi** to analyze sales trends and visualize top-performing products.  
 2. **Customer Segmentation**: Perform clustering with **Python (Pandas, Scikit-learn)** and visualize results in **Tableau**/**PowerBi**.  
 3. **Website Traffic Analysis**: Analyze Google Analytics data with **Excel** and create dashboards in **Looker Studio**/**Tableau**/**PowerBi**.  
