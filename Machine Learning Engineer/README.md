@@ -56,6 +56,10 @@
 - Essential for robotics and autonomous systems development using **ROS**.
 - Excels in creating performance-critical, large-scale AI systems.
 
+#### Resources (Optional)
+- [Complete Java and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
+- [Complete c++ and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt)
+
 -----------------------------------------------
 ## **Step 2: Learn GitHub**
 - GitHub is a crucial platform for version control and collaboration.
