@@ -39,7 +39,7 @@
 - Practice with Python datasets on Kaggle or public repositories.
 
 -----------------------------------------------
-### Addition Language | Java | C++ (Optional): 
+### Addition Language | Java & C++ (Optional): 
 ### **Why Learn Java?**
 - Widely used in enterprise-level AI systems and backend development.
 - Excellent for scalable and production-ready AI applications.
@@ -55,6 +55,10 @@
 - Supports libraries like **OpenCV** for computer vision and **TensorFlow** C++ API for backend optimizations.
 - Essential for robotics and autonomous systems development using **ROS**.
 - Excels in creating performance-critical, large-scale AI systems.
+
+#### Resources (Optional)
+- [Complete Java and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
+- [Complete c++ and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt)
 
 -----------------------------------------------
 ## **Step 2: Learn GitHub**

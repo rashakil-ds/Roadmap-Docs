@@ -36,6 +36,12 @@
   - **Pandas:** Data manipulation and cleaning.
   - **Matplotlib/Seaborn:** Data visualization.
 
+---
+### **Resources**
+- [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
+- [Python Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
+- [Python for AI Engineers](https://aiquest.org/courses/become-a-python-developer/)
+
 -----------------------------------------------
 ### Addition Language | Java | C++ (Optional): 
 ### **Why Learn Java?**
@@ -54,12 +60,9 @@
 - Essential for robotics and autonomous systems development using **ROS**.
 - Excels in creating performance-critical, large-scale AI systems.
 
----
-### **Resources**
-- [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
-- [Python Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
-- [Python for AI Engineers](https://aiquest.org/courses/become-a-python-developer/)
-
+#### Resources (Optional)
+- [Complete Java and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
+- [Complete c++ and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt)
 
 -----------------------------------------------
 ### **Step 2: Learn GitHub**
