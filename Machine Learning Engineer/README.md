@@ -39,7 +39,7 @@
 - Practice with Python datasets on Kaggle or public repositories.
 
 -----------------------------------------------
-### Addition Language | Java | C++ (Optional): 
+### Addition Language | Java & C++ (Optional): 
 ### **Why Learn Java?**
 - Widely used in enterprise-level AI systems and backend development.
 - Excellent for scalable and production-ready AI applications.
