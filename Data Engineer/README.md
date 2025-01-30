@@ -136,6 +136,7 @@ Data warehousing is vital for storing and analyzing structured data at scale.
 
 #### **Resources:**
 - [Data Warehousing & ETL](https://aiquest.org/courses/become-a-big-data-engineer/)
+- [YouTube - Data Warehouse](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHexyDzYgry0YZN29e7HdNB)
 
 ---
 
@@ -150,9 +151,8 @@ Automates data workflows and ensures scalability of pipelines.
 - Automating ETL workflows.
 
 #### **Resources:**
-- [Module - Workflow Orchestration Tool - Apache Airflow](https://aiquest.org/courses/become-a-big-data-engineer/)
 - [Apache Airflow Documentation](https://airflow.apache.org/)
-- [Big Data Engineering](https://aiquest.org/courses/become-a-big-data-engineer/)
+- [Module - Workflow Orchestration Tool - Apache Airflow](https://aiquest.org/courses/become-a-big-data-engineer/)
 
 ---
 
@@ -217,6 +217,7 @@ Cloud platforms are widely used for data storage, processing, and analytics.
 
 #### **Resources:**
 - [Module - GCP & Google BigQuery](https://aiquest.org/courses/become-a-big-data-engineer/)
+- [BigQuery Tutorials](https://www.youtube.com/playlist?list=PLIivdWyY5sqLAbIdmcMwsxWg-w8Px34MS)
 - [Google BigQuery Documentation](https://cloud.google.com/bigquery)
 
 ---
@@ -244,10 +245,26 @@ Hands-on experience with end-to-end data engineering workflows.
 
 ---
 
-## **Additional Recommendations (Optional)**
-- Stay updated with industry trends in cloud computing and big data.
-- Collaborate with teams to understand real-world data challenges.
-- Continuously improve soft skills for effective communication and teamwork.
+# **Additional Skills Recommendations (Optional)**
+
+**1. Real-Time Data Processing with Apache Kafka**  
+### **Why Kafka?**  
+- Many modern applications require real-time data streaming.
+- Enables real-time data ingestion, processing, and event-driven architectures.  
+- Essential for applications like fraud detection, recommendation systems, and IoT analytics.  
+### **What to Learn?**  
+- **Kafka Architecture** – Topics, partitions, brokers, producers, consumers.  
+- **Kafka Streaming** – Stream processing with Kafka Streams and KSQL.  
+- **Integration** – Kafka with Spark, Flink, and Data Lakes.
+
+**2. DataOps & DevOps for Data Pipelines with Terraform**  
+### **Why?**  
+- Automates infrastructure provisioning and deployment of scalable data pipelines.  
+- Ensures reliability, version control, and security in cloud environments.  
+### **What to Learn?**  
+- **Infrastructure as Code (IaC)** – Automating cloud setup with Terraform.  
+- **CI/CD Pipelines** – Automating data workflow deployments (GitHub Actions, Jenkins).  
+- **Monitoring & Security** – Observability with Prometheus, Grafana, and cloud logging.  
 
 ---
 
