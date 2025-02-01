@@ -258,7 +258,7 @@ Hands-on experience with end-to-end data engineering workflows.
 ---
 
 ## **2. DataOps & DevOps for Data Pipelines with Terraform**  
-### **Why?**  
+### **Why Terraform?**  
 - Automates infrastructure provisioning and deployment of scalable data pipelines.  
 - Ensures reliability, version control, and security in cloud environments.  
 ### **What to Learn?**  
