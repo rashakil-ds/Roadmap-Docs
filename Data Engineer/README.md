@@ -246,7 +246,6 @@ Hands-on experience with end-to-end data engineering workflows.
 ---
 
 # **Additional Skills Recommendations (Optional)**
----
 ## **1. Real-Time Data Processing with Apache Kafka**  
 ### **Why Kafka?**  
 - Many modern applications require real-time data streaming.
