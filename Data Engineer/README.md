@@ -247,7 +247,7 @@ Hands-on experience with end-to-end data engineering workflows.
 
 # **Additional Skills Recommendations (Optional)**
 
-**1. Real-Time Data Processing with Apache Kafka**  
+## **1. Real-Time Data Processing with Apache Kafka**  
 ### **Why Kafka?**  
 - Many modern applications require real-time data streaming.
 - Enables real-time data ingestion, processing, and event-driven architectures.  
@@ -257,7 +257,7 @@ Hands-on experience with end-to-end data engineering workflows.
 - **Kafka Streaming** – Stream processing with Kafka Streams and KSQL.  
 - **Integration** – Kafka with Spark, Flink, and Data Lakes.
 
-**2. DataOps & DevOps for Data Pipelines with Terraform**  
+## **2. DataOps & DevOps for Data Pipelines with Terraform**  
 ### **Why?**  
 - Automates infrastructure provisioning and deployment of scalable data pipelines.  
 - Ensures reliability, version control, and security in cloud environments.  
