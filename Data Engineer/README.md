@@ -246,8 +246,7 @@ Hands-on experience with end-to-end data engineering workflows.
 ---
 
 # **Additional Skills Recommendations (Optional)**
-
-**1. Real-Time Data Processing with Apache Kafka**  
+## **1. Real-Time Data Processing with Apache Kafka**  
 ### **Why Kafka?**  
 - Many modern applications require real-time data streaming.
 - Enables real-time data ingestion, processing, and event-driven architectures.  
@@ -256,16 +255,16 @@ Hands-on experience with end-to-end data engineering workflows.
 - **Kafka Architecture** – Topics, partitions, brokers, producers, consumers.  
 - **Kafka Streaming** – Stream processing with Kafka Streams and KSQL.  
 - **Integration** – Kafka with Spark, Flink, and Data Lakes.
+---
 
-**2. DataOps & DevOps for Data Pipelines with Terraform**  
-### **Why?**  
+## **2. DataOps & DevOps for Data Pipelines with Terraform**  
+### **Why Terraform?**  
 - Automates infrastructure provisioning and deployment of scalable data pipelines.  
 - Ensures reliability, version control, and security in cloud environments.  
 ### **What to Learn?**  
 - **Infrastructure as Code (IaC)** – Automating cloud setup with Terraform.  
 - **CI/CD Pipelines** – Automating data workflow deployments (GitHub Actions, Jenkins).  
 - **Monitoring & Security** – Observability with Prometheus, Grafana, and cloud logging.  
-
 ---
 
 By following this roadmap step-by-step, you’ll be well-prepared to excel as a **Data Engineer**. Let me know if you'd like further guidance on any step! Please write an email to me.
