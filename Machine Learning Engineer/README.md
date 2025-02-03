@@ -36,6 +36,7 @@
 - [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
 - [Python Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
 - [For Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
+- [Learn Pandas](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdsmcM817qp1L3ngU5amkak)
 - Practice with Python datasets on Kaggle or public repositories.
 
 -----------------------------------------------
