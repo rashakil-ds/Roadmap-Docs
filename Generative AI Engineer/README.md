@@ -116,9 +116,7 @@
   - Gradient descent, convex optimization, and backpropagation.
 
 ### **Resources**
-- [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [Khan Academy - Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0)
-- [Learn Calculus](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdKwJ4EBxqk2DfePO6KM2GL)
+- [A-Z Linear Algebra & Calculus for AI & Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw)
 - [Gradient Descent](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe7mmYIb6NYCPRbljkE6is8)
 
 ---

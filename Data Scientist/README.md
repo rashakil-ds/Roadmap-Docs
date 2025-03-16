@@ -55,8 +55,6 @@
 - **Dashboards:** Build interactive apps with **R Shiny**.
 
 #### **Resources**
-- [Complete R Language Course](https://youtu.be/-kEYfTCrl-8)
-- [Descriptive Statistics, ggplot2, RMarkdown, Plotly](https://youtu.be/POvm_JNrx2I)
 - [Complete Applied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
 
 -----------------------------------------------
@@ -112,11 +110,8 @@
 - Differential Calculus
 
 ### **Resources**
-- [Khan Academy - Statistics](https://www.youtube.com/playlist?list=PLsPuUQJY-zXXSAJWF-fdVy3jHVqnuGSrb)
-- [StatQuest - Statistics Made Easy](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-- [Statistics with Python](https://www.youtube.com/playlist?list=PLKdU0fuY4OFeZCSF6aax3Uvwl6nWLIdSs)
-- [Statistics Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
-- [Differential Calculus](https://youtube.com/playlist?list=PLKdU0fuY4OFdKwJ4EBxqk2DfePO6KM2GL&si=LczAiWR0HtcneSYu)
+- [A-Z Linear Algebra & Calculus for AI & Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw)
+- [Complete Applied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
 - Practice using Python (`NumPy`, `SciPy`, and `statsmodels`).
 
 -------------------------------------------------------
