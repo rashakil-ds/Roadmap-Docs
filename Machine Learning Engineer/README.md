@@ -40,28 +40,6 @@
 - Practice with Python datasets on Kaggle or public repositories.
 
 -----------------------------------------------
-### Addition Language | Java & C++ (Optional): 
-### **Why Learn Java?**
-- Widely used in enterprise-level AI systems and backend development.
-- Excellent for scalable and production-ready AI applications.
-- Integrates seamlessly with big data frameworks and distributed systems.
-- Supports libraries like **Deeplearning4j** for deep learning and **Weka** for machine learning.
-- Ideal for building AI-powered APIs and enterprise solutions.
-- Plays a critical role in big data processing with frameworks like **Apache Spark**.
-  
-### **Why Learn C++?**
-- Known for its speed and efficiency, making it ideal for real-time AI applications.
-- Widely used in robotics, computer vision, and gaming AI.
-- Provides granular control over memory and system resources.
-- Supports libraries like **OpenCV** for computer vision and **TensorFlow** C++ API for backend optimizations.
-- Essential for robotics and autonomous systems development using **ROS**.
-- Excels in creating performance-critical, large-scale AI systems.
-
-#### Resources (Optional)
-- [Complete Java and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
-- [Complete c++ and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt)
-
------------------------------------------------
 ## **Step 2: Learn GitHub**
 - GitHub is a crucial platform for version control and collaboration.
 - Enables you to showcase your projects and build a portfolio.
@@ -290,9 +268,31 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 4. Deploy models using MLOps frameworks.
 5. Monitor and maintain models in production.
 
-Following this roadmap, step-by-step will give you the skills needed to succeed as a `Machine Learning Engineer`. Let me know if you’d like additional resources or specific examples! Feel free to reach out.
+Following this roadmap, step-by-step will give you the skills needed to succeed as a `Machine Learning Engineer`. Let me know if you’d like additional resources or specific examples!
 
 [**Search Machine Learning Engineer Jobs**](https://www.google.com/search?q=remote+machine+learning+engineer+jobs+near+me)
+
+-----------------------------------------------
+### Addition Language | Java & C++ (Optional): 
+### **Why Learn Java?**
+- Widely used in enterprise-level AI systems and backend development.
+- Excellent for scalable and production-ready AI applications.
+- Integrates seamlessly with big data frameworks and distributed systems.
+- Supports libraries like **Deeplearning4j** for deep learning and **Weka** for machine learning.
+- Ideal for building AI-powered APIs and enterprise solutions.
+- Plays a critical role in big data processing with frameworks like **Apache Spark**.
+  
+### **Why Learn C++?**
+- Known for its speed and efficiency, making it ideal for real-time AI applications.
+- Widely used in robotics, computer vision, and gaming AI.
+- Provides granular control over memory and system resources.
+- Supports libraries like **OpenCV** for computer vision and **TensorFlow** C++ API for backend optimizations.
+- Essential for robotics and autonomous systems development using **ROS**.
+- Excels in creating performance-critical, large-scale AI systems.
+
+#### Resources (Optional)
+- [Complete Java and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
+- [Complete c++ and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt)
 
 ---
 # Recomended Courses at aiQuest Intelligence
