@@ -237,8 +237,8 @@ This repository is continually updated based on the top `job postings` on **Link
 ---
 # Recomended Courses at aiQuest Intelligence
 1. [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
-2. [Machine Learning & Deep Learning Core Concepts](https://aiquest.org/courses/data-science-machine-learning/)
-3. [A-Z Linear Algebra & Calculus for AI & Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw)
+2. [A-Z Linear Algebra & Calculus for AI & Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw)
+3. [Machine Learning & Deep Learning Core Concepts](https://aiquest.org/courses/data-science-machine-learning/)
 4. [Advanced Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 5. [SQL & Data Analysis Tools](https://aiquest.org/courses/data-analysis-specialization/)
 
