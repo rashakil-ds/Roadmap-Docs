@@ -28,7 +28,7 @@
 - Understand data, patterns, and trends.
 - Essential for hypothesis testing, distributions, and inference.
 
-### What to Learn
+### What to Learn?
 - **Descriptive Statistics**: Mean, median, mode, variance, standard deviation, percentiles.
 - **Inferential Statistics**: Hypothesis testing, confidence intervals, t-tests, z-tests, ANOVA.
 - **Probability**: Basics, conditional probability, Bayes' theorem.
