@@ -15,9 +15,43 @@
 - Machine learning model development and evaluation.
 - Communicating insights through dashboards and visualizations.
 
+-----------------------------------------------
+
+## Step 1: Maths, Statistics and Probability
+
+### Why Learn Math?
+- Builds problem-solving and analytical thinking skills.
+- Forms the foundation for ML algorithms, models, and data analysis.
+- Essential for understanding functions, optimization, and quantitative reasoning in data science and machine learning.
+
+### Why Learn Statistics and Probability?
+- Understand data, patterns, and trends.
+- Essential for hypothesis testing, distributions, and inference.
+
+### What to Learn
+- **Descriptive Statistics**: Mean, median, mode, variance, standard deviation, percentiles.
+- **Inferential Statistics**: Hypothesis testing, confidence intervals, t-tests, z-tests, ANOVA.
+- **Probability**: Basics, conditional probability, Bayes' theorem.
+- **Distributions**: Normal, binomial, Poisson, uniform, exponential.
+- **Correlation vs. Causation**
+- **Regression**: Linear, multiple, logistic.
+- **Calculus**: Partial Derivatives, integrals, applications in optimization and area.
+- **Matrix Algebra**: Operations, inverses, eigenvalues.
+- **Combinatorics**: Permutations, combinations.
+- **Sampling**: Random, stratified, sample size, bias.
+- **Central Limit Theorem**
+- **Law of Large Numbers**
+- **Random Variables**: Discrete, continuous, expected value.
+- **Markov Chains** Basics.
+
+
+### **Resources**
+- [A-Z Linear Algebra & Calculus for AI & Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw)
+- [Complete Applied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
+- Practice using Python (`NumPy`, `SciPy`, and `statsmodels`).
 -------------------------------------------------
 
-## **Step 1: Python & Python Libraries**
+## **Step 2: Python & Python Libraries**
 
 ### **Why Learn Python?**
 - Python is the go-to programming language for data science due to its simplicity and robust libraries.
@@ -58,7 +92,7 @@
 - [Complete Applied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
 
 -----------------------------------------------
-### **Step 2: Learn GitHub**
+### **Step 3: Learn GitHub**
 - GitHub is a crucial platform for version control and collaboration.
 - Enables you to showcase your projects and build a portfolio.
 - Facilitates teamwork on data science projects.
@@ -76,7 +110,7 @@
 - Use GitHub to practice hosting Python, SQL, and machine learning projects.
 
 ---
-## **Step 3: SQL**
+## **Step 4: SQL**
 
 ### **Why Learn SQL?**
 - Essential for querying, extracting, and joining data from relational databases.
@@ -92,27 +126,6 @@
 - [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
 - [SQL Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - Tools like MySQL Workbench, SQLite, or PostgreSQL.
-
------------------------------------------------
-
-## **Step 4: Maths, Statistics and Probability**
-
-### **Why Learn Statistics and Probability?**
-- Provides the foundation for understanding data, patterns, and trends.
-- Core skills for hypothesis testing, probability distributions, and statistical inference.
-
-### **What to Learn?**
-- Descriptive Statistics: Mean, median, mode, variance, standard deviation.
-- Inferential Statistics: Hypothesis testing, confidence intervals, t-tests.
-- Probability: Probability distributions, Bayes' theorem.
-- Data Distributions: Normal, binomial, Poisson, etc.
-- Correlation vs. Causation: Understand relationships between variables.
-- Differential Calculus
-
-### **Resources**
-- [A-Z Linear Algebra & Calculus for AI & Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw)
-- [Complete Applied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
-- Practice using Python (`NumPy`, `SciPy`, and `statsmodels`).
 
 -------------------------------------------------------
 
