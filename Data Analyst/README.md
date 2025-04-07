@@ -164,11 +164,14 @@
 
 ### **What to Learn?**
 - **Regression Analysis**:
-  - Linear, Non-Linear, and Logistic Regression.
+  - Linear, Non-Linear, and Polynomial Regression.
   - Multivariate Regression techniques.
 - **Time Series Analysis**:
   - Forecasting trends and seasonality.
   - ARIMA models and other time series techniques.
+- **Classification**:
+  - Logistic Regression.
+  - Decision Tree, Random Forest, SVM, etc.
 
 ### **Resources**
 - [Statistical Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
