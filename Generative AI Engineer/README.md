@@ -71,7 +71,7 @@
 
 ### **What to Learn?**
 - **Supervised Learning:**
-  - Linear, Logistic Regression, Decision Trees.
+  - Linear, Logistic Regression, Boosting.
 - **Unsupervised Learning:**
   - Clustering (K-means), Dimensionality Reduction (PCA).
 - **Model Optimization:**
