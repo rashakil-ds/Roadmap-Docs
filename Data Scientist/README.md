@@ -91,45 +91,9 @@
 #### **Resources**
 - [Complete Applied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
 
------------------------------------------------
-### **Step 3: Learn GitHub**
-- GitHub is a crucial platform for version control and collaboration.
-- Enables you to showcase your projects and build a portfolio.
-- Facilitates teamwork on data science projects.
-
-### **What to Learn?**
-- **Git Basics:**
-  - Version control concepts, repositories, branches, commits, pull requests.
-- **GitHub Skills:**
-  - Hosting projects, collaboration workflows, managing issues.
-- **Best Practices:**
-  - Writing READMEs, structuring repositories, using `.gitignore` files.
-
-### **Resources**
-- [Complete GitHub for Data Scientists](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
-- Use GitHub to practice hosting Python, SQL, and machine learning projects.
-
----
-## **Step 4: SQL**
-
-### **Why Learn SQL?**
-- Essential for querying, extracting, and joining data from relational databases.
-- Used to preprocess and prepare data before modeling.
-
-### **What to Learn?**
-- Basics: SELECT, INSERT, UPDATE, DELETE.
-- Intermediate: Joins (INNER, LEFT, RIGHT, FULL), subqueries.
-- Advanced: Window functions, CTEs (Common Table Expressions), and query optimization.
-
-### **Resources**
-- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
-- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
-- [SQL Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
-- Tools like MySQL Workbench, SQLite, or PostgreSQL.
-
 -------------------------------------------------------
 
-## **Step 5: Machine Learning**
+## **Step 3: Machine Learning**
 
 ### **Why Learn Machine Learning?**
 - Key for building predictive models and solving real-world problems.
@@ -164,7 +128,7 @@
 
 ---------------------------------------------
 
-## **Step 6: Deep Learning (Intermediate)**
+## **Step 4: Deep Learning (Intermediate)**
 
 ### **Why Learn Deep Learning?**
 - For advanced AI applications such as image recognition, NLP, and generative models.
@@ -188,7 +152,7 @@
   
 ---------------------------------------------
 
-## **Step 7: Data Visualization & BI Tools**
+## **Step 5: Data Visualization & BI Tools**
 
 ### **Why Learn Visualization Tools?**
 - For communicating insights effectively to stakeholders.
@@ -204,6 +168,42 @@
 - [Power BI Tutorials](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys)
 - [PowerBi, Tableau/Looker Studio Module](https://aiquest.org/courses/data-analysis-specialization/)
 
+-----------------------------------------------
+### **Step 6: Learn GitHub**
+- GitHub is a crucial platform for version control and collaboration.
+- Enables you to showcase your projects and build a portfolio.
+- Facilitates teamwork on data science projects.
+
+### **What to Learn?**
+- **Git Basics:**
+  - Version control concepts, repositories, branches, commits, pull requests.
+- **GitHub Skills:**
+  - Hosting projects, collaboration workflows, managing issues.
+- **Best Practices:**
+  - Writing READMEs, structuring repositories, using `.gitignore` files.
+
+### **Resources**
+- [Complete GitHub for Data Scientists](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
+- Use GitHub to practice hosting Python, SQL, and machine learning projects.
+
+---
+## **Step 7: SQL**
+
+### **Why Learn SQL?**
+- Essential for querying, extracting, and joining data from relational databases.
+- Used to preprocess and prepare data before modeling.
+
+### **What to Learn?**
+- Basics: SELECT, INSERT, UPDATE, DELETE.
+- Intermediate: Joins (INNER, LEFT, RIGHT, FULL), subqueries.
+- Advanced: Window functions, CTEs (Common Table Expressions), and query optimization.
+
+### **Resources**
+- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
+- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
+- [SQL Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
+- Tools like MySQL Workbench, SQLite, or PostgreSQL.
+  
 ---------------------------------------------
 
 ## **Step 8: Projects**
