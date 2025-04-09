@@ -14,68 +14,11 @@
 - Developing and fine-tuning machine learning models.
 - Building pipelines for data processing and feature engineering.
 - Deploying, monitoring, and maintaining models in production.
-- Ensuring scalability, performance, and reliability of ML systems.
+- Ensuring the scalability, performance, and reliability of ML systems.
 
--------------------------------------------------
+---
 
-## **Step 1: Python & Python Libraries**
-
-### **Why Learn Python?**
-- Python is the primary programming language for machine learning and AI.
-- Supports libraries and frameworks for ML, deep learning, and data processing.
-
-### **What to Learn?**
-- **Python Basics**
-  - Variables, data types, loops, conditionals, functions, error handling, debugging, and OOPs.
-- **Libraries**
-  - **NumPy:** For numerical computations.
-  - **Pandas & Polars:** For data manipulation (DataFrames, cleaning data, handling datasets).
-  - **Matplotlib/Seaborn:** For creating visualizations.
-
-### **Resources**
-- [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
-- [Python Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
-- [For Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
-- [Learn Pandas](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdsmcM817qp1L3ngU5amkak)
-- Practice with Python datasets on Kaggle or public repositories.
-
------------------------------------------------
-## **Step 2: Learn GitHub**
-- GitHub is a crucial platform for version control and collaboration.
-- Enables you to showcase your projects and build a portfolio.
-- Facilitates teamwork on data science projects.
-
-### **What to Learn?**
-- **Git Basics:**
-  - Version control concepts, repositories, branches, commits, pull requests.
-- **GitHub Skills:**
-  - Hosting projects, collaboration workflows, managing issues.
-- **Best Practices:**
-  - Writing READMEs, structuring repositories, using `.gitignore` files.
-
-### **Resources**
-- [Complete GitHub for Machine Learning Engineers](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
-- Use GitHub to practice hosting Python, SQL, and machine learning projects.
-
------------------------------------------------
-## **Step 3: SQL**
-
-### **Why Learn SQL?**
-- Essential for querying, extracting, and joining data from relational databases.
-- Used to preprocess and prepare data before modeling.
-
-### **What to Learn?**
-- Basics: SELECT, INSERT, UPDATE, DELETE.
-- Intermediate: Joins (INNER, LEFT, RIGHT, FULL), subqueries.
-- Advanced: Window functions, CTEs (Common Table Expressions), and query optimization.
-
-### **Resources**
-- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
-- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
-- Tools like MySQL Workbench, SQLite, or PostgreSQL.
-  
------------------------------------------------
-## **Step 4: Mathematics for Machine Learning**
+## **Step 01: Mathematics for Machine Learning**
 
 ### **Why Learn Mathematics for Machine Learning?**
 - Provides the theoretical foundation for machine learning algorithms.
@@ -96,9 +39,32 @@
 - [A-Z Linear Algebra & Calculus for AI & Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw)
 - [Gradient Descent](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe7mmYIb6NYCPRbljkE6is8)
   
------------------------------------------------
+---
 
-## **Step 5: Statistical Machine Learning**
+## **Step 02: Python & Python Libraries**
+
+### **Why Learn Python?**
+- Python is the primary programming language for machine learning and AI.
+- Supports libraries and frameworks for ML, deep learning, and data processing.
+
+### **What to Learn?**
+- **Python Basics**
+  - Variables, data types, loops, conditionals, functions, error handling, debugging, and OOPs.
+- **Libraries**
+  - **NumPy:** For numerical computations.
+  - **Pandas & Polars:** For data manipulation (DataFrames, cleaning data, handling datasets).
+  - **Matplotlib/Seaborn:** For creating visualizations.
+
+### **Resources**
+- [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
+- [Python Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
+- [For Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
+- [Learn Pandas](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdsmcM817qp1L3ngU5amkak)
+- Practice with Python datasets on Kaggle or public repositories.
+
+---
+
+## **Step 03: Statistical Machine Learning**
 
 ### **Why Learn Machine Learning?**
 The core responsibility of an ML engineer is building, optimizing, and scaling ML models.
@@ -126,9 +92,9 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - [SciPy:](https://docs.scipy.org/doc/scipy/reference/index.html) For statistical analysis.
 - Practice using Python's `sklearn` and Kaggle competitions.
 
----------------------------------------------
+---
 
-## **Step 6: Deep Learning**
+## **Step 04: Deep Learning**
 
 ### **Why Learn Deep Learning?**
 - Powers advanced AI applications such as image recognition, NLP, and generative models.
@@ -152,9 +118,9 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - [Gradient Descent](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe7mmYIb6NYCPRbljkE6is8)
 - [Basic to Advanced Deep Learning](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
----------------------------------------------
+---
 
-## **Step 7: Reinforcement Learning (Optional)**
+## **Step 05: Reinforcement Learning (Optional)**
 
 ### **Why Learn Reinforcement Learning?**
 - RL focuses on decision-making in dynamic environments.
@@ -181,9 +147,46 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - [Spinning Up in Deep RL](https://spinningup.openai.com/)
 - [Reinforcement Learning Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
----------------------------------------------
+---
 
-## **Step 8: MLOps and Model Deployment**
+## **Step 06: Learn GitHub**
+- GitHub is a crucial platform for version control and collaboration.
+- Enables you to showcase your projects and build a portfolio.
+- Facilitates teamwork on data science projects.
+
+### **What to Learn?**
+- **Git Basics:**
+  - Version control concepts, repositories, branches, commits, pull requests.
+- **GitHub Skills:**
+  - Hosting projects, collaboration workflows, managing issues.
+- **Best Practices:**
+  - Writing READMEs, structuring repositories, using `.gitignore` files.
+
+### **Resources**
+- [Complete GitHub for Machine Learning Engineers](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
+- Use GitHub to practice hosting Python, SQL, and machine learning projects.
+
+---
+
+## **Step 07: SQL**
+
+### **Why Learn SQL?**
+- Essential for querying, extracting, and joining data from relational databases.
+- Used to preprocess and prepare data before modeling.
+
+### **What to Learn?**
+- Basics: SELECT, INSERT, UPDATE, DELETE.
+- Intermediate: Joins (INNER, LEFT, RIGHT, FULL), subqueries.
+- Advanced: Window functions, CTEs (Common Table Expressions), and query optimization.
+
+### **Resources**
+- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
+- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
+- Tools like MySQL Workbench, SQLite, or PostgreSQL.
+
+---
+
+## **Step 08: MLOps and Model Deployment**
 
 ### **Why Learn MLOps?**
 - Ensures models are production-ready, scalable, and maintainable.
@@ -203,9 +206,9 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - [Deploying ML Models Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdPhZ4k_hu7Rv3sjyi3IPtu)
 - [AWS SageMaker](https://www.youtube.com/playlist?list=PLmPJQXJiMoUWFW2JxRSAfhcsQ0Cr9qbv-)
 
----------------------------------------------
+---
 
-## **Step 9: Scalable Data Processing**
+## **Step 09: Scalable Data Processing**
 
 ### **Why Learn Scalable Data Processing?**
 - Essential for handling large datasets in production environments.
@@ -223,7 +226,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - [PySpark](https://youtu.be/XGrKYz_aapA?list=PLKdU0fuY4OFeaY8dMKkxmhNDyijI-0H5L)
 - [Everything that you need](https://aiquest.org/courses/become-a-big-data-engineer/)
 
----------------------------------------------
+---
 
 ## **Step 10: Projects**
 
@@ -295,7 +298,7 @@ Following this roadmap, step-by-step will give you the skills needed to succeed 
 - [Complete c++ and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt)
 
 ---
-# Recomended Courses at aiQuest Intelligence
+# Recommended Courses at aiQuest Intelligence
 1. [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
 3. [Machine Learning & Deep Learning Core Concepts](https://aiquest.org/courses/data-science-machine-learning/)
 4. [Advanced Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)

@@ -2,11 +2,11 @@
 # Generative AI (Gen AI) Engineer Roadmap 2025/26
 
 - Job Category: `Very High`
-- Best for `Software Engineers`, and `Machine Learning Enthusiasts`.
+- Best for `Software Engineers` and `Machine Learning Experts`.
 
 ---
 
-## **Understand the Role of Generative AI Engineer**
+## **Understand the Role of a Generative AI Engineer**
 - `Gen AI Engineer` ≈ `NLP and Computer Vision Skills` + `Generative Models Expertise` + `Deployment and Optimization` + `GenAI Applications` 😊
 
 ### **What does a Generative AI Engineer do?**
@@ -21,9 +21,28 @@
 - Creating scalable pipelines for generative AI workflows.
 - Exploring ethical implications and bias mitigation for AI systems.
 
+-----------------------------------------------
+
+## **Step 01: Mathematics for Generative AI**
+
+### **Why Learn Mathematics?**
+- Provides the theoretical foundation for generative models and algorithms.
+
+### **What to Learn?**
+- **Linear Algebra:**
+  - Matrices, vectors, eigenvalues, eigenvectors.
+- **Probability and Statistics:**
+  - Probability distributions, Bayesian inference, hypothesis testing.
+- **Optimization:**
+  - Partial derivatives, Gradient descent, convex optimization, and backpropagation.
+
+### **Resources**
+- [A-Z Linear Algebra & Calculus for AI & Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw)
+- [Gradient Descent](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe7mmYIb6NYCPRbljkE6is8)
+
 ---
 
-## **Step 1: Programming Fundamentals**
+## **Step 02: Programming Fundamentals**
 
 ### **Why Learn Programming?**
 - Gen AI Engineers require strong programming skills to build and deploy advanced models.
@@ -43,92 +62,16 @@
 - [Learn Pandas](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdsmcM817qp1L3ngU5amkak)
 - [Python for AI Engineers](https://aiquest.org/courses/become-a-python-developer/)
 
------------------------------------------------
-### Addition Language | Java | C++ (Optional): 
-### **Why Learn Java?**
-- Widely used in enterprise-level AI systems and backend development.
-- Excellent for scalable and production-ready AI applications.
-- Integrates seamlessly with big data frameworks and distributed systems.
-- Supports libraries like **Deeplearning4j** for deep learning and **Weka** for machine learning.
-- Ideal for building AI-powered APIs and enterprise solutions.
-- Plays a critical role in big data processing with frameworks like **Apache Spark**.
-  
-### **Why Learn C++?**
-- Known for its speed and efficiency, making it ideal for real-time AI applications.
-- Widely used in robotics, computer vision, and gaming AI.
-- Provides granular control over memory and system resources.
-- Supports libraries like **OpenCV** for computer vision and **TensorFlow** C++ API for backend optimizations.
-- Essential for robotics and autonomous systems development using **ROS**.
-- Excels in creating performance-critical, large-scale AI systems.
-
-#### Resources (Optional)
-- [Complete Java and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
-- [Complete c++ and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt)
-
------------------------------------------------
-### **Step 2: Learn GitHub**
-- GitHub is a crucial platform for version control and collaboration.
-- Enables you to showcase your projects and build a portfolio.
-- Facilitates teamwork on data science projects.
-
-### **What to Learn?**
-- **Git Basics:**
-  - Version control concepts, repositories, branches, commits, pull requests.
-- **GitHub Skills:**
-  - Hosting projects, collaboration workflows, managing issues.
-- **Best Practices:**
-  - Writing READMEs, structuring repositories, using `.gitignore` files.
-
-### **Resources**
-- [Complete GitHub for GenAI Engineers](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
-- Use GitHub to practice hosting Python, SQL, and machine learning projects.
-
------------------------------------------------
-## **Step 3: SQL**
-
-### **Why Learn SQL?**
-- Essential for querying, extracting, and joining data from relational databases.
-- Used to preprocess and prepare data before modeling.
-
-### **What to Learn?**
-- Basics: SELECT, INSERT, UPDATE, DELETE.
-- Intermediate: Joins (INNER, LEFT, RIGHT, FULL), subqueries.
-- Advanced: Window functions, CTEs (Common Table Expressions), and query optimization.
-
-### **Resources**
-- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
-- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
-- Tools like MySQL Workbench, SQLite, or PostgreSQL.
-
 ---
 
-## **Step 4: Mathematics for Generative AI**
-
-### **Why Learn Mathematics?**
-- Provides the theoretical foundation for generative models and algorithms.
-
-### **What to Learn?**
-- **Linear Algebra:**
-  - Matrices, vectors, eigenvalues, eigenvectors.
-- **Probability and Statistics:**
-  - Probability distributions, Bayesian inference, hypothesis testing.
-- **Optimization:**
-  - Gradient descent, convex optimization, and backpropagation.
-
-### **Resources**
-- [A-Z Linear Algebra & Calculus for AI & Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw)
-- [Gradient Descent](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe7mmYIb6NYCPRbljkE6is8)
-
----
-
-## **Step 5: Foundations of Machine Learning**
+## **Step 03: Foundations of Machine Learning**
 
 ### **Why Learn Machine Learning?**
 - Generative AI builds on the principles of ML for training and optimizing models.
 
 ### **What to Learn?**
 - **Supervised Learning:**
-  - Linear, Logistic Regression, Decision Trees.
+  - Linear, Logistic Regression, Boosting.
 - **Unsupervised Learning:**
   - Clustering (K-means), Dimensionality Reduction (PCA).
 - **Model Optimization:**
@@ -141,7 +84,7 @@
 
 ---
 
-## **Step 6: Deep Learning**
+## **Step 04: Core Deep Learning & Neural Networks**
 
 ### **Why Learn Deep Learning?**
 - Deep learning underpins the majority of generative AI models.
@@ -166,7 +109,7 @@
 
 ---
 
-## **Step 7: Natural Language Processing (NLP)**
+## **Step 05: Natural Language Processing (NLP)**
 
 ### **Why Learn NLP?**
 - Generative models like GPT excel in language-related tasks.
@@ -183,7 +126,7 @@
 
 ---
 
-## **Step 8: Generative Models**
+## **Step 06: Generative Models**
 
 ### **Why Learn Generative Models?**
 - Generative models drive content creation in text, images, audio, and more.
@@ -206,7 +149,7 @@
 
 ---
 
-## **Step 9: Reinforcement Learning (Optional)**
+## **Step 07: Reinforcement Learning (Optional)**
 
 ### **Why Learn Reinforcement Learning?**
 - RL can enhance generative models by optimizing sequential decision-making.
@@ -218,6 +161,42 @@
 ### **Resources**
 - [Spinning Up in Deep RL](https://spinningup.openai.com/)
 - [Reinforcement Learning Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+
+---
+### **Step 08: Learn GitHub**
+- GitHub is a crucial platform for version control and collaboration.
+- Enables you to showcase your projects and build a portfolio.
+- Facilitates teamwork on data science projects.
+
+### **What to Learn?**
+- **Git Basics:**
+  - Version control concepts, repositories, branches, commits, pull requests.
+- **GitHub Skills:**
+  - Hosting projects, collaboration workflows, managing issues.
+- **Best Practices:**
+  - Writing READMEs, structuring repositories, using `.gitignore` files.
+
+### **Resources**
+- [Complete GitHub for GenAI Engineers](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
+- Use GitHub to practice hosting Python, SQL, and machine learning projects.
+
+---
+
+## **Step 09: SQL**
+
+### **Why Learn SQL?**
+- Essential for querying, extracting, and joining data from relational databases.
+- Used to preprocess and prepare data before modeling.
+
+### **What to Learn?**
+- Basics: SELECT, INSERT, UPDATE, DELETE.
+- Intermediate: Joins (INNER, LEFT, RIGHT, FULL), subqueries.
+- Advanced: Window functions, CTEs (Common Table Expressions), and query optimization.
+
+### **Resources**
+- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
+- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
+- Tools like MySQL Workbench, SQLite, or PostgreSQL.
 
 ---
 
@@ -270,10 +249,31 @@ Following this roadmap step-by-step will give you the skills needed to succeed a
 
 [**Search Generative AI Jobs**](https://www.google.com/search?q=remote+generative+ai+jobs+near+me)
 
----
+-----------------------------------------------
+### Addition Language | Java | C++ (Optional): 
+### **Why Learn Java?**
+- Widely used in enterprise-level AI systems and backend development.
+- Excellent for scalable and production-ready AI applications.
+- Integrates seamlessly with big data frameworks and distributed systems.
+- Supports libraries like **Deeplearning4j** for deep learning and **Weka** for machine learning.
+- Ideal for building AI-powered APIs and enterprise solutions.
+- Plays a critical role in big data processing with frameworks like **Apache Spark**.
+  
+### **Why Learn C++?**
+- Known for its speed and efficiency, making it ideal for real-time AI applications.
+- Widely used in robotics, computer vision, and gaming AI.
+- Provides granular control over memory and system resources.
+- Supports libraries like **OpenCV** for computer vision and **TensorFlow** C++ API for backend optimizations.
+- Essential for robotics and autonomous systems development using **ROS**.
+- Excels in creating performance-critical, large-scale AI systems.
+
+#### Resources (Optional)
+- [Complete Java and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
+- [Complete c++ and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt)
 
 ---
-# Recomended Courses at aiQuest Intelligence
+
+# Recommended Courses at aiQuest Intelligence
 1. [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
 2. [Advanced Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
