@@ -34,7 +34,7 @@
 - **Probability and Statistics:**
   - Probability distributions, Bayesian inference, hypothesis testing.
 - **Optimization:**
-  - Gradient descent, convex optimization, and backpropagation.
+  - Partial derivatives, Gradient descent, convex optimization, and backpropagation.
 
 ### **Resources**
 - [A-Z Linear Algebra & Calculus for AI & Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw)
