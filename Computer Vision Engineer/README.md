@@ -146,7 +146,12 @@
 
 ---
 
-## **Step 7: Projects**
+## **Step 8: Learn SQL & NoSQL Database(MongoDB)**
+- Intermediate concepts are sufficient
+  
+---
+
+## **Step 9: Projects**
 
 ### **Why Work on Projects?**
 - Projects showcase your ability to apply vision techniques to real-world tasks.
