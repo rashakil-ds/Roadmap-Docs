@@ -146,7 +146,7 @@
 
 ---
 
-## **Step 8: Learn SQL & NoSQL Database(MongoDB)**
+## **Step 7: Learn SQL & NoSQL Database(MongoDB)**
 - Intermediate concepts are sufficient
   
 ---
@@ -168,7 +168,7 @@
 
 -----------------------------------------------
 
-### Addition Language | Java | C++ (Optional): 
+## Step 10: Addition Language | Java | C++ (Optional): 
 ### **Why Learn Java?**
 - Widely used in enterprise-level AI systems and backend development.
 - Excellent for scalable and production-ready AI applications.
