@@ -12,81 +12,78 @@ This roadmap is designed for `domain-specific research`, so you don’t need to 
 - Time Series Analysis
 - Generative AI with Pretrained Models
   
-Feel free to dive deep into your selected area without worrying about unrelated concepts from other domains. This specificity will save time and enhance your expertise in the chosen field. Best of luck 😊
-
+You can dive deep into your selected area without worrying about unrelated concepts from other domains. This specificity will save time and enhance your expertise in the chosen field. Best of luck 😊
 
 ---
 
-### **Programming and Python Libraries (Mandatory for All)**
+## **Step 1: Programming Fundamentals (Python)**
 
 ### **Why Learn Python?**
-- Python is the go-to programming language for data science due to its simplicity and robust libraries.
-- Used for data cleaning, manipulation, and building machine learning models.
-- Supports deep learning frameworks and statistical analysis.
+- AI Engineers need a strong programming foundation for implementing AI models and systems.
 
 ### **What to Learn?**
-- **Python Basics**
-  - Variables, data types, loops, conditionals, functions, and OOPs.
-- **Libraries**
-  - **NumPy:** For numerical computations.
-  - **Pandas & Polars:** For data manipulation (DataFrames, cleaning data, handling datasets).
-  - **Matplotlib/Seaborn/Plotly:** For creating visualizations.
+- **Python Basics:**
+  - Variables, data types, loops, conditionals, functions, error handling, debugging, and OOPs.
+- **Libraries:**
+  - **NumPy:** Numerical computations.
+  - **Pandas & Polars:** Data manipulation and cleaning.
+  - **Matplotlib/Seaborn/Plotly:** Data visualization.
 
 ### **Resources**
 - [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
 - [Python Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
-- [For Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
-- [Notes/Books](https://github.com/rashakil-ds/Top-Data-Science-AI-Book-Collection)
-- [Pandas Tutorials](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdsmcM817qp1L3ngU5amkak)
-- Practice with Python datasets on Kaggle or public repositories.
+- [Learn Pandas](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdsmcM817qp1L3ngU5amkak)
+- [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
+
+-----------------------------------------------
+
+## **Step 2: Mathematics for AI**
+
+### **Why Learn Mathematics for AI?**
+- Provides the foundation for understanding and implementing AI algorithms.
+
+### **What to Learn?**
+- **Linear Algebra:**
+  - Matrices, vectors, eigenvalues, eigenvectors.
+- **Calculus:**
+  - Differentiation and integration for optimization.
+- **Probability and Statistics:**
+  - Probability distributions, Bayes' theorem, hypothesis testing.
+- **Optimization:**
+  - Gradient descent, convex and non-convex optimization.
+
+### **Resources**
+- [A-Z Linear Algebra & Calculus for AI & Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw)
+- [Gradient Descent](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe7mmYIb6NYCPRbljkE6is8)
 
 ---
 
-## **Domain: 01. Statistical Machine Learning (Classification & Regression)**
+## **Domain 01: Statistical Machine Learning (Classification & Regression)**
 
-### **What is Statistical Machine Learning?**
-- Combines traditional statistics with machine learning for predictive modeling.
-- Focuses on explaining relationships in data and making predictions.
+### **Why Learn Machine Learning?**
+- AI Engineers build on ML techniques to create intelligent systems.
 
-### **Responsibilities in Research**
-- Study statistical methods for classification and regression.
-- Analyze model performance and interpret results.
-- Publish findings in journals or conferences.
+### **What to Learn?**
+- **Statistics**
+  - Correlation, Data Distributions, Hypothesis Testing
+- **Supervised Learning:**
+  - Linear, Polynomial, Logistic Regression.
+  - Decision Trees, Random Forest, Gradient Boosting (XGBoost, LightGBM, CatBoost).
+- **Unsupervised Learning:**
+  - Clustering (K-means, DBSCAN).
+  - Dimensionality Reduction (PCA, t-SNE).
+- **Model Optimization:**
+  - Cross-validation, Gradient Descent Variants.
 
----
-
-### **Step 1: Mathematics and Statistics for ML**
-
-**Why Learn Mathematics?**
-- Essential for understanding regression and classification models.
-
-**What to Learn?**
-- Linear Algebra: Matrices, eigenvalues.
-- Probability and Statistics: Distributions, Bayes' theorem.
-- Optimization: Gradient descent, cost functions.
-
-**Resources**
-- [Khan Academy - Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0)
-- [StatQuest - Statistics](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-- [Differential Calculus](https://youtube.com/playlist?list=PLKdU0fuY4OFdKwJ4EBxqk2DfePO6KM2GL&si=LczAiWR0HtcneSYu)
-
----
-
-### **Step 2: Machine Learning for Classification & Regression**
-
-**Why Learn ML Models?**
-- To build and evaluate predictive models for statistical research.
-
-**What to Learn?**
-- Regression: Linear, Polynomial, Lasso, Ridge.
-- Classification: Logistic Regression, SVM, Decision Trees.
-- Evaluation Metrics: R-squared, MAE, Precision, Recall, F1-score.
-
-**Resources**
+### **Resources**
 - [Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
 - [Machine Learning Module](https://aiquest.org/courses/data-science-machine-learning/)
-
+- [Scikit-learn (`sklearn`):](https://scikit-learn.org/stable/) For statistical machine learning models.
+- [Statsmodels:](https://www.statsmodels.org/stable/index.html) For statistical analysis.
+- [SciPy:](https://docs.scipy.org/doc/scipy/reference/index.html) For statistical analysis.
+- Practice using Python's `sklearn` and Kaggle competitions.
 ---
+
 
 ## **Domain: 02. Computer Vision**
 
