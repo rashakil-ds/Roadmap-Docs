@@ -148,10 +148,14 @@
 
 ## **Step 7: Learn SQL & NoSQL Database(MongoDB)**
 - Intermediate concepts are sufficient
+
+### **Resources**
+- [Complete SQL Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
+- [NoSQL Course](https://youtu.be/tww-gbNPOcA)
   
 ---
 
-## **Step 9: Projects**
+## **Step 8: Projects**
 
 ### **Why Work on Projects?**
 - Projects showcase your ability to apply vision techniques to real-world tasks.
@@ -168,7 +172,7 @@
 
 -----------------------------------------------
 
-## Step 10: Addition Language | Java | C++ (Optional): 
+## Step 09: Addition Language | Java | C++ (Optional): 
 ### **Why Learn Java?**
 - Widely used in enterprise-level AI systems and backend development.
 - Excellent for scalable and production-ready AI applications.
