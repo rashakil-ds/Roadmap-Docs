@@ -14,7 +14,7 @@
 
 -------------------------------------------------
 
-## **Step 1: Python & Python Libraries**
+## **Step 01: Python & Python Libraries**
 
 ### **Why Learn Python?**
 - Python is the most versatile language for data analysis and manipulation.
@@ -58,26 +58,8 @@
 - [Complete Applied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
 
 -----------------------------------------------
-## **Step 2: SQL**
 
-### **Why Learn SQL?**
-- Essential for querying and extracting data from databases.
-- Most companies store their data in relational databases like MySQL, PostgreSQL, or SQL Server.
-
-### **What to Learn?**
-- Basics: SELECT, INSERT, UPDATE, DELETE.
-- Intermediate: Joins (INNER, LEFT, RIGHT, FULL), subqueries.
-- Advanced: Window functions, CTEs (Common Table Expressions), and optimizing queries.
-
-### **Resources**
-- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
-- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
-- [SQL Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
-- Tools like MySQL Workbench, SQLite, or PostgreSQL.
-
------------------------------------------------
-
-## **Step 3: Statistics**
+## **Step 02: Statistics**
 
 ### **Why Learn Statistics?**
 - Provides the foundation for understanding data, patterns, and trends.
@@ -99,7 +81,7 @@
 
 -------------------------------------------------------
 
-## **Step 4: Excel**
+## **Step 03: Excel**
 
 ### **Why Learn Excel?**
 - A widely used tool for quick data analysis and reporting.
@@ -119,7 +101,7 @@
 
 ------------------------------------------------
 
-## **Step 5: Power BI**
+## **Step 04: Power BI**
 
 ### **Why Learn Power BI?**
 - A powerful business intelligence tool for creating dynamic dashboards and reports.
@@ -138,7 +120,7 @@
 
 ------------------------------------------
 
-## **Step 6: Tableau / Data Studio**
+## **Step 05: Tableau / Data Studio**
 
 ### **Why Learn Tableau or Data Studio?**
 - Both are user-friendly visualization tools widely used for creating impactful reports.
@@ -156,7 +138,7 @@
 
 ---------------------------------------------
 
-## **Step 7: Statistical Machine Learning for Advanced Analytics (Recommended)**
+## **Step 06: Statistical Machine Learning for Advanced Analytics (Recommended)**
 
 ### **Why Learn Statistical Machine Learning?**
 - To understand predictive analytics, regression, and time series forecasting.
@@ -177,9 +159,27 @@
 - [Statistical Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
 - Practice with Python's `sklearn` and `statsmodels` libraries.
 
+-----------------------------------------------
+## **Step 07: SQL**
+
+### **Why Learn SQL?**
+- Essential for querying and extracting data from databases.
+- Most companies store their data in relational databases like MySQL, PostgreSQL, or SQL Server.
+
+### **What to Learn?**
+- Basics: SELECT, INSERT, UPDATE, DELETE.
+- Intermediate: Joins (INNER, LEFT, RIGHT, FULL), subqueries.
+- Advanced: Window functions, CTEs (Common Table Expressions), and optimizing queries.
+
+### **Resources**
+- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
+- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
+- [SQL Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
+- Tools like MySQL Workbench, SQLite, or PostgreSQL.
+
 -----------------------------------------------------------
 
-## **Step 8: Projects**
+## **Step 08: Projects**
 
 ### **Why Work on Projects?**
 - Practical experience to apply all the skills learned.
