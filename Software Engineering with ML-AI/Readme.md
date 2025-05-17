@@ -20,6 +20,49 @@
 
 এই ট্র্যাক ফলো করলে আপনি চাইলে SaaS অ্যাপ তৈরি করতে পারো যেখানে মেশিন লার্নিং কাজ করে behind-the-scenes। আর এর demand এখন ক্রমেই বাড়ছে—both freelancing and job market-এ।
 
+---
+
+## ✅ রোডম্যাপ এক নজরে:
+
+### 1. Python Proficiency
+- Functions, OOP (Object-Oriented Programming)
+- Data Structures: `list`, `dict`, `set`, `tuple`
+- Error Handling
+
+### 2. Web Development
+- **Frameworks:** Django or FastAPI
+- REST API Development (DRF for Django)
+- Authentication, Permissions, ORM
+
+### 3. Dev Tools
+- Git for Version Control
+- Docker for Containerization
+- GitHub Actions for Basic CI/CD Pipelines
+
+### 4. Machine Learning & Deep Learning
+- **Libraries:** scikit-learn, pandas, numpy
+- **DL Frameworks:** TensorFlow, PyTorch
+- Save/Load Models: `pickle`, `joblib`
+- Serve models through Django/FastAPI APIs
+
+### 5. API Performance & Security
+- Minimize Latency
+- Handle Invalid Inputs Gracefully
+- Token-Based Authentication
+- Rate Limiting
+
+### 6. Database Knowledge
+- **Relational:** PostgreSQL (best with Django ORM)
+- **NoSQL:** MongoDB (modern choice with FastAPI)
+- ORM Integration and Optimization
+
+### 7. Deployment & Scalability
+- Dockerized App Deployment (Render, Railway, AWS)
+- Background Tasks with Redis & Celery
+- Model compatibility, scalability, and logging
+
+---
+
 **কিভাবে শিখব?**
 
 Software Engineering এর পার্টটুকর  জন্য aiquest এর [Backend API Development with Python](https://aiquest.org/courses/backend-api-development-with-python/) কোর্সটি ফলো করতে পারেন। 
