@@ -4,6 +4,7 @@
 
 **🔴 Software Engineering with Machine Learning = Software Engineering Skills + Machine Learning & Deep Learning Skills**
 
+---
 
 ### ছোট করে একটা **রোডম্যাপ** দেয়ার চেস্টা করবো। যদি কারও উপকার হয় 🙂
 
@@ -25,7 +26,7 @@
 
 ### রোডম্যাপ এক নজরে:
 ### 1. Python Proficiency
-- Functions, OOP (Object-Oriented Programming)
+- Basic, Loops, Functions, OOP (Object-Oriented Programming)
 - Data Structures: `list`, `dict`, `set`, `tuple`
 - Error Handling
 
