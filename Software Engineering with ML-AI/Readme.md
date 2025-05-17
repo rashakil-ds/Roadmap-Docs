@@ -2,7 +2,7 @@
 
 তারমানে হলো এখন Machine Learning শুধু একজায়গায় সীমাবদ্ধ নাই। বিভিন্ন রকম জব ফিল্ডের একটাা কমন স্কিল হলো মেশিন লার্নিং। 
 
-**🔴 Software Engineering with Machine Learning = Software Engineering Skills + Machine Learning & DL Skills 🔴**
+**🔴 Software Engineering with Machine Learning = Software Engineering Skills + Machine Learning & Deep Learning Skills 🔴**
 
 ছোট করে একটা রোডম্যাপ দেয়ার চেস্টা করবো। যদি কারও উপকার হয় 🙂
 
