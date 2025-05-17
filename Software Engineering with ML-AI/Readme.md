@@ -20,9 +20,9 @@
 
 এই ট্র্যাক ফলো করলে আপনি চাইলে SaaS অ্যাপ তৈরি করতে পারো যেখানে মেশিন লার্নিং কাজ করে behind-the-scenes। আর এর demand এখন ক্রমেই বাড়ছে—both freelancing and job market-এ।
 
-শুধুমাত্র Software Engineering এর পার্টটুকর  জন্য aiquest এর [Backend API Development with Python](https://aiquest.org/courses/backend-api-development-with-python/) কোর্সটি ফলো করতে পারেন। 
+Software Engineering এর পার্টটুকর  জন্য aiquest এর [Backend API Development with Python](https://aiquest.org/courses/backend-api-development-with-python/) কোর্সটি ফলো করতে পারেন। 
 
-আর [মেশিন লার্নিং](https://aiquest.org/courses/data-science-machine-learning/) ও [ডীপ লার্নিং](https://aiquest.org/courses/deep-learning-and-generative-ai/) এর জন্য আলাদা কোর্স আছে সব www.aiquest.org/courses ওয়েবসাইটেই পাবেন।
+[মেশিন লার্নিং](https://aiquest.org/courses/data-science-machine-learning/) ও [ডীপ লার্নিং](https://aiquest.org/courses/deep-learning-and-generative-ai/) এর জন্য আলাদা কোর্স আছে সব www.aiquest.org/courses ওয়েবসাইটেই পাবেন।
 
 ভালো লাগলে শেয়ার করবেন। ধন্যবাদ। 
 
