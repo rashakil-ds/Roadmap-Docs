@@ -2,6 +2,8 @@
 
 তারমানে হলো এখন Machine Learning শুধু একজায়গায় সীমাবদ্ধ নাই। বিভিন্ন রকম জব ফিল্ডের একটাা কমন স্কিল হলো মেশিন লার্নিং। 
 
+---
+
 **🔴 Software Engineering with Machine Learning = Software Engineering Skills + Machine Learning & Deep Learning Skills**
 
 ---
@@ -43,8 +45,8 @@
 ### 4. Machine Learning & Deep Learning
 - **Libraries:** scikit-learn, pandas, numpy
 - **DL Frameworks:** TensorFlow, PyTorch
-- Save/Load Models: `pickle`, `joblib`
-- Serve models through Django/FastAPI APIs
+- **Save/Load Models:** `pickle`, `joblib`, `.h5`
+- **Serve models** through Django/FastAPI APIs
 
 ### 5. API Performance & Security
 - Minimize Latency
@@ -69,6 +71,7 @@ Software Engineering এর পার্টটুকর  জন্য aiquest �
 
 [মেশিন লার্নিং](https://aiquest.org/courses/data-science-machine-learning/) ও [ডীপ লার্নিং](https://aiquest.org/courses/deep-learning-and-generative-ai/) এর জন্য আলাদা কোর্স আছে সব www.aiquest.org/courses ওয়েবসাইটেই পাবেন।
 
+---
 
 ভালো লাগলে শেয়ার করবেন। ধন্যবাদ। 
 
