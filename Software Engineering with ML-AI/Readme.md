@@ -43,6 +43,7 @@
 - GitHub Actions for Basic CI/CD Pipelines
 
 ### 4. Machine Learning & Deep Learning
+- **Statistics & Linear Algebra** for Machine Learning & Deep Learning
 - **Libraries:** scikit-learn, pandas, numpy
 - **DL Frameworks:** TensorFlow, PyTorch
 - **Save/Load Models:** `pickle`, `joblib`, `.h5`
