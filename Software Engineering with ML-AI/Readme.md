@@ -70,7 +70,8 @@
 ### কিভাবে শিখব?
 Software Engineering এর পার্টটুকর  জন্য aiquest এর [Backend API Development with Python](https://aiquest.org/courses/backend-api-development-with-python/) কোর্সটি ফলো করতে পারেন। 
 
-[মেশিন লার্নিং](https://aiquest.org/courses/data-science-machine-learning/) ও [ডীপ লার্নিং](https://aiquest.org/courses/deep-learning-and-generative-ai/) এর জন্য আলাদা কোর্স আছে সব www.aiquest.org/courses ওয়েবসাইটেই পাবেন।
+[মেশিন লার্নিং](https://aiquest.org/courses/data-science-machine-learning/) ও 
+[ডীপ লার্নিং](https://aiquest.org/courses/deep-learning-and-generative-ai/) সহ সকল কোর্স  www.aiquest.org/courses ওয়েবসাইটেই পাবেন।
 
 ---
 
