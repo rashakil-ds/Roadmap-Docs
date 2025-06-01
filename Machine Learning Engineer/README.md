@@ -2,7 +2,9 @@
 - Job Category: `High`
 - Best for `Software Engineers`.
 ## **Understand the Role of Machine Learning Engineer**
-- `Machine Learning Engineer` ≈ `Software Engineering Expertise` + `Scalability and Deployment Skills` + `Advanced Machine Learning` 
+- `Machine Learning Engineer` ≈ `Software Engineering Expertise` + `Scalability and Deployment Skills` + `Advanced Machine Learning`
+  
+[Must Watch This Video!](https://www.youtube.com/watch?v=AuvW-QvvwmU)
 
 ### **What does a Machine Learning Engineer do?**
 - Design, build, and deploy machine learning systems.
