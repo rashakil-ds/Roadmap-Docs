@@ -71,12 +71,11 @@
 - Descriptive Statistics: Mean, median, mode, variance, standard deviation.
 - Inferential Statistics: Hypothesis testing, confidence intervals, t-tests.
 - Probability: Probability distributions, Bayes' theorem.
-- Data Distributions: Different kinds of distribution.
+- Data Distributions: Different kinds of distributions.
 - Correlation vs. Causation: Understand relationships between variables.
 
 ### **Resources**
-- [Khan Academy](https://www.youtube.com/playlist?list=PLsPuUQJY-zXXSAJWF-fdVy3jHVqnuGSrb).
-- [StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+- [Statistics for Data Analytics, Data Science & AI](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdom1IbG2HDJdZtga5PFjOO).
 - [Complete Statistics for Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFeZCSF6aax3Uvwl6nWLIdSs)
 - [Statistics Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
 - Practice using Python (NumPy and SciPy) or Excel.
