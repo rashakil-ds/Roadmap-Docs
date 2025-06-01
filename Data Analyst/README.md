@@ -1,4 +1,5 @@
 # Data Analyst Roadmap 2025/26
+- Job Category: `Entry level`
 
 ## **Understand the Role of Data Analyst**
 
