@@ -12,6 +12,8 @@
 - Data analysis and visualization.
 - Reporting and communication.
 
+[Must Watch This Video!](https://youtu.be/pR3Hi0lJSTo)
+
 -------------------------------------------------
 
 ## **Step 01: Python & Python Libraries**
