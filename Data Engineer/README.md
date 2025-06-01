@@ -1,6 +1,6 @@
 # Big Data Engineer Roadmap 2025/26
 
----
+- Job Category: `Entry level`
 
 ## **Understand the Role of a Data Engineer**
 
