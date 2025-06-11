@@ -328,9 +328,10 @@ This repository is continually updated based on the top `job postings` on **Link
 ## About the Author
 **Rashedul Alam Shakil**  
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
-- 🎓 Founder of [Study Mart](https://www.youtube.com/@StudyMart)  
-- 🤖 Founder of [aiQuest Intelligence](https://aiquest.org/)  
-- 💼 Works at Siemens Energy, Germany  
+- 🎓 # About the Author
+**Rashedul Alam Shakil**  
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
+- 🎓 Industry Expert | Educator
 
 ---
 
