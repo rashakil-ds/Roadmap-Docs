@@ -328,9 +328,6 @@ This repository is continually updated based on the top `job postings` on **Link
 ## About the Author
 **Rashedul Alam Shakil**  
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
-- 🎓 # About the Author
-**Rashedul Alam Shakil**  
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
 - 🎓 Industry Expert | Educator
 
 ---
