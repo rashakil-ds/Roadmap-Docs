@@ -10,7 +10,6 @@ To succeed in any career, it's **very important** to understand the **roadmap, r
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
 - 🎓 Founder of [Study Mart](https://www.youtube.com/@StudyMart)  
 - 🤖 Founder of [aiQuest Intelligence](https://aiquest.org/)  
-- 💼 Works at Siemens Energy, Germany  
 
 With a passion for education and technology, I have created this resource to empower students and professionals to achieve their goals in AI, Data Science, and other tech domains.
 
