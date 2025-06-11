@@ -88,3 +88,9 @@ Software Engineering এর পার্টটুকর  জন্য aiquest �
 #aiquest
 
 #studymart
+
+----
+## About the Author
+**Rashedul Alam Shakil**  
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
+- 🎓 Industry Expert | Educator
