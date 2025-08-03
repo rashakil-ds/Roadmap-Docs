@@ -129,7 +129,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---
 
-### 🧠 What to Learn?
+### What to Learn?
 #### 1. **LLMs (Large Language Models) Fundamentals**
 - Understanding architecture: Transformer, Attention Mechanism
 - Pretraining vs Fine-tuning vs Prompt Engineering
@@ -159,7 +159,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---
 
-### 🛠️ Tools & Libraries
+### Tools & Libraries
 
 - [`LangChain`](https://github.com/langchain-ai/langchain) – Framework for building LLM-powered apps
 - [`Transformers`](https://github.com/huggingface/transformers) – State-of-the-art models from Hugging Face
@@ -169,7 +169,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---
 
-### 📚 Resources
+### Resources
 
 - [LangChain Docs](https://python.langchain.com/docs/introduction/)
 - [Hugging Face Transformers Course](https://huggingface.co/learn)
@@ -179,7 +179,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---
 
-### 💡 Project Ideas
+### Project Ideas
 
 1. **Conversational Chatbot Agent**
    - Use LangChain + OpenAI + Vector DB
@@ -191,38 +191,8 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 3. **AI Email Assistant**
    - Summarize, respond, or schedule meetings automatically using LLM + calendar/email
 
----
 
-## **Step 06: Reinforcement Learning (Optional)**
-
-### **Why Learn Reinforcement Learning?**
-- RL focuses on decision-making in dynamic environments.
-- Powers AI systems like autonomous vehicles, robotics, and game AI (AlphaGo, OpenAI Gym).
-
-### **What to Learn?**
-1. **Core Concepts:**
-   - Markov Decision Processes (MDPs)
-   - Rewards, States, Actions, and Policies
-   - Bellman Equations
-2. **Techniques & Algorithms:**
-   - Q-Learning, SARSA
-   - Policy Gradient Methods
-   - Deep Q-Learning (DQN)
-   - Proximal Policy Optimization (PPO)
-   - Model-Based RL
-
-### **Tools and Frameworks:**
-- OpenAI Gym
-- Stable-Baselines3
-- Ray RLlib
-
-### **Resources:**
-- [Spinning Up in Deep RL](https://spinningup.openai.com/)
-- [Reinforcement Learning Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
-
----
-
-## **Step 07: Learn GitHub**
+## **Step 06: Learn GitHub**
 - GitHub is a crucial platform for version control and collaboration.
 - Enables you to showcase your projects and build a portfolio.
 - Facilitates teamwork on data science projects.
@@ -241,7 +211,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---
 
-## **Step 08: SQL**
+## **Step 07: SQL**
 
 ### **Why Learn SQL?**
 - Essential for querying, extracting, and joining data from relational databases.
@@ -259,7 +229,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---
 
-## **Step 09: MLOps and Model Deployment**
+## **Step 08: MLOps and Model Deployment**
 
 ### **Why Learn MLOps?**
 - Ensures models are production-ready, scalable, and maintainable.
@@ -281,7 +251,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---
 
-## **Step 10: Scalable Data Processing**
+## **Step 09: Scalable Data Processing**
 
 ### **Why Learn Scalable Data Processing?**
 - Essential for handling large datasets in production environments.
@@ -301,7 +271,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---
 
-## **Step 11: Projects**
+## **Step 10: Projects**
 
 ### **Why Work on Projects?**
 - Demonstrates your ability to build and deploy end-to-end ML solutions.
