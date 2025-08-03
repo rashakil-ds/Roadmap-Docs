@@ -121,8 +121,79 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - [Basic to Advanced Deep Learning](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 ---
+## **Step 05: Generative with Agentic AI **
+### Why Learn Generative AI with Agents?
+- Generative AI powers state-of-the-art applications like chatbots, image generation, summarization, and code generation.
+- Agentic AI systems (e.g., AutoGPT, BabyAGI) take GenAI to the next level by **autonomously planning, reasoning, and executing tasks**.
+- Enables developers to build intelligent systems that interact with users, APIs, and environments **independently**.
 
-## **Step 05: Reinforcement Learning (Optional)**
+---
+
+### 🧠 What to Learn?
+#### 1. **LLMs (Large Language Models) Fundamentals**
+- Understanding architecture: Transformer, Attention Mechanism
+- Pretraining vs Fine-tuning vs Prompt Engineering
+- Tokens, Embeddings, and Context Window
+- Popular Models: GPT-4, LLaMA, Mistral, Claude, Gemini
+
+#### 2. **Prompt Engineering**
+- Zero-shot, Few-shot, and Chain-of-Thought prompting
+- System vs User prompts
+- Prompt tuning and injection techniques
+
+#### 3. **LangChain Framework**
+- Chains: Sequential, Conditional, and Custom Chains
+- Tools and Agents
+- Memory and Retrieval-Augmented Generation (RAG)
+- Integration with APIs, Databases, and Filesystems
+
+#### 4. **Vector Databases**
+- FAISS, ChromaDB, Pinecone, Weaviate
+- Embedding models (OpenAI, Hugging Face, Sentence Transformers)
+- Indexing, similarity search, and metadata filtering
+
+#### 5. **Agentic AI Concepts**
+- Planning, Tool-Usage, Task Decomposition
+- Tools: AutoGPT, BabyAGI, LangGraph
+- Building multi-step autonomous agents with LangChain Agents or OpenAI Function Calling
+
+---
+
+### 🛠️ Tools & Libraries
+
+- [`LangChain`](https://github.com/langchain-ai/langchain) – Framework for building LLM-powered apps
+- [`Transformers`](https://github.com/huggingface/transformers) – State-of-the-art models from Hugging Face
+- [`FAISS`](https://github.com/facebookresearch/faiss) – Vector similarity search
+- [`Chroma`](https://www.trychroma.com/) – Lightweight local vector DB
+- [`OpenAI API`](https://platform.openai.com/) – GPT-4/3.5 access
+
+---
+
+### 📚 Resources
+
+- [LangChain Docs](https://python.langchain.com/docs/introduction/)
+- [Hugging Face Transformers Course](https://huggingface.co/learn)
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+- [LangChain YouTube Tutorials](https://www.youtube.com/@LangChainAI)
+- [Awesome-LLM GitHub Repo](https://github.com/Hannibal046/Awesome-LLM)
+
+---
+
+### 💡 Project Ideas
+
+1. **Conversational Chatbot Agent**
+   - Use LangChain + OpenAI + Vector DB
+   - Enable document querying via conversational interface
+
+2. **Autonomous Research Agent**
+   - AutoGPT-style system that takes a goal and performs research via web/API
+
+3. **AI Email Assistant**
+   - Summarize, respond, or schedule meetings automatically using LLM + calendar/email
+
+---
+
+## **Step 06: Reinforcement Learning (Optional)**
 
 ### **Why Learn Reinforcement Learning?**
 - RL focuses on decision-making in dynamic environments.
@@ -151,7 +222,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---
 
-## **Step 06: Learn GitHub**
+## **Step 07: Learn GitHub**
 - GitHub is a crucial platform for version control and collaboration.
 - Enables you to showcase your projects and build a portfolio.
 - Facilitates teamwork on data science projects.
@@ -170,7 +241,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---
 
-## **Step 07: SQL**
+## **Step 08: SQL**
 
 ### **Why Learn SQL?**
 - Essential for querying, extracting, and joining data from relational databases.
@@ -188,7 +259,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---
 
-## **Step 08: MLOps and Model Deployment**
+## **Step 09: MLOps and Model Deployment**
 
 ### **Why Learn MLOps?**
 - Ensures models are production-ready, scalable, and maintainable.
@@ -210,7 +281,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---
 
-## **Step 09: Scalable Data Processing**
+## **Step 10: Scalable Data Processing**
 
 ### **Why Learn Scalable Data Processing?**
 - Essential for handling large datasets in production environments.
@@ -230,7 +301,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---
 
-## **Step 10: Projects**
+## **Step 11: Projects**
 
 ### **Why Work on Projects?**
 - Demonstrates your ability to build and deploy end-to-end ML solutions.
