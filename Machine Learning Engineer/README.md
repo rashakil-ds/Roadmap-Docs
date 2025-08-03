@@ -121,7 +121,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - [Basic to Advanced Deep Learning](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 ---
-## **Step 05: Generative with Agentic AI **
+## **Step 05: Generative with Agentic AI**
 ### Why Learn Generative AI with Agents?
 - Generative AI powers state-of-the-art applications like chatbots, image generation, summarization, and code generation.
 - Agentic AI systems (e.g., AutoGPT, BabyAGI) take GenAI to the next level by **autonomously planning, reasoning, and executing tasks**.
