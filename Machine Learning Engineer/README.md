@@ -177,6 +177,10 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - [LangChain YouTube Tutorials](https://www.youtube.com/@LangChainAI)
 - [Awesome-LLM GitHub Repo](https://github.com/Hannibal046/Awesome-LLM)
 
+### YouTube Channel
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+- [Sebastian Raschka](https://youtube.com/@sebastianraschka)
+
 ---
 
 ### Project Ideas
