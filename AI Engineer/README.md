@@ -150,24 +150,80 @@
 
 ---
 
-## **Step 7: Generative AI**
+## **Step 07: Generative AI with AI Agent**
+### Why Learn Generative AI with Agents?
+- Generative AI powers state-of-the-art applications like chatbots, image generation, summarization, and code generation.
+- Agentic AI systems (e.g., AutoGPT, BabyAGI) take GenAI to the next level by **autonomously planning, reasoning, and executing tasks**.
+- Enables developers to build intelligent systems that interact with users, APIs, and environments **independently**.
 
-### **Why Learn Generative AI?**
-- To build state-of-the-art models for content generation, including text, images, and videos.
+---
 
-### **What to Learn?**
-- GANs (Generative Adversarial Networks).
-- Variational Autoencoders (VAEs).
-- Transformers (DALL-E, GPT-3/4).
+### What to Learn?
+#### 1. **LLMs (Large Language Models) Fundamentals**
+- Understanding architecture: Transformer, Attention Mechanism
+- Pretraining vs Fine-tuning vs Prompt Engineering
+- Tokens, Embeddings, and Context Window
+- Popular Models: GPT-4, LLaMA, Mistral, Claude, Gemini
 
-### **Resources**
-- [Generative AI Guide](https://huggingface.co/models)
-- [Generative AI Course](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+#### 2. **Prompt Engineering**
+- Zero-shot, Few-shot, and Chain-of-Thought prompting
+- System vs User prompts
+- Prompt tuning and injection techniques
 
-## Additional Skills (Mandatory for GenAI-LLMs Domain)
-- [Hugging Face](https://huggingface.co/models)
-- [LangChain](https://python.langchain.com/docs/introduction/)
-- At least one `Vector Database`
+#### 3. **LangChain Framework**
+- Chains: Sequential, Conditional, and Custom Chains
+- Tools and Agents
+- Memory and Retrieval-Augmented Generation (RAG)
+- Integration with APIs, Databases, and Filesystems
+
+#### 4. **Vector Databases**
+- FAISS, ChromaDB, Pinecone, Weaviate
+- Embedding models (OpenAI, Hugging Face, Sentence Transformers)
+- Indexing, similarity search, and metadata filtering
+
+#### 5. **Agentic AI Concepts**
+- Planning, Tool-Usage, Task Decomposition
+- Tools: AutoGPT, BabyAGI, LangGraph
+- Building multi-step autonomous agents with LangChain Agents or OpenAI Function Calling
+
+---
+
+### Tools & Libraries
+
+- [`LangChain`](https://github.com/langchain-ai/langchain) – Framework for building LLM-powered apps
+- [`Transformers`](https://github.com/huggingface/transformers) – State-of-the-art models from Hugging Face
+- [`FAISS`](https://github.com/facebookresearch/faiss) – Vector similarity search
+- [`Chroma`](https://www.trychroma.com/) – Lightweight local vector DB
+- [`OpenAI API`](https://platform.openai.com/) – GPT-4/3.5 access
+
+---
+
+### Resources
+
+- [Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+- [LangChain Docs](https://python.langchain.com/docs/introduction/)
+- [Hugging Face Transformers Course](https://huggingface.co/learn)
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+- [LangChain YouTube Tutorials](https://www.youtube.com/@LangChainAI)
+- [Awesome-LLM GitHub Repo](https://github.com/Hannibal046/Awesome-LLM)
+
+### YouTube Channel
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+- [Sebastian Raschka](https://youtube.com/@sebastianraschka)
+- [Study Mart](https://www.youtube.com/playlist?list=PLKdU0fuY4OFeORaFJlz7D4XHzMupso9a9)
+---
+
+### Project Ideas
+
+1. **Conversational Chatbot Agent**
+   - Use LangChain + OpenAI + Vector DB
+   - Enable document querying via conversational interface
+
+2. **Autonomous Research Agent**
+   - AutoGPT-style system that takes a goal and performs research via web/API
+
+3. **AI Email Assistant**
+   - Summarize, respond, or schedule meetings automatically using LLM + calendar/email
   
 ---
 
