@@ -1,12 +1,13 @@
 # Computer Vision Engineer Roadmap 2025/26
 
-- Job Type: `Domain Specific`
-- Opportunity: `Less Job Circular`
+- **Job Type:** `Domain Specific`
+- **Opportunity:** `Less Job Circular`
 
 ---
+
 **Computer Vision** is a field of Artificial Intelligence that enables machines to interpret and understand `visual information` from the world, such as **images** and **videos**. It focuses on tasks like object detection, image recognition, facial recognition, motion analysis, and image generation, aiming to `replicate human vision capabilities`.
 
-## **Understand the Role of Computer Vision Engineer**
+## **Understand the Role of a Computer Vision Engineer**
 
 ### **What does a Computer Vision Engineer do?**
 - Develop and deploy AI models for image and video analysis.
@@ -39,7 +40,7 @@
 - [Learn Pandas](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdsmcM817qp1L3ngU5amkak)
 - [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
 
------------------------------------------------
+---
 
 ## **Step 2: Mathematics for AI & Machine Learning**
 
@@ -59,6 +60,7 @@
 ### **Resources**
 - [A-Z Linear Algebra & Calculus for AI & Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw)
 - [Gradient Descent](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe7mmYIb6NYCPRbljkE6is8)
+
 ---
 
 ## **Step 3: Statistical Machine Learning**
@@ -67,8 +69,8 @@
 - AI Engineers build on ML techniques to create intelligent systems.
 
 ### **What to Learn?**
-- **Statistics**
-  - Correlation, Data Distributions, Hypothesis Testing
+- **Statistics:**
+  - Correlation, Data Distributions, Hypothesis Testing.
 - **Supervised Learning:**
   - Linear, Polynomial, Logistic Regression.
   - Decision Trees, Random Forest, Gradient Boosting (XGBoost, LightGBM, CatBoost).
@@ -81,10 +83,9 @@
 ### **Resources**
 - [Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
 - [Machine Learning Module](https://aiquest.org/courses/data-science-machine-learning/)
-- [Scikit-learn (`sklearn`):](https://scikit-learn.org/stable/) For statistical machine learning models.
-- [Statsmodels:](https://www.statsmodels.org/stable/index.html) For statistical analysis.
-- [SciPy:](https://docs.scipy.org/doc/scipy/reference/index.html) For statistical analysis.
-- Practice using Python's `sklearn` and Kaggle competitions.
+- [Scikit-learn (`sklearn`)](https://scikit-learn.org/stable/)
+- [Statsmodels](https://www.statsmodels.org/stable/index.html)
+- [SciPy](https://docs.scipy.org/doc/scipy/reference/index.html)
 
 ---
 
@@ -100,7 +101,7 @@
 
 ### **Resources**
 - [OpenCV Documentation](https://docs.opencv.org/)
-- [Watch Tutorials](https://youtube.com/playlist?list=PLKdU0fuY4OFfjjFpSfCYzvsMKhZIWL43v&si=CN4lGil290IDjQDt)
+- [Computer Vision Playlist](https://youtube.com/playlist?list=PLKdU0fuY4OFfjjFpSfCYzvsMKhZIWL43v)
 
 ---
 
@@ -119,102 +120,111 @@
 - GANs for Vision (StyleGAN, CycleGAN).
 
 ### **Resources**
-- [TensorFlow Library:](https://www.tensorflow.org/tutorials) For deep learning & AI.
-- [PyTorch Library:](https://pytorch.org/tutorials/beginner/basics/intro.html) For deep learning & AI.
-- [Learn OpenCV](https://opencv.org/)
-- [Deep Learning Playlist (ANNs, CNNs)](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
-- [Basic to Advanced Computer Vision & GenAI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
-- [Hugging Face Vision Models](https://huggingface.co/models?other=vision): For advanced vision tasks.
+- [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
+- [PyTorch Tutorials](https://pytorch.org/tutorials/beginner/basics/intro.html)
+- [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
+- [Hugging Face Vision Models](https://huggingface.co/models?other=vision)
 
------------------------------------------------
-### **Step 6: Learn GitHub**
-- GitHub is a crucial platform for version control and collaboration.
-- Enables you to showcase your projects and build a portfolio.
-- Facilitates teamwork on data science projects.
+---
+
+## **Step 6: Generative AI for Computer Vision**
+
+### **Why Learn Generative AI for Vision?**
+Generative AI enables machines to create, transform, and understand visual content, opening opportunities in design, entertainment, AR/VR, and more.
 
 ### **What to Learn?**
-- **Git Basics:**
-  - Version control concepts, repositories, branches, commits, pull requests.
-- **GitHub Skills:**
-  - Hosting projects, collaboration workflows, and managing issues.
-- **Best Practices:**
-  - Writing READMEs, structuring repositories, using `.gitignore` files.
+- **Generative Models:**
+  - GANs (StyleGAN, CycleGAN, BigGAN)
+  - VAEs (Variational Autoencoders)
+  - Diffusion Models (Stable Diffusion, DALL·E 2, Imagen)
+- **Key Tasks:**
+  - Text-to-image generation
+  - Image-to-image translation
+  - Image super-resolution
+  - Inpainting & outpainting
+  - Style transfer
+- **Fine-tuning Techniques:**
+  - LoRA (Low-Rank Adaptation)
+  - DreamBooth
+- **Ethics & Responsibility:**
+  - Bias detection, watermarking, copyright
+
+### **Tools**
+- [Hugging Face Diffusers](https://huggingface.co/docs/diffusers)
+- [Stable Diffusion](https://stability.ai/)
+- [OpenAI CLIP](https://github.com/openai/CLIP)
 
 ### **Resources**
-- [Complete GitHub for CV Engineers](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
-- Use GitHub to practice hosting Python, SQL, and machine learning projects.
+- [Diffusion Models Explained](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+- [Diffusion Models](https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending)
+
+### **Project Ideas**
+1. Text-to-image art generator
+2. Domain-specific diffusion model
+3. GAN-based photo restoration
+4. Video style transfer with temporal consistency
 
 ---
 
-## **Step 7: Learn SQL & NoSQL Database(MongoDB)**
-- Intermediate concepts are sufficient
+## **Step 7: Learn GitHub**
+- Version control & collaboration
+- Hosting projects and portfolios
 
-### **Resources**
-- [Complete SQL Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
+**Resources:**
+- [GitHub for CV Engineers](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
+
+---
+
+## **Step 8: Learn SQL & NoSQL**
+- SQL for structured data
+- MongoDB for unstructured data
+
+**Resources:**
+- [SQL Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
 - [NoSQL Course](https://youtu.be/tww-gbNPOcA)
-  
+
 ---
 
-## **Step 8: Projects**
+## **Step 9: Projects**
 
-### **Why Work on Projects?**
-- Projects showcase your ability to apply vision techniques to real-world tasks.
+**Ideas:**
+1. CNN-based image classification
+2. Object detection for autonomous vehicles
+3. Medical image segmentation
+4. GAN for image-to-image translation
 
-### **Ideas for Projects**
-1. Build an image classification model using CNNs.
-2. Create an object detection system for autonomous vehicles.
-3. Develop a medical image segmentation tool.
-4. Train a GAN for image-to-image translation tasks.
-
-### **Where to Find Data?**
+**Datasets:**
 - [Kaggle](https://www.kaggle.com/datasets)
 - [COCO Dataset](https://cocodataset.org/#download)
 
------------------------------------------------
+---
 
-## Step 09: Addition Language | Java | C++ (Optional): 
-### **Why Learn Java?**
-- Widely used in enterprise-level AI systems and backend development.
-- Excellent for scalable and production-ready AI applications.
-- Integrates seamlessly with big data frameworks and distributed systems.
-- Supports libraries like **Deeplearning4j** for deep learning and **Weka** for machine learning.
-- Ideal for building AI-powered APIs and enterprise solutions.
-- Plays a critical role in big data processing with frameworks like **Apache Spark**.
-  
-### **Why Learn C++?**
-- Known for its speed and efficiency, making it ideal for real-time AI applications.
-- Widely used in robotics, computer vision, and gaming AI.
-- Provides granular control over memory and system resources.
-- Supports libraries like **OpenCV** for computer vision and **TensorFlow** C++ API for backend optimizations.
-- Essential for robotics and autonomous systems development using **ROS**.
-- Excels in creating performance-critical, large-scale AI systems.
+## **Step 10: Additional Languages (Optional)**
+- **Java** — enterprise AI systems, big data
+- **C++** — robotics, real-time vision, performance-critical systems
 
 ---
 
 ## **Final Note: Workflow Integration**
-1. Preprocess image data using OpenCV or PIL.
-2. Train models using TensorFlow, PyTorch, or Hugging Face.
-3. Optimize models for performance and scalability.
-4. Deploy and integrate vision systems into real-world applications.
-
-By following this roadmap, you’ll develop the skills needed to become a successful `Computer Vision Engineer`.
+1. Preprocess with OpenCV/PIL
+2. Train with TensorFlow/PyTorch
+3. Optimize & deploy
+4. Integrate into real-world apps
 
 ---
 
-# Recomended Courses at aiQuest Intelligence
+## **Recommended Courses at aiQuest Intelligence**
 1. [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
 2. [Machine Learning Concepts](https://aiquest.org/courses/data-science-machine-learning/)
 3. [Advanced Deep Learning for Computer Vision & GenAI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
-*`Note:`* We suggest these premium courses because they are well-organized for absolute beginners and will guide you step by step, from basic to advanced levels. Always remember that `T-shaped skills` are better than `i-shaped skill`. However, for those who cannot afford these courses, don't worry! Search on YouTube using the topic names mentioned in the roadmap. You will find plenty of `free tutorials` that are also great for learning. Best of luck!
-
-## About the Author
-**Rashedul Alam Shakil**  
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
-- 🎓 Industry Expert | Educator
+> If you can’t afford premium courses, search YouTube for each topic above. There are excellent free resources, too!
 
 ---
 
-## Other Roadmaps
-- [Read More Roadmaps](https://github.com/rashakil-ds/Roadmap-Docs)
+**Author:** [Rashedul Alam Shakil](https://www.linkedin.com/in/kmrashedulalam/)  
+Industry Expert | Educator  
 
+---
+
+[Read More Roadmaps](https://github.com/rashakil-ds/Roadmap-Docs)
