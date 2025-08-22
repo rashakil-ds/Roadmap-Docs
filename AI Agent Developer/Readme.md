@@ -17,8 +17,6 @@ They integrate **LLMs with tools/APIs**, develop **multi-agent workflows**, and 
 
 ---
 
-## Roadmap
-
 ### **Step 1: Core Programming Skills**
 - **Languages**: Python (primary), TypeScript/JS (for integrations).  
 - **Key Libraries**: `requests`, `asyncio`, `httpx`, `pydantic`, `FastAPI`.  
@@ -99,6 +97,7 @@ They integrate **LLMs with tools/APIs**, develop **multi-agent workflows**, and 
 ## Resources:  
 - [Ray Serve](https://docs.ray.io/en/latest/serve/index.html)  
 - [Deploy AI with FastAPI](https://fastapi.tiangolo.com/)  
+- [FastAPI Tutorials](https://www.youtube.com/playlist?list=PLKdU0fuY4OFeNGB1m9pbvPukND6NhjK4L)
 
 ---
 
