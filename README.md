@@ -21,6 +21,7 @@ This repository contains roadmaps for the following roles:
 - **Data Engineer**  
 - **Data Scientist**  
 - **AI Engineer**
+- **AI Agent Developer**
 - **Software Engineer with Machine Learning**
 - **Computer Vision Engineer**  
 - **Generative AI Engineer**  
