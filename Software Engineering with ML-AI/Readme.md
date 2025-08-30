@@ -14,7 +14,7 @@
 
 **২।** Git এবং Docker হলো সফটওয়্যার ইঞ্জিনিয়ারের অন্যতম হাতিয়ার। Git দিয়ে version control, Docker দিয়ে অ্যাপ কনটেইনারাইজ এবং GitHub Actions-এর মাধ্যমে basic CI/CD pipeline তৈরির অভ্যাস গড়ে তুলতে হয়। এই স্কিলগুলো ছাড়া production-level কোড মেইনটেইন করা কষ্টকর। ওকে?
 
-**৩।** এরপর আসলেই আসে Machine Learning এর জায়গা। scikit-learn দিয়ে classification, regression এর মত basic মডেল তৈরি করা, pandas ও numpy দিয়ে ডেটা প্রিপ্রসেসিং, TensorFlow, pytorch দিয়ে ডীপ লার্নিং/জেনারেটিভ এআই এবং মডেল pickle বা joblib দিয়ে save/load করার স্কিল দরকার হয়। কিন্তু সবচেয়ে গুরুত্বপূর্ণ অংশ হলো, এই মডেলগুলোকে Django বা FastAPI API-তে serve করা, মানে ইউজার যখন ইনপুট দেয়, তখন ব্যাকএন্ড সেই মডেল দিয়ে output তৈরি করে পাঠায়। [Machine Required Skills](https://youtu.be/uZtZ15uFzto)
+**৩।** এরপর আসলেই আসে Machine Learning এর জায়গা। scikit-learn দিয়ে classification, regression এর মত basic মডেল তৈরি করা, pandas ও numpy দিয়ে ডেটা প্রিপ্রসেসিং, TensorFlow, pytorch দিয়ে ডীপ লার্নিং/জেনারেটিভ এআই এবং মডেল pickle বা joblib দিয়ে save/load করার স্কিল দরকার হয়। কিন্তু সবচেয়ে গুরুত্বপূর্ণ অংশ হলো, এই মডেলগুলোকে Django বা FastAPI API-তে serve করা, মানে ইউজার যখন ইনপুট দেয়, তখন ব্যাকএন্ড সেই মডেল দিয়ে output তৈরি করে পাঠায়। [Machine Required Skills](https://youtu.be/69VhZXAEqjw)
 
 **৪।** এই কাজের সময় API performance নিয়ে ভাবতে হয়। যেমন latency কমানো, invalid ইনপুট হ্যান্ডেল করা, এবং নিরাপদ API বানানোর জন্য token-based authentication বা rate limiting ব্যবহারের প্রয়োজন হয়।
 
