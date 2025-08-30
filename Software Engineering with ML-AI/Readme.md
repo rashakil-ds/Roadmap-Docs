@@ -1,4 +1,4 @@
-[Software Engineering with Machine Learning](https://youtu.be/AuvW-QvvwmU) – এই ক্যারিয়ার ট্রাকটা যে দিন দিন এত জনপ্রিয় হচ্ছে তা বলার বাইরে। LinkedIn যত মেশিন লার্নিং রিলেটেড জব দেখবেন তার বড় অংশ হলো সফটওয়্যার ইন্জিনিয়ারিং এর সাথে মেশিন লার্নিং, কিছু জায়গায় সরাসরি লেখা থাকে API Development স্কিলের সাথে মেশিন লার্নিং must! তারপরে Software Engineering with AI Agent. 
+[Software Engineering with Machine Learning](https://youtu.be/0I0eRhg9ReE) – এই ক্যারিয়ার ট্রাকটা যে দিন দিন এত জনপ্রিয় হচ্ছে তা বলার বাইরে। LinkedIn যত মেশিন লার্নিং রিলেটেড জব দেখবেন তার বড় অংশ হলো সফটওয়্যার ইন্জিনিয়ারিং এর সাথে মেশিন লার্নিং, কিছু জায়গায় সরাসরি লেখা থাকে API Development স্কিলের সাথে মেশিন লার্নিং must! তারপরে Software Engineering with AI Agent. 
 
 তারমানে হলো এখন Machine Learning শুধু একজায়গায় সীমাবদ্ধ নাই। বিভিন্ন রকম জব ফিল্ডের একটাা কমন স্কিল হলো `মেশিন লার্নিং`। 
 
