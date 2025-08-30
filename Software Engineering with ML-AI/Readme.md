@@ -67,6 +67,54 @@
 
 ---
 
+## **Optional Skill (But Important): Generative AI with AI Agent**
+### Why Learn Generative AI with Agents?
+- Generative AI powers state-of-the-art applications like chatbots, image generation, summarization, and code generation.
+- Agentic AI systems (e.g., AutoGPT, BabyAGI) take GenAI to the next level by **autonomously planning, reasoning, and executing tasks**.
+- Enables developers to build intelligent systems that interact with users, APIs, and environments **independently**.
+
+---
+
+### What to Learn?
+#### 1. **LLMs (Large Language Models) Fundamentals**
+- Understanding architecture: Transformer, Attention Mechanism
+- Pretraining vs Fine-tuning vs Prompt Engineering
+- Tokens, Embeddings, and Context Window
+- Popular Models: GPT-4, LLaMA, Mistral, Claude, Gemini
+
+#### 2. **Prompt Engineering**
+- Zero-shot, Few-shot, and Chain-of-Thought prompting
+- System vs User prompts
+- Prompt tuning and injection techniques
+
+#### 3. **LangChain Framework**
+- Chains: Sequential, Conditional, and Custom Chains
+- Tools and Agents
+- Memory and Retrieval-Augmented Generation (RAG)
+- Integration with APIs, Databases, and Filesystems
+
+#### 4. **Vector Databases**
+- FAISS, ChromaDB, Pinecone, Weaviate
+- Embedding models (OpenAI, Hugging Face, Sentence Transformers)
+- Indexing, similarity search, and metadata filtering
+
+#### 5. **Agentic AI Concepts**
+- Planning, Tool-Usage, Task Decomposition
+- Tools: AutoGPT, BabyAGI, LangGraph
+- Building multi-step autonomous agents with LangChain Agents or OpenAI Function Calling
+
+---
+
+### Tools & Libraries
+
+- [`LangChain`](https://github.com/langchain-ai/langchain) – Framework for building LLM-powered apps
+- [`Transformers`](https://github.com/huggingface/transformers) – State-of-the-art models from Hugging Face
+- [`FAISS`](https://github.com/facebookresearch/faiss) – Vector similarity search
+- [`Chroma`](https://www.trychroma.com/) – Lightweight local vector DB
+- [`OpenAI API`](https://platform.openai.com/) – GPT-4/3.5 access
+
+---
+
 ### কিভাবে শিখব?
 Software Engineering এর পার্টটুকর  জন্য aiquest এর [Backend API Development with Python](https://aiquest.org/courses/backend-api-development-with-python/) কোর্সটি ফলো করতে পারেন। 
 
