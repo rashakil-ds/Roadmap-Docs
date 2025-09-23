@@ -35,6 +35,7 @@ They integrate **LLMs with tools/APIs**, develop **multi-agent workflows**, and 
 - Fine-tuning, RAG, and Prompt Engineering.  
 
 ## Resources:  
+- [LLMs from Scratch](https://youtu.be/p3sij8QzONQ)
 - [Hugging Face Transformers](https://huggingface.co/transformers/)  
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 - [Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
