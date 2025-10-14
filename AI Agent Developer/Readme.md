@@ -35,10 +35,10 @@ They integrate **LLMs with tools/APIs**, develop **multi-agent workflows**, and 
 - Fine-tuning, RAG, and Prompt Engineering.  
 
 ## Resources:  
+- [Agentic AI with LLMs](https://aiquest.org/agentic-ai-with-llms/)
 - [LLMs from Scratch](https://youtu.be/p3sij8QzONQ)
 - [Hugging Face Transformers](https://huggingface.co/transformers/)  
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
-- [Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 ---
 
@@ -61,7 +61,7 @@ They integrate **LLMs with tools/APIs**, develop **multi-agent workflows**, and 
 ## Resources:  
 - [FAISS Guide](https://github.com/facebookresearch/faiss)  
 - [Pinecone Docs](https://docs.pinecone.io/)
-- [Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+- [Agentic AI with LLMs](https://aiquest.org/agentic-ai-with-llms/)
 
 ---
 
@@ -74,7 +74,7 @@ They integrate **LLMs with tools/APIs**, develop **multi-agent workflows**, and 
 - [AutoGPT](https://github.com/Torantulino/Auto-GPT)  
 - [CrewAI](https://github.com/joaomdmoura/crewai)  
 - [Microsoft Autogen](https://github.com/microsoft/autogen)
-- [Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+- [Agentic AI with LLMs](https://aiquest.org/agentic-ai-with-llms/)
 
 ---
 
@@ -86,7 +86,7 @@ They integrate **LLMs with tools/APIs**, develop **multi-agent workflows**, and 
 ## Resources:  
 - [Stable Baselines3](https://stable-baselines3.readthedocs.io/)  
 - [Spinning Up RL](https://spinningup.openai.com/)
-- [Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+- [Agentic AI with LLMs](https://aiquest.org/agentic-ai-with-llms/)
 
 ---
 
@@ -99,6 +99,7 @@ They integrate **LLMs with tools/APIs**, develop **multi-agent workflows**, and 
 - [Ray Serve](https://docs.ray.io/en/latest/serve/index.html)  
 - [Deploy AI with FastAPI](https://fastapi.tiangolo.com/)  
 - [FastAPI Tutorials](https://www.youtube.com/playlist?list=PLKdU0fuY4OFeNGB1m9pbvPukND6NhjK4L)
+- [Agentic AI with LLMs](https://aiquest.org/agentic-ai-with-llms/)
 
 ---
 
@@ -130,6 +131,7 @@ They integrate **LLMs with tools/APIs**, develop **multi-agent workflows**, and 
 5. Secure with **guardrails** & monitor.  
 
 ---
+- [Agentic AI with LLMs](https://aiquest.org/agentic-ai-with-llms/)
 
 ## About
 **Author:** [Rashedul Alam Shakil](https://www.linkedin.com/in/kmrashedulalam/)  
