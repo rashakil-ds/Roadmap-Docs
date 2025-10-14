@@ -176,7 +176,7 @@
 
 ### Resources
 
-- [Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+- [Agentic AI with LLMs](https://aiquest.org/agentic-ai-with-llms/)
 - [LangChain Docs](https://python.langchain.com/docs/introduction/)
 - [Hugging Face Transformers Course](https://huggingface.co/learn)
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
@@ -329,7 +329,7 @@ Following this roadmap step-by-step will give you the skills needed to succeed a
 
 # Recommended Courses at aiQuest Intelligence
 1. [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
-2. [Advanced Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+2. [Agentic AI with LLMs](https://aiquest.org/agentic-ai-with-llms/)
 
 *`Note:`* We suggest these premium courses because they are well-organized for absolute beginners and will guide you step by step, from basic to advanced levels. Always remember that `T-shaped skills` are better than `i-shaped skill`. However, for those who cannot afford these courses, don't worry! Search on YouTube using the topic names mentioned in the roadmap. You will find plenty of `free tutorials` that are also great for learning. Best of luck!
 
