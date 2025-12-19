@@ -1,5 +1,12 @@
 # Data Science & AI Career Roadmaps 2025/26
 
+---
+
+This project is an end-to-end Generative AI application that analyzes a candidate’s CV against a target job role, identifies skill gaps, and generates personalized learning insights. <br>
+[Try App NOW!](https://skill-gap-analyzer-ai.streamlit.app/)
+
+---
+
 Best Data Science, Data Analytics, AI, and SDE roadmaps. [This repository is continually updated](https://github.com/rashakil-ds/Roadmap-Docs) based on the top `job postings` on **LinkedIn** and **Indeed**. Please pray for my family and me. Your prayers are all I ask for as a token of appreciation.
 
 To succeed in any career, it's **very important** to understand the **roadmap, required skills, and timeline** for the role. This approach minimizes wasted time and ensures you focus on learning the skills needed to get a job. This repository aims to provide comprehensive roadmaps for various roles in the **Data Analytics**, **Data Science**, and **Artificial Intelligence** industry. Whether you're a student, a professional, or just curious about AI, these guides are designed to help you navigate your learning and career journey with clarity and confidence.
