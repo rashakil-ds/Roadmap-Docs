@@ -2,8 +2,7 @@
 
 ---
 
-This project is an end-to-end Generative AI application that analyzes a candidate’s CV against a target job role, identifies skill gaps, and generates personalized learning insights. <br>
-[Try App NOW!](https://skill-gap-analyzer-ai.streamlit.app/)
+This is an end-to-end Generative AI app that analyzes a candidate’s CV against a target job role, identifies skill gaps, and generates personalized learning insights. This app is trained on this repo and other sources. <br> [Try App NOW!](https://skill-gap-analyzer-ai.streamlit.app/)
 
 ---
 
