@@ -1,4 +1,4 @@
-# Data Science & AI Career Roadmaps 2025/26
+# Data Science & AI Career Roadmaps 2026
 
 ---
 
