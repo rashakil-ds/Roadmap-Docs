@@ -103,24 +103,25 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ### **What to Learn?**
 - **Basics:** Neural Networks (Perceptron, Activation functions, Feedforward, Backpropagation).
-- **Architectures:** CNNs (images), RNNs (sequences), Transformers (NLP tasks).
+- **NLP:** RNN, LSTM, GRU (sequences), Transformers (BERT, DistilBERT).
+- **Vision** CNNs, Yolo, Faster R-CNN, ViT
 - **Advanced Topics:**
-  - YOLO, VAEs, GANs, GPTs, T5.
+  - VAEs, GANs, GPTs, T5.
   - Transfer Learning, Fine-tuning.
   - Optimizers, Regularization.
   - Attention Mechanisms.
 - **Frameworks:** TensorFlow, Keras, PyTorch.
 
 ### **Resources**
+- [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
 - [TensorFlow Library:](https://www.tensorflow.org/tutorials) For deep learning & AI.
 - [PyTorch Library:](https://pytorch.org/tutorials/beginner/basics/intro.html) For deep learning & AI.
-- [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
 - [Another DL Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Another DL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
 - [Basic to Advanced Deep Learning](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 ---
-## **Step 05: Generative AI with AI Agent**
+## **Step 05: Generative AI and Agentic AI**
 ### Why Learn Generative AI with Agents?
 - Generative AI powers state-of-the-art applications like chatbots, image generation, summarization, and code generation.
 - Agentic AI systems (e.g., AutoGPT, BabyAGI) take GenAI to the next level by **autonomously planning, reasoning, and executing tasks**.
@@ -153,8 +154,8 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 #### 5. **Agentic AI Concepts**
 - Planning, Tool-Usage, Task Decomposition
-- Tools: AutoGPT, BabyAGI, LangGraph
-- Building multi-step autonomous agents with LangChain Agents or OpenAI Function Calling
+- Tools: AutoGPT, BabyAGI, LangGraph, CrewAI
+- Building multi-step autonomous agents with CrewAI or OpenAI Function Calling
 
 ---
 
@@ -170,7 +171,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ### Resources
 
-- [Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
+- [Deep Learning & Generative AI](https://aiquest.org/agentic-ai-with-llms/)
 - [LangChain Docs](https://python.langchain.com/docs/introduction/)
 - [Hugging Face Transformers Course](https://huggingface.co/learn)
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
@@ -195,8 +196,52 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 3. **AI Email Assistant**
    - Summarize, respond, or schedule meetings automatically using LLM + calendar/email
 
+------
 
-## **Step 06: Learn GitHub**
+## **Step 06: MLOps and FastAPI for Model Deployment**
+
+### **Why Learn MLOps?**
+- Ensures models are production-ready, scalable, and maintainable.
+- Covers CI/CD pipelines, version control, and monitoring.
+
+### **What to Learn?**
+- **Tools and Frameworks:**
+  - MLflow, DVC, Kubeflow.
+- **Deployment:**
+  - FastAPI, TensorFlow Serving, TorchServe.
+- **Cloud Platforms:**
+  - AWS SageMaker, Google Vertex AI, Azure ML.
+- **Monitoring and Retraining:**
+  - Drift detection, feedback loops, CI/CD pipelines.
+
+### **Resources**
+- [FastAPI](https://www.youtube.com/playlist?list=PLKdU0fuY4OFeNGB1m9pbvPukND6NhjK4L)
+- [Deploying ML Models Playlist](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK)
+- [MLOps](https://www.youtube.com/watch?v=-dJPoLm_gtE)
+- [AWS SageMaker](https://www.youtube.com/playlist?list=PLmPJQXJiMoUWFW2JxRSAfhcsQ0Cr9qbv-)
+
+---
+
+## **Step 07: Scalable Data Processing**
+
+### **Why Learn Scalable Data Processing?**
+- Essential for handling large datasets in production environments.
+
+### **What to Learn?**
+- **Big Data Tools:**
+  - Apache Spark, Hadoop.
+- **Distributed Computing:**
+  - PySpark, Dask.
+- **Data Engineering Basics:**
+  - ETL Pipelines, Data Lakes.
+
+### **Resources**
+- [PySpark](https://youtu.be/XGrKYz_aapA?list=PLKdU0fuY4OFeaY8dMKkxmhNDyijI-0H5L)
+- [Everything that you need](https://aiquest.org/courses/become-a-big-data-engineer/)
+
+---
+
+## **Step 08: Learn GitHub**
 - GitHub is a crucial platform for version control and collaboration.
 - Enables you to showcase your projects and build a portfolio.
 - Facilitates teamwork on data science projects.
@@ -205,7 +250,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - **Git Basics:**
   - Version control concepts, repositories, branches, commits, pull requests.
 - **GitHub Skills:**
-  - Hosting projects, collaboration workflows, managing issues.
+  - Hosting projects, collaboration workflows, and managing issues.
 - **Best Practices:**
   - Writing READMEs, structuring repositories, using `.gitignore` files.
 
@@ -215,7 +260,7 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 
 ---
 
-## **Step 07: SQL**
+## **Step 09: SQL**
 
 ### **Why Learn SQL?**
 - Essential for querying, extracting, and joining data from relational databases.
@@ -230,48 +275,6 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 - [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
 - [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
 - Tools like MySQL Workbench, SQLite, or PostgreSQL.
-
----
-
-## **Step 08: MLOps and Model Deployment**
-
-### **Why Learn MLOps?**
-- Ensures models are production-ready, scalable, and maintainable.
-- Covers CI/CD pipelines, version control, and monitoring.
-
-### **What to Learn?**
-- **Tools and Frameworks:**
-  - MLflow, DVC, Kubeflow.
-- **Deployment:**
-  - Flask, FastAPI, TensorFlow Serving, TorchServe.
-- **Cloud Platforms:**
-  - AWS SageMaker, Google Vertex AI, Azure ML.
-- **Monitoring and Retraining:**
-  - Drift detection, feedback loops, CI/CD pipelines.
-
-### **Resources**
-- [Deploying ML Models Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdPhZ4k_hu7Rv3sjyi3IPtu)
-- [AWS SageMaker](https://www.youtube.com/playlist?list=PLmPJQXJiMoUWFW2JxRSAfhcsQ0Cr9qbv-)
-
----
-
-## **Step 09: Scalable Data Processing**
-
-### **Why Learn Scalable Data Processing?**
-- Essential for handling large datasets in production environments.
-
-### **What to Learn?**
-- **Git & GitHub**
-- **Big Data Tools:**
-  - Apache Spark, Hadoop.
-- **Distributed Computing:**
-  - PySpark, Dask.
-- **Data Engineering Basics:**
-  - ETL Pipelines, Data Lakes.
-
-### **Resources**
-- [PySpark](https://youtu.be/XGrKYz_aapA?list=PLKdU0fuY4OFeaY8dMKkxmhNDyijI-0H5L)
-- [Everything that you need](https://aiquest.org/courses/become-a-big-data-engineer/)
 
 ---
 
@@ -321,28 +324,6 @@ The core responsibility of an ML engineer is building, optimizing, and scaling M
 Following this roadmap, step-by-step will give you the skills needed to succeed as a `Machine Learning Engineer`. Let me know if you’d like additional resources or specific examples!
 
 [**Search Machine Learning Engineer Jobs**](https://www.google.com/search?q=remote+machine+learning+engineer+jobs+near+me)
-
------------------------------------------------
-### Addition Language | Java & C++ (Optional): 
-### **Why Learn Java?**
-- Widely used in enterprise-level AI systems and backend development.
-- Excellent for scalable and production-ready AI applications.
-- Integrates seamlessly with big data frameworks and distributed systems.
-- Supports libraries like **Deeplearning4j** for deep learning and **Weka** for machine learning.
-- Ideal for building AI-powered APIs and enterprise solutions.
-- Plays a critical role in big data processing with frameworks like **Apache Spark**.
-  
-### **Why Learn C++?**
-- Known for its speed and efficiency, making it ideal for real-time AI applications.
-- Widely used in robotics, computer vision, and gaming AI.
-- Provides granular control over memory and system resources.
-- Supports libraries like **OpenCV** for computer vision and **TensorFlow** C++ API for backend optimizations.
-- Essential for robotics and autonomous systems development using **ROS**.
-- Excels in creating performance-critical, large-scale AI systems.
-
-#### Resources (Optional)
-- [Complete Java and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
-- [Complete c++ and DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt)
 
 ---
 # Recommended Courses at aiQuest Intelligence
