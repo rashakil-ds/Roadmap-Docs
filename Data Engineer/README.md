@@ -1,6 +1,6 @@
-# Big Data Engineer Roadmap 2025/26
+# Big Data Engineer Roadmap 2026
 
-- Job Category: `Entry level`
+- Job Category: `Entry level` or `mid level`
 
 ## **Understand the Role of a Data Engineer**
 
@@ -41,62 +41,6 @@ Programming is essential for automating data workflows, building pipelines, and 
 - [Pandas Tutorials](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdsmcM817qp1L3ngU5amkak)
 - [Module - Python for Data Engineering](https://aiquest.org/courses/become-a-big-data-engineer/)
 - [Become a Python Developer](https://aiquest.org/courses/become-a-python-developer/)
-
----
-### 2nd Language: Scala for Data Engineers (Optional)
-
-Scala is an optional but valuable skill for data engineers working with distributed data systems like Apache Spark. Its concise syntax and compatibility with the JVM ecosystem make it a preferred choice for high-performance data engineering tasks.
-
----
-
-#### **Why Learn Scala?**
-
-- **Native Language for Apache Spark:** Scala is the original language of Apache Spark, offering better performance and compatibility.
-- **Functional and Object-Oriented Paradigm:** Combines functional programming features with object-oriented principles for concise and robust code.
-- **JVM Compatibility:** Integrates seamlessly with Java libraries and tools.
-
----
-
-#### **Topics to Learn**
-
-#### **1. Scala Basics**
-- Overview of Scala and its use in data engineering.
-- Setting up the Scala environment.
-- Syntax and structure: Variables, Data Types, and Control Flow.
-
-#### **2. Functional Programming in Scala**
-- Higher-order functions.
-- Immutability and working with immutable data.
-- Closures, Currying, and Partially Applied Functions.
-
-#### **3. Working with Collections**
-- Lists, Sets, Maps, and Tuples.
-- Transformation operations: `map`, `flatMap`, `filter`.
-- Reductions and Aggregations: `reduce`, `fold`, `aggregate`.
-
-#### **4. Concurrency in Scala**
-- Futures and Promises.
-- Introduction to Akka for building distributed systems.
-
-#### **5. Apache Spark with Scala**
-- Setting up Spark with Scala.
-- Working with RDDs, DataFrames, and Datasets.
-- Writing Spark jobs in Scala.
-
-#### **6. Advanced Topics**
-- Pattern Matching and Case Classes.
-- Traits and Abstract Classes.
-- Type System and Generics.
-
-### **Resources**
-
-#### Online Tutorials
-- [Scala Official Documentation](https://docs.scala-lang.org/)
-- [Scala for the Impatient (Book)](https://www.amazon.com/Scala-Impatient-Cay-S-Horstmann/dp/0134540565)
-
-#### Spark Integration
-- [Apache Spark with Scala Documentation](https://spark.apache.org/docs/latest/api/scala/index.html)
-- [Databricks Scala Tutorials](https://www.databricks.com/)
 
 ---
 ### **Step 2: Master SQL for Data Engineering**
@@ -147,7 +91,7 @@ Automates data workflows and ensures scalability of pipelines.
 
 #### **What to Learn?**
 - Directed Acyclic Graphs (DAGs) for task scheduling.
-- Task dependencies, operators, monitoring pipelines.
+- Task dependencies, operators, and monitoring pipelines.
 - Automating ETL workflows.
 
 #### **Resources:**
@@ -203,7 +147,7 @@ To handle unstructured and semi-structured data effectively, especially when rel
 
 ---
 
-### **Step 7: Cloud Platforms and BigQuery**
+### **Step 7: Cloud Platforms (AWS/AZURE/GCP) and BigQuery**
 
 #### **Why?**
 Cloud platforms are widely used for data storage, processing, and analytics.
@@ -211,12 +155,15 @@ Cloud platforms are widely used for data storage, processing, and analytics.
 #### **What to Learn?**
 - Cloud Computing Basics:
   - Types of clouds: Public, private, hybrid.
+- Azure SQL & Data Factory
+- Amazon S3 (AWS)
 - Google BigQuery:
   - Querying and analyzing datasets.
   - Integrating BigQuery with other tools.
 
 #### **Resources:**
-- [Module - GCP & Google BigQuery](https://aiquest.org/courses/become-a-big-data-engineer/)
+- [Amazon S3](https://youtu.be/A2N9OIun9dU)
+- [AZURE Data Factory](https://www.youtube.com/watch?v=8zIVOdKyoDA)
 - [BigQuery Tutorials](https://www.youtube.com/playlist?list=PLIivdWyY5sqLAbIdmcMwsxWg-w8Px34MS)
 - [Google BigQuery Documentation](https://cloud.google.com/bigquery)
 
@@ -272,9 +219,10 @@ By following this roadmap step-by-step, you’ll be well-prepared to excel as a 
 [**Search Data Engineer Jobs**](https://www.google.com/search?q=remote+big+data+engineer+jobs+near+me)
 
 ---
-# Recomended Courses at aiQuest Intelligence
-1. [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
-2. [Become a Big Data Engineer](https://aiquest.org/courses/become-a-big-data-engineer/)
+# Recommended Courses at aiQuest Intelligence
+1. [Become a Big Data Engineer](https://aiquest.org/courses/become-a-big-data-engineer/)
+2. [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
+
 
 *`Note:`* We suggest these premium courses because they are well-organized for absolute beginners and will guide you step by step, from basic to advanced levels. Always remember that `T-shaped skills` are better than `i-shaped skill`. However, for those who cannot afford these courses, don't worry! Search on YouTube using the topic names mentioned in the roadmap. You will find plenty of `free tutorials` that are also great for learning. Best of luck!
 
