@@ -19,7 +19,7 @@
 
 ---
 
-### **Step 1: Learn Programming for Data Engineering**
+### **Step 1: Python for Data Engineers**
 
 #### **Why?**
 Programming is essential for automating data workflows, building pipelines, and integrating tools.
