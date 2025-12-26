@@ -46,8 +46,8 @@
 
 
 ### **Resources**
-- [A-Z Linear Algebra & Calculus for AI & Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw)
 - [Complete Applied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
+- [A-Z Linear Algebra & Calculus for AI & Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw)
 - Practice using Python (`NumPy`, `SciPy`, and `statsmodels`).
 -------------------------------------------------
 
@@ -60,7 +60,7 @@
 
 ### **What to Learn?**
 - **Python Basics**
-  - Variables, data types, loops, conditionals, functions, and OOPs.
+  - Variables, data types, loops, conditionals, functions, error handling, and OOPs.
 - **Libraries**
   - **NumPy:** For numerical computations.
   - **Pandas & Polars:** For data manipulation (DataFrames, cleaning data, handling datasets).
@@ -93,7 +93,7 @@
 
 -------------------------------------------------------
 
-## **Step 3: Machine Learning**
+## **Step 3: Statistical Machine Learning**
 
 ### **Why Learn Machine Learning?**
 - Key for building predictive models and solving real-world problems.
@@ -114,7 +114,7 @@
   - Ensemble methods (Boosting, Bagging).
   - Regularizations
   - Data Sampling Methods
-  - Gradient Descents
+  - Gradient Descent
   - Hyperparameter tuning
   - Cross-validation.
 
@@ -168,26 +168,8 @@
 - [Power BI Tutorials](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys)
 - [PowerBi, Tableau/Looker Studio Module](https://aiquest.org/courses/data-analysis-specialization/)
 
------------------------------------------------
-### **Step 6: Learn GitHub**
-- GitHub is a crucial platform for version control and collaboration.
-- Enables you to showcase your projects and build a portfolio.
-- Facilitates teamwork on data science projects.
-
-### **What to Learn?**
-- **Git Basics:**
-  - Version control concepts, repositories, branches, commits, pull requests.
-- **GitHub Skills:**
-  - Hosting projects, collaboration workflows, managing issues.
-- **Best Practices:**
-  - Writing READMEs, structuring repositories, using `.gitignore` files.
-
-### **Resources**
-- [Complete GitHub for Data Scientists](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
-- Use GitHub to practice hosting Python, SQL, and machine learning projects.
-
 ---
-## **Step 7: SQL**
+## **Step 6: SQL**
 
 ### **Why Learn SQL?**
 - Essential for querying, extracting, and joining data from relational databases.
@@ -205,8 +187,35 @@
 - Tools like MySQL Workbench, SQLite, or PostgreSQL.
   
 ---------------------------------------------
+## **Step 7: Cloud Platforms (Pick One)**
+- AWS SageMaker
+- Azure Machine Learning
+- Google Vertex AI
+  
+#### Data Management
+- BigQuery / Redshift / Snowflake
+- PostgreSQL / MySQL / SQL Server
 
-## **Step 8: Projects**
+-----------------------------------------------
+## **Step 8: Learn GitHub**
+- GitHub is a crucial platform for version control and collaboration.
+- Enables you to showcase your projects and build a portfolio.
+- Facilitates teamwork on data science projects.
+
+### **What to Learn?**
+- **Git Basics:**
+  - Version control concepts, repositories, branches, commits, pull requests.
+- **GitHub Skills:**
+  - Hosting projects, collaboration workflows, managing issues.
+- **Best Practices:**
+  - Writing READMEs, structuring repositories, using `.gitignore` files.
+
+### **Resources**
+- [Complete GitHub for Data Scientists](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
+- Use GitHub to practice hosting Python, SQL, and machine learning projects.
+
+
+## **Step 9: Projects**
 
 ### **Why Work on Projects?**
 - Hands-on experience to apply all the skills learned.
