@@ -1,4 +1,4 @@
-# AI Engineer Roadmap 2025/26
+# AI Engineer Roadmap 2026
 
 - Job Category: `High`
 - Best for `Software Engineers`, `Data Scientists`, and `Robotics Enthusiasts`.
@@ -26,21 +26,23 @@
 ## **Step 1: Programming Fundamentals (Python)**
 
 ### **Why Learn Python?**
-- AI Engineers need a strong programming foundation for implementing AI models and systems.
+- Python is the primary programming language for machine learning and AI.
+- Supports libraries and frameworks for ML, deep learning, and data processing.
 
 ### **What to Learn?**
-- **Python Basics:**
+- **Python Basics**
   - Variables, data types, loops, conditionals, functions, error handling, debugging, and OOPs.
-- **Libraries:**
-  - **NumPy:** Numerical computations.
-  - **Pandas & Polars:** Data manipulation and cleaning.
-  - **Matplotlib/Seaborn/Plotly:** Data visualization.
+- **Libraries**
+  - **NumPy:** For numerical computations.
+  - **Pandas & Polars:** For data manipulation (DataFrames, cleaning data, handling datasets).
+  - **Matplotlib/Seaborn:** For creating visualizations.
 
 ### **Resources**
 - [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
 - [Python Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V)
+- [For Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
 - [Learn Pandas](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdsmcM817qp1L3ngU5amkak)
-- [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
+- Practice with Python datasets on Kaggle or public repositories.
 
 -----------------------------------------------
 
@@ -93,22 +95,23 @@
 ## **Step 4: Deep Learning**
 
 ### **Why Learn Deep Learning?**
-- Fundamental for advanced AI applications like NLP, Computer Vision, and Generative AI.
+- Powers advanced AI applications such as image recognition, NLP, and generative models.
 
 ### **What to Learn?**
-- **Basics:**
-  - Neural Networks, Activation Functions, Backpropagation, Gradient Descent.
-- **Architectures:**
-  - CNNs (images), RNNs (sequences), Transformers (NLP tasks).
+- **Basics:** Neural Networks (Perceptron, Activation functions, Feedforward, Backpropagation).
+- **NLP:** RNN, LSTM, GRU (sequences), Transformers (BERT, DistilBERT).
+- **Vision** CNNs, Yolo, Faster R-CNN, ViT
 - **Advanced Topics:**
-  - Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs).
-  - Attention Mechanisms, Transfer Learning.
-- **Frameworks:** TensorFlow, PyTorch.
+  - VAEs, GANs, GPTs, T5.
+  - Transfer Learning, Fine-tuning.
+  - Optimizers, Regularization.
+  - Attention Mechanisms.
+- **Frameworks:** TensorFlow, Keras, PyTorch.
 
 ### **Resources**
+- [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
 - [TensorFlow Library:](https://www.tensorflow.org/tutorials) For deep learning & AI.
 - [PyTorch Library:](https://pytorch.org/tutorials/beginner/basics/intro.html) For deep learning & AI.
-- [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb)
 - [Another DL Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Another DL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
 - [Basic to Advanced Deep Learning](https://aiquest.org/courses/deep-learning-and-generative-ai/)
@@ -150,7 +153,8 @@
 
 ---
 
-## **Step 07: Generative AI with AI Agent**
+## **Step 07: Generative AI and Agentic AI**
+
 ### Why Learn Generative AI with Agents?
 - Generative AI powers state-of-the-art applications like chatbots, image generation, summarization, and code generation.
 - Agentic AI systems (e.g., AutoGPT, BabyAGI) take GenAI to the next level by **autonomously planning, reasoning, and executing tasks**.
@@ -183,8 +187,8 @@
 
 #### 5. **Agentic AI Concepts**
 - Planning, Tool-Usage, Task Decomposition
-- Tools: AutoGPT, BabyAGI, LangGraph
-- Building multi-step autonomous agents with LangChain Agents or OpenAI Function Calling
+- Tools: AutoGPT, BabyAGI, LangGraph, CrewAI
+- Building multi-step autonomous agents with CrewAI or OpenAI Function Calling
 
 ---
 
@@ -271,7 +275,7 @@
 - **Git Basics:**
   - Version control concepts, repositories, branches, commits, pull requests.
 - **GitHub Skills:**
-  - Hosting projects, collaboration workflows, managing issues.
+  - Hosting projects, collaboration workflows, and managing issues.
 - **Best Practices:**
   - Writing READMEs, structuring repositories, using `.gitignore` files.
 
@@ -279,26 +283,10 @@
 - [Complete GitHub for AI Engineers](https://www.youtube.com/playlist?list=PLKdU0fuY4OFcK__Q5tjqZY5mSx_u7ghUx)
 - Use GitHub to practice hosting Python, SQL, and machine learning projects.
 
------------------------------------------------
-## **Step 10: SQL**
-
-### **Why Learn SQL?**
-- Essential for querying, extracting, and joining data from relational databases.
-- Used to preprocess and prepare data before modeling.
-
-### **What to Learn?**
-- Basics: SELECT, INSERT, UPDATE, DELETE.
-- Intermediate: Joins (INNER, LEFT, RIGHT, FULL), subqueries.
-- Advanced: Window functions, CTEs (Common Table Expressions), and query optimization.
-
-### **Resources**
-- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
-- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
-- Tools like MySQL Workbench, SQLite, or PostgreSQL.
 
 ---
 
-## **Step 11: MLOps and AI Deployment**
+## **Step 10: MLOps and AI Deployment**
 
 ### **Why Learn MLOps?**
 - To ensure AI systems are scalable, maintainable, and production-ready.
@@ -316,6 +304,23 @@
 ### **Resources**
 - [Deploying AI Systems](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdPhZ4k_hu7Rv3sjyi3IPtu)
 - [MLOps on AWS](https://www.youtube.com/playlist?list=PLmPJQXJiMoUWFW2JxRSAfhcsQ0Cr9qbv-)
+
+---------------------------------
+## **Step 11: SQL**
+
+### **Why Learn SQL?**
+- Essential for querying, extracting, and joining data from relational databases.
+- Used to preprocess and prepare data before modeling.
+
+### **What to Learn?**
+- Basics: SELECT, INSERT, UPDATE, DELETE.
+- Intermediate: Joins (INNER, LEFT, RIGHT, FULL), subqueries.
+- Advanced: Window functions, CTEs (Common Table Expressions), and query optimization.
+
+### **Resources**
+- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
+- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
+- Tools like MySQL Workbench, SQLite, or PostgreSQL.
 
 ---
 
