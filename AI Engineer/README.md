@@ -286,7 +286,7 @@
 
 ---
 
-## **Step 10: MLOps and AI Deployment**
+## **Step 10: MLOps and FastAPI for AI Deployment**
 
 ### **Why Learn MLOps?**
 - To ensure AI systems are scalable, maintainable, and production-ready.
@@ -295,13 +295,14 @@
 - **Tools and Frameworks:**
   - MLflow, DVC, Kubeflow.
 - **Deployment:**
-  - Flask, FastAPI, TensorFlow Serving, TorchServe.
+  - FastAPI, TensorFlow Serving, TorchServe.
 - **Cloud Platforms:**
   - AWS SageMaker, Google Vertex AI, Azure ML.
 - **Monitoring and Retraining:**
   - Drift detection, feedback loops, CI/CD pipelines.
 
 ### **Resources**
+- [FastAPI](https://www.youtube.com/playlist?list=PLKdU0fuY4OFeNGB1m9pbvPukND6NhjK4L)
 - [Deploying AI Systems](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdPhZ4k_hu7Rv3sjyi3IPtu)
 - [MLOps on AWS](https://www.youtube.com/playlist?list=PLmPJQXJiMoUWFW2JxRSAfhcsQ0Cr9qbv-)
 
