@@ -46,7 +46,7 @@
 
 
 ### **Resources**
-- [Complete Applied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
+- [Complete Applied Statistics for Data Scientists](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdom1IbG2HDJdZtga5PFjOO)
 - [A-Z Linear Algebra & Calculus for AI & Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw)
 - Practice using Python (`NumPy`, `SciPy`, and `statsmodels`).
 -------------------------------------------------
