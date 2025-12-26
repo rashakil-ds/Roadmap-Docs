@@ -214,7 +214,7 @@
 ### YouTube Channel
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
 - [Sebastian Raschka](https://youtube.com/@sebastianraschka)
-- [Study Mart](https://www.youtube.com/playlist?list=PLKdU0fuY4OFeORaFJlz7D4XHzMupso9a9)
+- [Study Mart](https://www.youtube.com/studymart)
 ---
 
 ### Project Ideas
