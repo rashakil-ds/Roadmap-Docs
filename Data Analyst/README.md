@@ -1,7 +1,7 @@
 # Data Analyst Roadmap 2025/26
-- Job Category: `Entry level` or `Mid Level`
+- Job Category: `Entry level` or `Mid Level.`
 
-## **Understand the Role of Data Analyst**
+## **Understand the Role of a Data Analyst**
 
 ### **What does a Data Analyst do?**
 - Collect, clean, and analyze data to provide actionable insights.
@@ -15,9 +15,128 @@
 
 [Must Watch This Video!](https://youtu.be/pR3Hi0lJSTo)
 
--------------------------------------------------
+-----------------------------------------------
 
-## **Step 01: Python & Python Libraries**
+## **Step 01: Statistics**
+
+### **Why Learn Statistics?**
+- Provides the foundation for understanding data, patterns, and trends.
+- Core skills for hypothesis testing and decision-making.
+
+### **What to Learn?**
+- Descriptive Statistics: Mean, median, mode, variance, standard deviation.
+- Inferential Statistics: Hypothesis testing, confidence intervals, t-tests.
+- Probability: Probability distributions, Bayes' theorem.
+- Data Distributions: Different kinds of distributions.
+- Correlation vs. Causation: Understand relationships between variables.
+
+### **Resources**
+- [Statistics for Data Analytics, Data Science & AI](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdom1IbG2HDJdZtga5PFjOO).
+- [Complete Statistics for Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFeZCSF6aax3Uvwl6nWLIdSs)
+- [Statistics Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
+- Practice using Python (NumPy and SciPy) or Excel.
+
+-------------------------------------------------------
+
+## **Step 02: Excel**
+
+### **Why Learn Excel?**
+- A widely used tool for quick data analysis and reporting.
+- Versatile for creating dashboards and handling structured data.
+
+### **What to Learn?**
+- Basics: Data cleaning, sorting, and filtering.
+- Advanced: Pivot tables, VLOOKUP, HLOOKUP, and conditional formatting.
+- Formulas: SUM, AVERAGE, IF, COUNTIF, etc.
+- Data Analysis ToolPak: Regression, histograms, and other statistical tools.
+
+### **Resources**
+- [Microsoft Excel for Data Analysis](https://www.youtube.com/watch?v=OOWAk2aLEfk)
+- [Excel Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
+- Practice creating small dashboards and reports.
+
+
+------------------------------------------------
+
+## **Step 03: Power BI**
+
+### **Why Learn Power BI?**
+- A powerful business intelligence tool for creating dynamic dashboards and reports.
+- Helps in visualizing and sharing insights interactively.
+
+### **What to Learn?**
+- Importing data from multiple sources.
+- Building and customizing dashboards.
+- Creating calculated columns and measures (using DAX).
+- Designing interactive reports with filters and slicers.
+
+### **Resources**
+- [Power BI's tutorials](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys).
+- [PowerBi Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
+- Practice by replicating real-world dashboards using sample datasets.
+
+------------------------------------------
+
+## **Step 04: Tableau / Data Studio**
+
+### **Why Learn Tableau or Data Studio?**
+- Both are user-friendly visualization tools widely used for creating impactful reports.
+- Google Data Studio integrates well with Google’s ecosystem (Sheets, BigQuery).
+
+### **What to Learn?**
+- Tableau: Data blending, creating charts, and dashboards.
+- Data Studio: Connecting Google Sheets, customizing reports, and sharing insights.
+- Advanced: Adding calculated fields, and creating interactive visuals.
+
+### **Resources**
+- [Tableau](https://youtu.be/K3pXnbniUcM).
+- [Google Data Studio](https://www.youtube.com/playlist?list=PL6_D9USWkG1BDcnnbw4gfolY0zms3svSi).
+- [Tableau/Looker Studio Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
+
+---------------------------------------------
+
+## **Step 05: Statistical Machine Learning for Advanced Analytics (Recommended)**
+
+### **Why Learn Statistical Machine Learning?**
+- To understand predictive analytics, regression, and time series forecasting.
+- Provides a statistical foundation for machine learning models.
+
+### **What to Learn?**
+- **Regression Analysis**:
+  - Linear, Non-Linear, and Polynomial Regression.
+  - Multivariate Regression techniques.
+- **Time Series Analysis**:
+  - Forecasting trends and seasonality.
+  - ARIMA models and other time series techniques.
+- **Classification**:
+  - Logistic Regression.
+  - Decision Tree, Random Forest, SVM, etc.
+
+### **Resources**
+- [Statistical Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
+- Practice with Python's `sklearn` and `statsmodels` libraries.
+
+-----------------------------------------------
+## **Step 06: SQL**
+
+### **Why Learn SQL?**
+- Essential for querying and extracting data from databases.
+- Most companies store their data in relational databases like MySQL, PostgreSQL, or SQL Server.
+
+### **What to Learn?**
+- Basics: SELECT, INSERT, UPDATE, DELETE.
+- Intermediate: Joins (INNER, LEFT, RIGHT, FULL), subqueries.
+- Advanced: Window functions, CTEs (Common Table Expressions), and optimizing queries.
+
+### **Resources**
+- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
+- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
+- [SQL Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
+- Tools like MySQL Workbench, SQLite, or PostgreSQL.
+
+-------------------------------------------
+
+## **Step 07: Python & Python Libraries**
 
 ### **Why Learn Python?**
 - Python is the most versatile language for data analysis and manipulation.
@@ -58,126 +177,7 @@
 #### **Resources**
 - [Complete Applied Statistics for Data Scientists with R](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX)
 
------------------------------------------------
-
-## **Step 02: Statistics**
-
-### **Why Learn Statistics?**
-- Provides the foundation for understanding data, patterns, and trends.
-- Core skills for hypothesis testing and decision-making.
-
-### **What to Learn?**
-- Descriptive Statistics: Mean, median, mode, variance, standard deviation.
-- Inferential Statistics: Hypothesis testing, confidence intervals, t-tests.
-- Probability: Probability distributions, Bayes' theorem.
-- Data Distributions: Different kinds of distributions.
-- Correlation vs. Causation: Understand relationships between variables.
-
-### **Resources**
-- [Statistics for Data Analytics, Data Science & AI](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdom1IbG2HDJdZtga5PFjOO).
-- [Complete Statistics for Data Science](https://www.youtube.com/playlist?list=PLKdU0fuY4OFeZCSF6aax3Uvwl6nWLIdSs)
-- [Statistics Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
-- Practice using Python (NumPy and SciPy) or Excel.
-
--------------------------------------------------------
-
-## **Step 03: Excel**
-
-### **Why Learn Excel?**
-- A widely used tool for quick data analysis and reporting.
-- Versatile for creating dashboards and handling structured data.
-
-### **What to Learn?**
-- Basics: Data cleaning, sorting, and filtering.
-- Advanced: Pivot tables, VLOOKUP, HLOOKUP, and conditional formatting.
-- Formulas: SUM, AVERAGE, IF, COUNTIF, etc.
-- Data Analysis ToolPak: Regression, histograms, and other statistical tools.
-
-### **Resources**
-- [Microsoft Excel for Data Analysis](https://www.youtube.com/watch?v=OOWAk2aLEfk)
-- [Excel Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
-- Practice creating small dashboards and reports.
-
-
-------------------------------------------------
-
-## **Step 04: Power BI**
-
-### **Why Learn Power BI?**
-- A powerful business intelligence tool for creating dynamic dashboards and reports.
-- Helps in visualizing and sharing insights interactively.
-
-### **What to Learn?**
-- Importing data from multiple sources.
-- Building and customizing dashboards.
-- Creating calculated columns and measures (using DAX).
-- Designing interactive reports with filters and slicers.
-
-### **Resources**
-- [Power BI's tutorials](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys).
-- [PowerBi Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
-- Practice by replicating real-world dashboards using sample datasets.
-
-------------------------------------------
-
-## **Step 05: Tableau / Data Studio**
-
-### **Why Learn Tableau or Data Studio?**
-- Both are user-friendly visualization tools widely used for creating impactful reports.
-- Google Data Studio integrates well with Google’s ecosystem (Sheets, BigQuery).
-
-### **What to Learn?**
-- Tableau: Data blending, creating charts, and dashboards.
-- Data Studio: Connecting Google Sheets, customizing reports, and sharing insights.
-- Advanced: Adding calculated fields, and creating interactive visuals.
-
-### **Resources**
-- [Tableau](https://youtu.be/K3pXnbniUcM).
-- [Google Data Studio](https://www.youtube.com/playlist?list=PL6_D9USWkG1BDcnnbw4gfolY0zms3svSi).
-- [Tableau/Looker Studio Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
-
----------------------------------------------
-
-## **Step 06: Statistical Machine Learning for Advanced Analytics (Recommended)**
-
-### **Why Learn Statistical Machine Learning?**
-- To understand predictive analytics, regression, and time series forecasting.
-- Provides a statistical foundation for machine learning models.
-
-### **What to Learn?**
-- **Regression Analysis**:
-  - Linear, Non-Linear, and Polynomial Regression.
-  - Multivariate Regression techniques.
-- **Time Series Analysis**:
-  - Forecasting trends and seasonality.
-  - ARIMA models and other time series techniques.
-- **Classification**:
-  - Logistic Regression.
-  - Decision Tree, Random Forest, SVM, etc.
-
-### **Resources**
-- [Statistical Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
-- Practice with Python's `sklearn` and `statsmodels` libraries.
-
------------------------------------------------
-## **Step 07: SQL**
-
-### **Why Learn SQL?**
-- Essential for querying and extracting data from databases.
-- Most companies store their data in relational databases like MySQL, PostgreSQL, or SQL Server.
-
-### **What to Learn?**
-- Basics: SELECT, INSERT, UPDATE, DELETE.
-- Intermediate: Joins (INNER, LEFT, RIGHT, FULL), subqueries.
-- Advanced: Window functions, CTEs (Common Table Expressions), and optimizing queries.
-
-### **Resources**
-- [SQL Learning Playlist](https://www.youtube.com/playlist?list=PLKdU0fuY4OFduhpa23Wy5fRv6SGxp2ho0)
-- [Programming with Mosh - SQL Playlist](https://youtu.be/7S_tz1z_5bA)
-- [SQL Module of Data Analysis Specialization](https://aiquest.org/courses/data-analysis-specialization/)
-- Tools like MySQL Workbench, SQLite, or PostgreSQL.
-
------------------------------------------------------------
+----------
 
 ## **Step 08: Projects**
 
