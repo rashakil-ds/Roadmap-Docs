@@ -17,7 +17,7 @@
 
 -----------------------------------------------
 
-## **Step 01: Statistics**
+## **Step 01: Statistics for Data Analysts**
 
 ### **Why Learn Statistics?**
 - Provides the foundation for understanding data, patterns, and trends.
@@ -38,11 +38,14 @@
 
 -------------------------------------------------------
 
-## **Step 02: Excel**
+## **Step 02: MS Excel for Data Cleaning and Basic Analysis**
 
 ### **Why Learn Excel?**
 - A widely used tool for quick data analysis and reporting.
 - Versatile for creating dashboards and handling structured data.
+- Quick data exploration (filters, sorting, formulas)
+- Pivot Tables (still insanely powerful)
+- Basic data cleaning (especially with Power Query)
 
 ### **What to Learn?**
 - Basics: Data cleaning, sorting, and filtering.
@@ -62,6 +65,7 @@
 
 ### **Why Learn Power BI?**
 - A powerful business intelligence tool for creating dynamic dashboards and reports.
+- Real-time analysis (DirectQuery / streaming)
 - Helps in visualizing and sharing insights interactively.
 
 ### **What to Learn?**
@@ -77,7 +81,7 @@
 
 ------------------------------------------
 
-## **Step 04: Tableau / Data Studio**
+## **Step 04: Tableau / Data Studio (extra skill)**
 
 ### **Why Learn Tableau or Data Studio?**
 - Both are user-friendly visualization tools widely used for creating impactful reports.
@@ -86,7 +90,7 @@
 ### **What to Learn?**
 - Tableau: Data blending, creating charts, and dashboards.
 - Data Studio: Connecting Google Sheets, customizing reports, and sharing insights.
-- Advanced: Adding calculated fields, and creating interactive visuals.
+- Advanced: Adding calculated fields and creating interactive visuals.
 
 ### **Resources**
 - [Tableau](https://youtu.be/K3pXnbniUcM).
@@ -136,12 +140,16 @@
 
 -------------------------------------------
 
-## **Step 07: Python & Python Libraries**
+## Step 07: Python & Python Libraries for Data Analyst
 
-### **Why Learn Python?**
-- Python is the most versatile language for data analysis and manipulation.
-- Widely used in data analytics for automating tasks, manipulating data, and creating visualizations.
-- Also used for **Statistical Machine Learning** with the `sklearn`, `SciPy` and `statsmodels` library.
+### Why Learn Python?
+- When data exceeds Excel or BI tool limits.
+- When analysis needs to be automated and repeatable.
+- When working with large files, multiple datasets, or APIs.
+- When transitioning from Data Analyst to ML / AI roles.
+- Python is the most flexible and scalable language for data analysis and manipulation.
+- Widely used for data cleaning, transformation, and visualization.
+- Enables statistical analysis and predictive modeling.
 
 ### **What to Learn?**
 - **Python Basics**
@@ -229,17 +237,17 @@
 By following this roadmap step-by-step, you’ll gain the skills needed to succeed as a `Data Analyst` or `BI Analyst`. Let me know if you’d like additional resources or specific examples! Just write an `email` to me.
 
 ---
-# Recomended Courses at aiQuest Intelligence
+# Recommended Courses at aiQuest Intelligence
 2. [SQL, Statistics & Data Analysis Tools](https://aiquest.org/courses/data-analysis-specialization/)
 3. [Basic to Advanced Python](https://aiquest.org/courses/become-a-python-developer/)
 4. [Machine Learning & Data Science Core Concepts](https://aiquest.org/courses/data-science-machine-learning/)
 
-*`Note:`* We suggest these premium courses because they are well-organized for absolute beginners and will guide you step by step, from basic to advanced levels. Always remember that `T-shaped skills` are better than `i-shaped skill`. However, for those who cannot afford these courses, don't worry! Search on YouTube using the topic names mentioned in the roadmap. You will find plenty of `free tutorials` that are also great for learning. Best of luck!
+*` Note:`* We suggest these premium courses because they are well-organized for absolute beginners and will guide you step by step, from basic to advanced levels. Always remember that `T-shaped skills` are better than `i-shaped skill`. However, for those who cannot afford these courses, don't worry! Search on YouTube using the topic names mentioned in the roadmap. You will find plenty of `free tutorials` that are also great for learning. Best of luck!
 
 ## About the Author
 **Rashedul Alam Shakil**  
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kmrashedulalam/)  
-- 🎓 Industry Expert | Educator
+- 🎓 Industry Expert | Data Science Educator
 
 # Other Roadmaps
 - [Read Now](https://github.com/rashakil-ds/Roadmap-Docs)
