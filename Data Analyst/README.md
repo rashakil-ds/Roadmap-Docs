@@ -1,4 +1,4 @@
-# Data Analyst Roadmap 2026
+# Data Analyst Roadmap 2026/27
 - Job Category: `Entry level` or `Mid Level.`
 
 ## **Understand the Role of a Data Analyst**
